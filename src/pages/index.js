@@ -23,7 +23,7 @@ export default function Home({ data }) {
       
       {data.item1.edges.map(({ node }) => (
           <div id="w-node-6f651d7f57c9-c67b1059" className="divgrid">
-            <img srcSet={imagetest} loading="lazy" alt="" className="imagegrid"/>
+            <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
             <div className="gridcontent">
               <div className="categblock">
                 <div className="div-tag">Categoría</div>
@@ -38,8 +38,9 @@ export default function Home({ data }) {
        ))}
 
       {data.item2.edges.map(({ node }) => (
+          
           <div id="w-node-0e5382ecacb1-c67b1059" className="divgrid">
-            <img srcSet={imagetest} loading="lazy" alt="" className="imagegrid"/>
+            <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
             <div className="gridcontent">
               <div className="categblock">
                 <div className="div-tag">Categoría</div>
@@ -51,11 +52,12 @@ export default function Home({ data }) {
               </div>
             </div>
           </div>
+          
        ))}
 
-      {data.item2.edges.map(({ node }) => (
+      {data.item3.edges.map(({ node }) => (
           <div id="w-node-b206073a141c-c67b1059" className="divgrid">
-            <img srcSet={imagetest} loading="lazy" alt="" className="imagegrid"/>
+            <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
             <div className="gridcontent">
               <div className="categblock">
                 <div className="div-tag">Categoría</div>
@@ -69,9 +71,9 @@ export default function Home({ data }) {
           </div>
        ))}
 
-       {data.item1.edges.map(({ node }) => (
+       {data.item4.edges.map(({ node }) => (
           <div id="w-node-436f8c51704c-c67b1059" className="divgrid">
-            <img srcSet={imagetest} loading="lazy" alt="" className="imagegrid"/>
+            <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
             <div className="gridcontent">
               <div className="categblock">
                 <div className="div-tag">Categoría</div>
@@ -111,6 +113,10 @@ export const query = graphql`
         frontmatter {
           date
           title
+          featuredimage
+        }
+        fields{
+          slug
         }
       }
     }
@@ -121,6 +127,38 @@ export const query = graphql`
         frontmatter {
           date
           title
+          featuredimage
+        }
+        fields{
+          slug
+        }
+      }
+    }
+  }
+  item3: allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, limit: 1, skip: 2) {
+    edges {
+      node {
+        frontmatter {
+          date
+          title
+          featuredimage
+        }
+        fields{
+          slug
+        }
+      }
+    }
+  }
+  item4: allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, limit: 1, skip: 3) {
+    edges {
+      node {
+        frontmatter {
+          date
+          title
+          featuredimage
+        }
+        fields{
+          slug
         }
       }
     }
