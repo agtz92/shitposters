@@ -27,4 +27,4 @@ collections:
     slug: "{{slug}}"
     fields:
       - {widget: string, name: categoria, label: Categoria, required: true, hint: Categoría general ej. Entretenimiento, Musica, Arte, etc }
-      - {label: "Imagen de la Materia", name: "categoryimage", widget: image}
+      - {label: "Imagen de la Categoria", name: "categoryimage", widget: image}
