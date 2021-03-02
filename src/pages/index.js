@@ -22,7 +22,8 @@ export default function Home({ data }) {
     <div className="gridsection">
       
       {data.item1.edges.map(({ node }) => (
-          <div id="w-node-6f651d7f57c9-c67b1059" className="divgrid">
+          
+          <Link id="w-node-_530590b4-77ef-e9bc-deb9-6f651d7f57c9-c67b1059" to={node.fields.slug} className="divgrid w-inline-block">
             <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
             <div className="gridcontent">
               <div className="categblock">
@@ -34,12 +35,13 @@ export default function Home({ data }) {
                 <div className="fecha">{node.frontmatter.date}</div>
               </div>
             </div>
-          </div>
+          </Link>
+          
        ))}
 
       {data.item2.edges.map(({ node }) => (
           
-          <div id="w-node-0e5382ecacb1-c67b1059" className="divgrid">
+          <Link id="w-node-_33bb8955-93ca-ed05-9390-0e5382ecacb1-c67b1059" to={node.fields.slug} class="divgrid w-inline-block">
             <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
             <div className="gridcontent">
               <div className="categblock">
@@ -51,12 +53,12 @@ export default function Home({ data }) {
                 <div className="fecha">{node.frontmatter.date}</div>
               </div>
             </div>
-          </div>
+          </Link>
           
        ))}
 
       {data.item3.edges.map(({ node }) => (
-          <div id="w-node-b206073a141c-c67b1059" className="divgrid">
+          <Link id="w-node-ac80eb26-6fab-fea2-291b-b206073a141c-c67b1059" to={node.fields.slug} class="divgrid w-inline-block">
             <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
             <div className="gridcontent">
               <div className="categblock">
@@ -68,11 +70,11 @@ export default function Home({ data }) {
                 <div className="fecha">{node.frontmatter.date}</div>
               </div>
             </div>
-          </div>
+          </Link>
        ))}
 
        {data.item4.edges.map(({ node }) => (
-          <div id="w-node-436f8c51704c-c67b1059" className="divgrid">
+          <Link id="w-node-_4a979408-d186-ce14-87f8-436f8c51704c-c67b1059" to={node.fields.slug} class="divgrid w-inline-block">
             <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
             <div className="gridcontent">
               <div className="categblock">
@@ -84,7 +86,7 @@ export default function Home({ data }) {
                 <div className="fecha">{node.frontmatter.date}</div>
               </div>
             </div>
-          </div>
+          </Link>
        ))}
     
     
