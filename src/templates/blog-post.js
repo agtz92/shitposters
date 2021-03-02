@@ -21,6 +21,9 @@ export const query = graphql`
       frontmatter {
         title
       }
+      fields{
+          slug
+      }
     }
   }
 `

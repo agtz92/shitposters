@@ -27,7 +27,7 @@ export default function Home({ data }) {
             <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
             <div className="gridcontent">
               <div className="categblock">
-                <div className="div-tag">Categoría</div>
+                <div className="div-tag">{node.frontmatter.categoria}</div>
               </div>
               <Heading color="color1" alignment="left">{node.frontmatter.title}</Heading>
               <div className="autdate">
@@ -45,7 +45,7 @@ export default function Home({ data }) {
             <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
             <div className="gridcontent">
               <div className="categblock">
-                <div className="div-tag">Categoría</div>
+                <div className="div-tag">{node.frontmatter.categoria}</div>
               </div>
               <Heading color="color1" alignment="left">{node.frontmatter.title}</Heading>
               <div className="autdate">
@@ -62,7 +62,7 @@ export default function Home({ data }) {
             <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
             <div className="gridcontent">
               <div className="categblock">
-                <div className="div-tag">Categoría</div>
+                <div className="div-tag">{node.frontmatter.categoria}</div>
               </div>
               <Heading color="color1" alignment="left">{node.frontmatter.title}</Heading>
               <div className="autdate">
@@ -78,7 +78,7 @@ export default function Home({ data }) {
             <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
             <div className="gridcontent">
               <div className="categblock">
-                <div className="div-tag">Categoría</div>
+                <div className="div-tag">{node.frontmatter.categoria}</div>
               </div>
               <Heading color="color1" alignment="left">{node.frontmatter.title}</Heading>
               <div className="autdate">
@@ -95,7 +95,9 @@ export default function Home({ data }) {
   </div>
   <div className="_5050-holder">
     <div className="_5050-div">
-    <PostBlockLarge img={imagetest} title="ShitPosters" description="LOREM IPSUM DESCRIPCION" categoria="Categoria"/>  
+      {data.item4.edges.map(({ node }) => (
+    <Link to={node.fields.slug}><PostBlockLarge img={node.frontmatter.featuredimage} title={node.frontmatter.title}description="LOREM IPSUM DESCRIPCION" categoria={node.frontmatter.categoria}/></Link>  
+    ))}
     </div>
     <div className="_5050-div">
       <h1>Heading</h1>
@@ -116,6 +118,7 @@ export const query = graphql`
           date
           title
           featuredimage
+          categoria
         }
         fields{
           slug
@@ -130,6 +133,7 @@ export const query = graphql`
           date
           title
           featuredimage
+          categoria
         }
         fields{
           slug
@@ -144,6 +148,7 @@ export const query = graphql`
           date
           title
           featuredimage
+          categoria
         }
         fields{
           slug
@@ -158,6 +163,22 @@ export const query = graphql`
           date
           title
           featuredimage
+          categoria
+        }
+        fields{
+          slug
+        }
+      }
+    }
+  }
+  item5: allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, limit: 5, skip: 4) {
+    edges {
+      node {
+        frontmatter {
+          date
+          title
+          featuredimage
+          categoria
         }
         fields{
           slug
