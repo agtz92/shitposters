@@ -20,15 +20,15 @@ export default function Footer() {
                 />
                 </Link>
                     <div>
-                    <h2 className="footer-heading">Todas las Materias</h2>
+                    <h2 className="footer-heading">Categorías</h2>
                     <ul  className="list-footer w-list-unstyled">
-                        <li ><Link  to="/categorias/preguntas-de-examen/"  className="footer-link">Preguntas de Examen</Link></li>
-                        <li ><Link  to="/categorias/espanol/"  className="footer-link">Temas resumidos de Español</Link></li>
-                        <li ><Link  to="/categorias/literatura/"  className="footer-link">Temas resumidos de Literatura</Link></li>
-                        <li ><Link  to="/categorias/geografia/"  className="footer-link">Temas resumidos de Geografía</Link></li>
-                        <li ><Link  to="/categorias/historia-universal/"  className="footer-link">Temas resumidos de Historia Universal</Link></li>
-                        <li ><Link  to="/categorias/historia-de-mexico/"  className="footer-link">Temas resumidos de Historia de México</Link></li>
-                        <li ><Link  to="/categorias/biologia/"  className="footer-link">Temas resumidos de Biología</Link></li>
+                        <li ><Link  to="/categorias/preguntas-de-examen/"  className="footer-link">Cine</Link></li>
+                        <li ><Link  to="/categorias/espanol/"  className="footer-link">Música</Link></li>
+                        <li ><Link  to="/categorias/literatura/"  className="footer-link">Libros</Link></li>
+                        <li ><Link  to="/categorias/geografia/"  className="footer-link">Fashion</Link></li>
+                        <li ><Link  to="/categorias/historia-universal/"  className="footer-link">Tendencias</Link></li>
+                        <li ><Link  to="/categorias/historia-de-mexico/"  className="footer-link">Memes</Link></li>
+                        <li ><Link  to="/categorias/biologia/"  className="footer-link">Viajes</Link></li>
                     </ul>
                     </div>
                     <div>
