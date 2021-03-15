@@ -2,6 +2,7 @@ const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 const _ = require("lodash")
 const tagTemplate = path.resolve("src/templates/tags.js")
+const categTemplate = path.resolve("src/templates/categorias.js")
 
 //OnCreateNode
 exports.onCreateNode = ({ node, getNode, actions }) => {
@@ -41,6 +42,11 @@ exports.createPages = async ({ graphql, actions }) => {
           fieldValue
         }
       }
+      categoriesGroup: allMarkdownRemark(limit: 2000) {
+        group(field: frontmatter___categoria) {
+          fieldValue
+        }
+      }
     }
   `)
  // handle errors
@@ -72,6 +78,19 @@ exports.createPages = async ({ graphql, actions }) => {
       component: tagTemplate,
       context: {
         tag: tag.fieldValue,
+      },
+    })
+  })
+  //Categorias
+  // Extract tag data from query
+  const categories = result.data.categoriesGroup.group
+  // Make tag pages
+  categories.forEach(categoria => {
+    createPage({
+      path: `/categorias/${_.kebabCase(categoria.fieldValue)}/`,
+      component: categTemplate,
+      context: {
+        categoria: categoria.fieldValue,
       },
     })
   })
