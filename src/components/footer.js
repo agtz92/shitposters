@@ -44,10 +44,11 @@ export default function Footer() {
                     <ul  className="list-footer w-list-unstyled">
                         <li><a className="footer-link" href="https://www.matmarkt.com/productos"  rel="noopener noreferrer">MatMarkt. Tapetes para todo uso</a></li>
                         <li><a className="footer-link" href="https://www.corthw.com/productos"  rel="noopener noreferrer">Cortina Hawaiana. Cortinas PVC</a></li>
+                        <li><a className="footer-link" href="https://www.antesdelexamen.com"  rel="noopener noreferrer">Bancos de preguntas UNAM</a></li>
                     </ul>
                     </div>
                 </div>
-                <div className="text-bottom-footer">Copyright © 2020 antesdelexamen.com . Todos los derechos reservados.</div>
+                <div className="text-bottom-footer">Copyright © 2020 blogdemums.com . Todos los derechos reservados.</div>
                 <div className="text-bottom-footer">En este sitio se recolectan cookies utilizados para Google Analytics</div>
                 </div>
         </footer>
