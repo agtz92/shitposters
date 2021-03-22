@@ -23,7 +23,7 @@ const TagsPage = ({
         <div>
             
             <div>
-            <Heading color="dark">Tags</Heading>
+            <Heading color="dark">Todos los tags</Heading>
             <ul>
                 {group.map(tag => (
                 <li key={tag.fieldValue}>
