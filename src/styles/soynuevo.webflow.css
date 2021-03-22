@@ -1547,7 +1547,7 @@ ul, li
 }
 .div-tag {
     background-color:#3a3a3a;
-    color:#d9b2b7;
+    color:#fff;
 }
 .parpost.light {
   color: #797979;
@@ -1565,23 +1565,23 @@ ul, li
 }
 .color1
 {
-  color: #ad8289!important;
+  color: #d80032!important;
 }
 .color2
 {
-  color: #c39ca1!important;
+  color: #edf2f4!important;
 }
 .color3
 {
-  color:#d9b2b7!important;
+  color:#ef233c!important;
 }
 .color4
 {
-  color:#edcfd1!important;
+  color:#8d99ae!important;
 }
 .color5
 {
-  color: #eee2e2!important;
+  color: #2b2d42!important;
 }
 
 .blackoverlay {
@@ -1595,22 +1595,22 @@ ul, li
 }
 .w--nav-link-open 
 {
-    background-color: #ad8289;
+    background-color: #ef233c;
 }
 .nav-link {
   color: #fff;
 }
 .nav-link:hover {
-  color: #d9b2b7;
+  color: #2b2d42;
 }
 
 .nav-link.w--current {
-  background-color: #c39ca1;
+  background-color: #2b2d42;
   color: #ffffff;
 }
 
 .navbar {
-  background-color:#ad8289;
+  background-color:#d80032;
 }
 
 .head-wrapper-post {
@@ -1665,11 +1665,11 @@ ul, li
   background-color: #f1f1f1;
 }
 .footer-heading {
-  color:#eee2e2;
+  color:#fff;
 }
 .footer {
-  background-color: #ad8289;
-  color: #eee2e2;
+  background-color: #ef233c;
+  color: #edf2f4;
 }
 .footer-flex-container {
   color: #fff;

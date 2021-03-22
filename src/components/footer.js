@@ -8,12 +8,12 @@ import logoChico from "../images/logo_small.png"
 export default function Footer() {
     
     return(
-        <footer id="footer" className="footer">
+        <footer id="footer" className="footer" >
             <div className="container w-container">
                 <div className="footer-flex-container">
                 <Link to="/"><img
                     loading="lazy"
-                    style={{width:"70px", height:"45px", paddingTop:"5px"}}
+                    style={{width:"70px", height:"70px", paddingTop:"5px"}}
                     srcSet={logoChico}
                     alt="soynuevologo"
                     className="image"

@@ -15,8 +15,10 @@
   },
   "dependencies": {
     "gatsby": "^2.26.1",
+    "gatsby-plugin-load-script": "^1.1.0",
     "gatsby-plugin-netlify-cms": "^4.9.0",
     "gatsby-plugin-sharp": "^2.13.1",
+    "gatsby-plugin-social9-socialshare": "^1.0.4",
     "gatsby-remark-images": "^3.10.0",
     "gatsby-remark-relative-images": "^2.0.2",
     "gatsby-source-filesystem": "^2.11.1",

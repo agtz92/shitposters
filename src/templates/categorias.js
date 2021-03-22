@@ -42,9 +42,8 @@ const Categorias = ({ pageContext, data }) => {
             */} 
              <Heading color="dark" alignment="center">Te podría interesar</Heading>
             
-            <div style={{padding: "10px"}} className="parpost light">antesdelexamen es una página de internet gratuita con bancos de preguntas de examen para UNAM, IPN y todas las demás universidades más importantes de México. 
-                    Tenemos bancos de preguntas por materia y por area. Bancos de preguntas Area 1, Bancos de preguntas Area 2, Bancos de preguntas area 3, Bancos de preguntas Area 4. Simulacros UNAM , IPN, 
-                    UAM, UAEM. Guía UNAM 2021, Guía IPN 2021. <br></br>Agréganos en facebook buscando @antesdelexamen</div>
+            <div style={{padding: "10px"}} className="parpost light">10datos.com es una página informativa que recopila información de
+            muchas fuentes de información. No poseemos los derechos de ninguna imagen ni contenido presentada en el sitio web.</div>
             <Link to="/categorias" ><div className="div-tag marginbottom">Ve todas las categorias</div></Link>
         </div>
         </Layout>

@@ -35,7 +35,7 @@ render(){
             <div className="divcontainernavbar">
                 <Link to="/"><img
                     loading="lazy"
-                    style={{width:"70px", height:"45px", paddingTop:"5px"}}
+                    style={{width:"45px", height:"45px", paddingTop:"5px"}}
                     srcSet={logoChico}
                     alt="soynuevologo"
                     className="image"
@@ -58,7 +58,7 @@ render(){
                     <Link to="/" className="nav-link w-nav-link w--nav-link-open" activeClassName="w--current">Inicio</Link>
                     <Link to="/categorias/" className="nav-link w-nav-link w--nav-link-open" activeClassName="w--current">Categorías</Link>
                     <Link to="/informacion/" className="nav-link w-nav-link w--nav-link-open" activeClassName="w--current">Informacion</Link>
-                    <Link to="/search/" className="nav-link w-nav-link" activeClassName="w--current">Búsqueda rápida</Link>
+                    <Link to="/search/" className="nav-link w-nav-link w--nav-link-open" activeClassName="w--current">Búsqueda rápida</Link>
                 </nav>
             </div>
         </div>
