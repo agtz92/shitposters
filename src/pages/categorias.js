@@ -9,21 +9,18 @@ import kebabCase from "lodash/kebabCase"
 
 
 
-/*const imageMapper ={
-  Español: require("../images/slider/espanol.jpg"),
-  Literatura: require("../images/slider/literatura.jpg"),
-  Geografía: require("../images/slider/geografia.jpg"),
-  HistoriaUniversal: require("../images/slider/historia.jpg"),
-  HistoriadeMéxico: require("../images/slider/historiamexico.jpg"),
-  Biología: require("../images/slider/biologia.jpg"),
-  PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg"),
-  Química: require("../images/slider/quimica.jpg"),
-  MejorescursosdepreparacionUNAMIPNUAMUAEM: require("../images/slider/cursosdepreparacion.jpg")
+  const imageMapper ={
+  Celebridades: require("../images/slider/Celebridades.jpg"),
+  Cine: require("../images/slider/Cine.jpg"),
+  Deportes: require("../images/slider/Deportes.jpg"),
+  Historia: require("../images/slider/Historia.jpg"),
+  Musica: require("../images/slider/Musica.jpg"),
+  Naturaleza: require("../images/slider/Naturaleza.jpg"),
+  Random: require("../images/slider/Random.jpg"),
+  Television: require("../images/slider/Television.jpg"),
 }
 
-img={imageMapper[(categoria.fieldValue).split(' ').join('')]}
 
-*/
 
 const CategoriasPage = ({
   data: {
@@ -43,7 +40,7 @@ const CategoriasPage = ({
                     {group.map(categoria => (
                         <ul key={categoria.fieldValue}>
                             <Link to={`/categorias/${kebabCase(categoria.fieldValue)}/`}>
-                                <InfoBlock title={categoria.fieldValue}   description={`Ve todos nuestros datos curiosos sobre ${categoria.fieldValue}`}/>
+                                <InfoBlock title={categoria.fieldValue} img={imageMapper[(categoria.fieldValue).split(' ').join('')]}  description={`Ve todos nuestros datos curiosos sobre ${categoria.fieldValue}`}/>
                             </Link>
                         </ul>
                         
