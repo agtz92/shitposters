@@ -2,6 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import Layout from "../layouts/layout"
 import Heading from "../components/heading"
+import InfoBlock from "../components/infoblock"
 
 
 // Components
@@ -25,12 +26,12 @@ const Categorias = ({ pageContext, data }) => {
                     const { slug } = node.fields
                     const { title } = node.frontmatter
                     const { short_description } = node.frontmatter
-                    const { dificultad } = node.frontmatter
                     const { featuredimage } = node.frontmatter
+                    const { tags }=node.frontmatter
                     return (
                         <li key={slug}>
                             <Link to={slug}>
-                                <Heading>{title}</Heading>
+                                <InfoBlock title={title} img={featuredimage}  description={short_description} tags={tags.map((tag)=>[tag])}/>
                             </Link>
                         </li>
                     )
@@ -41,6 +42,7 @@ const Categorias = ({ pageContext, data }) => {
               You'll come back to it!
             */} 
              <Heading color="dark" alignment="center">Te podría interesar</Heading>
+             
             
             <div style={{padding: "10px"}} className="parpost light">10datos.com es una página informativa que recopila información de
             muchas fuentes de información. No poseemos los derechos de ninguna imagen ni contenido presentada en el sitio web.</div>
