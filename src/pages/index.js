@@ -16,7 +16,7 @@ export default function Home({ data }) {
        
 
   
-  <Heading color="color1" alignment="center">El blog de Mums</Heading>
+  <Heading color="color1" alignment="center">10 cosas que no sabías</Heading>
         
   <div className="grid-layout">
     <div className="gridsection">

@@ -44,7 +44,6 @@ render(){
                 <nav role="navigation" className="w-nav-menu" >
                     <Link to="/" className="nav-link w-nav-link" activeClassName="w--current">Inicio</Link>
                     <Link to="/categorias/" className="nav-link w-nav-link" activeClassName="w--current">Categorías</Link>
-                    <Link to="/informacion/" className="nav-link w-nav-link" activeClassName="w--current">Informacion</Link>
                     <Link to="/search/" className="nav-link w-nav-link" activeClassName="w--current">Búsqueda rápida</Link>
                     
                 </nav>
@@ -57,7 +56,6 @@ render(){
                 <nav role="navigation" className="w-nav-menu" style={navStyle} data-nav-menu-open="">
                     <Link to="/" className="nav-link w-nav-link w--nav-link-open" activeClassName="w--current">Inicio</Link>
                     <Link to="/categorias/" className="nav-link w-nav-link w--nav-link-open" activeClassName="w--current">Categorías</Link>
-                    <Link to="/informacion/" className="nav-link w-nav-link w--nav-link-open" activeClassName="w--current">Informacion</Link>
                     <Link to="/search/" className="nav-link w-nav-link w--nav-link-open" activeClassName="w--current">Búsqueda rápida</Link>
                 </nav>
             </div>

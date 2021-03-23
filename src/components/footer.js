@@ -48,7 +48,7 @@ export default function Footer() {
                     </ul>
                     </div>
                 </div>
-                <div className="text-bottom-footer">Copyright © 2020 blogdemums.com . Todos los derechos reservados.</div>
+                <div className="text-bottom-footer">Copyright © 2020 10datos.com . Todos los derechos reservados.</div>
                 <div className="text-bottom-footer">En este sitio se recolectan cookies utilizados para Google Analytics</div>
                 </div>
         </footer>
