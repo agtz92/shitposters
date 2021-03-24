@@ -8,13 +8,13 @@ import kebabCase from "lodash/kebabCase"
 
 export default function BlogPost({ data }) {
   const post = data.markdownRemark
-  const perro = "https://www.10datos.com/" + data.fields.slug + "/";
+  const perro = "https://www.10datos.com/";
   return (
     <React.Fragment>
     <Helmet >
                 <meta charSet="utf-8" />
-                <title>"{data.frontmatter.title} | 10datos"</title>
-                <meta name="description" content={data.frontmatter.short_description} />
+                <title>"{data.markdownRemark.frontmatter.title} | 10datos"</title>
+                <meta name="description" content={data.markdownRemark.frontmatter.short_description} />
                 <script type="application/ld+json">
                   {`
                 {
@@ -24,9 +24,9 @@ export default function BlogPost({ data }) {
                     "@type": "WebPage",
                     "@id":\"${perro}\"
                   },
-                  "headline": \"${data.frontmatter.title}\",
-                  "description": \"${data.frontmatter.short_description}\",
-                  "image": "https://www.10datos.com/assets/${data.frontmatter.featuredimage}",  
+                  "headline": \"${data.markdownRemark.frontmatter.title}\",
+                  "description": \"${data.markdownRemark.frontmatter.short_description}\",
+                  "image": "https://www.10datos.com/assets/${data.markdownRemark.frontmatter.featuredimage}",  
                   "author": {
                     "@type": "Organization",
                     "name": "antesdelexamen.com"
@@ -39,8 +39,8 @@ export default function BlogPost({ data }) {
                       "url": \"https://www.10datos.com/${logoChico}\"
                     }
                   },
-                  "datePublished": \"${data.frontmatter.date}\",
-                  "dateModified": \"${data.frontmatter.date}\"
+                  "datePublished": \"${data.markdownRemark.frontmatter.date}\",
+                  "dateModified": \"${data.markdownRemark.frontmatter.date}\"
                 }
                 `}
                 </script>
