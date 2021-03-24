@@ -14,6 +14,8 @@ short-description: |-
 ---
 ### 1.
 
+#### Mi filtro también hace eso
+
 ![mejillones](/assets/descarga-1-.jpg "mejillones")
 
 Una buena filtración de agua <br>
@@ -21,6 +23,8 @@ Una buena filtración de agua <br>
 Sabías que cada mejillón y almeja limpia alrededor de 2 litros de agua al día estas sutiles criaturas sirven como pequeños sistemas de filtración de agua a medida que absorben el agua la filtra de productos químicos
 
 ### 2.
+
+### Mi ex me olvidó más rápido
 
 ![luz](/assets/1_xvrmzqtgg5bppyt56iygkw.jpeg "luz")
 
@@ -32,9 +36,9 @@ Esto es lo que le tomaría a una aeronave viajando a esta velocidad dar una vuel
 
 ### 3.
 
+### Y que tal hablar con mi perro?
+
 ![duolingo](/assets/unnamed.jpg "duolingo")
-
-
 
 Para los amantes de star trek y GOT<br>
 
@@ -42,15 +46,17 @@ Sabías que en duolingo  puedes aprender a hablar klingon el idioma del univers
 
 ### 4.
 
+#### El 2020 será igual al del apocalípsis
+
 ![calendar](/assets/jrcserm.jpg "calendar")
-
-
 
 Tanto tiempo después <br>
 
 Sabías que el calendario de 1895 es idéntico al del año 2019
 
 ### 5.
+
+#### Frisbee humano?
 
 ![frisbee](/assets/1200px-walter_frederick_morrison.jpg "frisbee")
 
@@ -60,9 +66,9 @@ El inventor del frisbee walter frederick morrison pidió que al morir cremaran s
 
 ### 6.
 
+#### Yo pateo para ambos lados
+
 ![zurdo](/assets/descarga-2-.jpg "zurdo")
-
-
 
 ¿Eres zurdo?<br>
 
@@ -70,15 +76,17 @@ De acuerdo con las estadísticas los niños que nacieron prematuros tienen mucho
 
 ### 7.
 
+#### Sabía que llorar por ella traería algo bueno
+
 ![lagrimas](/assets/descarga.jpg "lagrimas")
-
-
 
 Si te quieres sentir mejor, ya lo sabes <br>
 
 Llorar tiene poderes curativos para los humanos cuando nos salen lágrimas éstas liberan oxitocina y hormonas opiáceos que funcionan como calmantes naturales por lo que es completamente normal que después de llorar te sientas mucho mejor
 
 ### 8.
+
+#### Salivo al verte beibi
 
 ![saliva](/assets/descarga-3-.jpg "saliva")
 
@@ -88,9 +96,9 @@ Nuestro sentido del gusto no funciona sin saliva de hecho si intentas poner algo
 
 ### 9.
 
+#### Especial para la oficina
+
 ![ovine](/assets/71jmfaiyrrl._sl1500_.jpg "ovine")
-
-
 
 Para un antojito<br>
 
@@ -98,9 +106,9 @@ Una empresa en galicia españa lanzó al mercado aguas con sabor a vino es como 
 
 ### 10.
 
+#### Se quebraron el coco
+
 ![hit](/assets/captura-de-pantalla-2021-03-23-225318.jpg "hit")
-
-
 
 Inspirados <br>
 
