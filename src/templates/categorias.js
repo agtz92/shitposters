@@ -1,8 +1,10 @@
 import React from "react"
 import PropTypes from "prop-types"
 import LayoutContainer from "../layouts/layout-container"
+import { Helmet } from "react-helmet"
 import Heading from "../components/heading"
 import InfoBlock from "../components/infoblock"
+import logoChico from "../images/logo_small.png"
 
 
 // Components
@@ -10,6 +12,7 @@ import { Link, graphql } from "gatsby"
 
 const Categorias = ({ pageContext, data }) => {
     const { categoria } = pageContext
+    const perro = "https://www.10datos.com/"
     const { edges, totalCount } = data.allMarkdownRemark
     const categoriaHeader = `${totalCount} post${
         totalCount === 1 ? "" : "s"
@@ -17,6 +20,40 @@ const Categorias = ({ pageContext, data }) => {
 
     return (
       <React.Fragment>
+        <Helmet >
+                <meta charSet="utf-8" />
+                <title>"{categoria} | 10datos"</title>
+                <meta name="description" content="10datos.com categorias promoción, entretenimiento y propagación de información de último minuto" />
+                <script type="application/ld+json">
+                  {`
+                {
+                  "@context": "https://schema.org",
+                  "@type": "BlogPosting",
+                  "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id":\"${perro}\"
+                  },
+                  "headline": \"${categoria}\",
+                  "description": "10datos.com promoción, entretenimiento y propagación de información de último minuto",
+                  "image": \"https://www.10datos.com/${logoChico}\",  
+                  "author": {
+                    "@type": "Organization",
+                    "name": "10datos.com"
+                  },  
+                  "publisher": {
+                    "@type": "Organization",
+                    "name": "10datos",
+                    "logo": {
+                      "@type": "ImageObject",
+                      "url": \"https://www.10datos.com/${logoChico}\"
+                    }
+                  },
+                  "datePublished": "Jan 2021",
+                  "dateModified": "Apr 2021"
+                }
+                `}
+                </script>
+        </Helmet>
         <LayoutContainer>
             <div>
             <Heading>{categoriaHeader}</Heading>

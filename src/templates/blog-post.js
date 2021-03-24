@@ -29,11 +29,11 @@ export default function BlogPost({ data }) {
                   "image": "https://www.10datos.com/assets/${data.markdownRemark.frontmatter.featuredimage}",  
                   "author": {
                     "@type": "Organization",
-                    "name": "antesdelexamen.com"
+                    "name": "10datos.com"
                   },  
                   "publisher": {
                     "@type": "Organization",
-                    "name": "antesdelexamen",
+                    "name": "10datos",
                     "logo": {
                       "@type": "ImageObject",
                       "url": \"https://www.10datos.com/${logoChico}\"
