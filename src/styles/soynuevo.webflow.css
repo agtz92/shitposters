@@ -1554,6 +1554,8 @@ ul, li
 .div-text-post h4
 {
   font-family: Abel, sans-serif;
+  font-size: 25px;
+  text-transform: uppercase;
 }
 
 
