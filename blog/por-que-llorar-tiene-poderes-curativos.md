@@ -24,7 +24,7 @@ Sabías que cada mejillón y almeja limpia alrededor de 2 litros de agua al día
 
 ### 2.
 
-### Mi ex me olvidó más rápido
+#### Mi ex me olvidó más rápido
 
 ![luz](/assets/1_xvrmzqtgg5bppyt56iygkw.jpeg "luz")
 
@@ -36,7 +36,7 @@ Esto es lo que le tomaría a una aeronave viajando a esta velocidad dar una vuel
 
 ### 3.
 
-### Y que tal hablar con mi perro?
+#### Y que tal hablar con mi perro?
 
 ![duolingo](/assets/unnamed.jpg "duolingo")
 
@@ -46,7 +46,7 @@ Sabías que en duolingo  puedes aprender a hablar klingon el idioma del univers
 
 ### 4.
 
-#### El 2020 será igual al del apocalípsis
+El 2020 será igual al del apocalípsis
 
 ![calendar](/assets/jrcserm.jpg "calendar")
 
