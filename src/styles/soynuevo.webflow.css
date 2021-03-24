@@ -1551,7 +1551,10 @@ ul, li
     width: 100%;
   }
 }
-
+.div-text-post h4
+{
+  font-family: Abel, sans-serif;
+}
 
 
 /*colors*/
@@ -1609,6 +1612,10 @@ ul, li
 }
 .text-block {
   color: #fff;
+}
+.div-text-post h4
+{
+  color: #d80032;
 }
 .w--nav-link-open 
 {
