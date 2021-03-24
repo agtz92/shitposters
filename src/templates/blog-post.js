@@ -8,13 +8,13 @@ import kebabCase from "lodash/kebabCase"
 
 export default function BlogPost({ data }) {
   const post = data.markdownRemark
-  const perro = "https://www.10datos.com/" + frontmatter.slug + "/";
+  const perro = "https://www.10datos.com/" + data.fields.slug + "/";
   return (
     <React.Fragment>
     <Helmet >
                 <meta charSet="utf-8" />
-                <title>"{frontmatter.title} | 10datos"</title>
-                <meta name="description" content={frontmatter.short_description} />
+                <title>"{data.frontmatter.title} | 10datos"</title>
+                <meta name="description" content={data.frontmatter.short_description} />
                 <script type="application/ld+json">
                   {`
                 {
@@ -24,9 +24,9 @@ export default function BlogPost({ data }) {
                     "@type": "WebPage",
                     "@id":\"${perro}\"
                   },
-                  "headline": \"${frontmatter.title}\",
-                  "description": \"${frontmatter.short_description}\",
-                  "image": "https://www.10datos.com/assets/${frontmatter.featuredimage}",  
+                  "headline": \"${data.frontmatter.title}\",
+                  "description": \"${data.frontmatter.short_description}\",
+                  "image": "https://www.10datos.com/assets/${data.frontmatter.featuredimage}",  
                   "author": {
                     "@type": "Organization",
                     "name": "antesdelexamen.com"
@@ -39,8 +39,8 @@ export default function BlogPost({ data }) {
                       "url": \"https://www.10datos.com/${logoChico}\"
                     }
                   },
-                  "datePublished": \"${frontmatter.date}\",
-                  "dateModified": \"${frontmatter.date}\"
+                  "datePublished": \"${data.frontmatter.date}\",
+                  "dateModified": \"${data.frontmatter.date}\"
                 }
                 `}
                 </script>
