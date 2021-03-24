@@ -22,33 +22,30 @@ export default function Footer() {
                     <div>
                     <h2 className="footer-heading">Categorías</h2>
                     <ul  className="list-footer w-list-unstyled">
-                        <li ><Link  to="/categorias/preguntas-de-examen/"  className="footer-link">Cine</Link></li>
-                        <li ><Link  to="/categorias/espanol/"  className="footer-link">Música</Link></li>
-                        <li ><Link  to="/categorias/literatura/"  className="footer-link">Libros</Link></li>
-                        <li ><Link  to="/categorias/geografia/"  className="footer-link">Fashion</Link></li>
-                        <li ><Link  to="/categorias/historia-universal/"  className="footer-link">Tendencias</Link></li>
-                        <li ><Link  to="/categorias/historia-de-mexico/"  className="footer-link">Memes</Link></li>
-                        <li ><Link  to="/categorias/biologia/"  className="footer-link">Viajes</Link></li>
+                        <li ><Link  to="/categorias/celebridades/"  className="footer-link">Celebridades</Link></li>
+                        <li ><Link  to="/categorias/cine/"  className="footer-link">Cine</Link></li>
+                        <li ><Link  to="/categorias/deportes/"  className="footer-link">Deportes</Link></li>
+                        <li ><Link  to="/categorias/historia/"  className="footer-link">Historia</Link></li>
+                        <li ><Link  to="/categorias/musica/"  className="footer-link">Música</Link></li>
+                        <li ><Link  to="/categorias/naturaleza/"  className="footer-link">Naturaleza</Link></li>
+                        <li ><Link  to="/categorias/random/"  className="footer-link">Random</Link></li>
+                        <li ><Link  to="/categorias/television/"  className="footer-link">TV</Link></li>
                     </ul>
                     </div>
                     <div>
                     <h2 className="footer-heading">Información</h2>
                     <ul  className="list-footer w-list-unstyled">
                         <li ><Link  to="/privacidad/"  className="footer-link">Política de Privacidad</Link></li>
-                        <li ><Link  to="/partners/"  className="footer-link">Directorio de Negocios</Link></li>
-                        <li ><Link  to="/about/"  className="footer-link">¿Quiénes Somos?</Link></li>
                     </ul>
                     </div>
                     <div>
                     <h2 className="footer-heading">Partners</h2>
                     <ul  className="list-footer w-list-unstyled">
-                        <li><a className="footer-link" href="https://www.matmarkt.com/productos"  rel="noopener noreferrer">MatMarkt. Tapetes para todo uso</a></li>
-                        <li><a className="footer-link" href="https://www.corthw.com/productos"  rel="noopener noreferrer">Cortina Hawaiana. Cortinas PVC</a></li>
                         <li><a className="footer-link" href="https://www.antesdelexamen.com"  rel="noopener noreferrer">Bancos de preguntas UNAM</a></li>
                     </ul>
                     </div>
                 </div>
-                <div className="text-bottom-footer">Copyright © 2020 10datos.com . Todos los derechos reservados.</div>
+                <div className="text-bottom-footer">Copyright © 2021 10datos.com . Todos los derechos reservados.</div>
                 <div className="text-bottom-footer">En este sitio se recolectan cookies utilizados para Google Analytics</div>
                 </div>
         </footer>

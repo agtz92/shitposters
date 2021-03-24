@@ -16,7 +16,11 @@ export default function InfoBlock(props) {
                 <div className="div-large-post-content">
                 <Heading color="dark">{props.title}</Heading> 
                 <div>{props.description}</div>
-                <div className="tags-div"><div className="div-tag">{props.tags}</div></div>
+                <div className="tags-div">
+                    <div className="div-tag">{props.tag1}</div>
+                    <div className="div-tag">{props.tag2}</div>
+                    <div className="div-tag">{props.tag3}</div>
+                </div>
                 </div>
             </div>
         

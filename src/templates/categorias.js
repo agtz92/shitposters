@@ -1,6 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
-import Layout from "../layouts/layout"
+import LayoutContainer from "../layouts/layout-container"
 import Heading from "../components/heading"
 import InfoBlock from "../components/infoblock"
 
@@ -17,7 +17,7 @@ const Categorias = ({ pageContext, data }) => {
 
     return (
       <React.Fragment>
-        <Layout>
+        <LayoutContainer>
             <div>
             <Heading>{categoriaHeader}</Heading>
             
@@ -31,7 +31,7 @@ const Categorias = ({ pageContext, data }) => {
                     return (
                         <li key={slug}>
                             <Link to={slug}>
-                                <InfoBlock title={title} img={featuredimage}  description={short_description} tags={tags.map((tag)=>[tag])}/>
+                                <InfoBlock title={title} img={featuredimage}  description={short_description} tag1={tags[0]} tag2={tags[1]} tag3={tags[2]}/>
                             </Link>
                         </li>
                     )
@@ -48,7 +48,7 @@ const Categorias = ({ pageContext, data }) => {
             muchas fuentes de información. No poseemos los derechos de ninguna imagen ni contenido presentada en el sitio web.</div>
             <Link to="/categorias" ><div className="div-tag marginbottom">Ve todas las categorias</div></Link>
         </div>
-        </Layout>
+        </LayoutContainer>
         </React.Fragment>
     )
 }

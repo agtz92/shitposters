@@ -31,7 +31,7 @@ export default function Home({ data }) {
               </div>
               <Heading color="color1" alignment="left">{node.frontmatter.title}</Heading>
               <div className="autdate">
-                <div className="autor">Autor</div>
+                <div className="autor">Fecha</div>
                 <div className="fecha">{node.frontmatter.date}</div>
               </div>
             </div>
@@ -49,7 +49,7 @@ export default function Home({ data }) {
               </div>
               <Heading color="color1" alignment="left">{node.frontmatter.title}</Heading>
               <div className="autdate">
-                <div className="autor">Autor</div>
+                <div className="autor">Fecha</div>
                 <div className="fecha">{node.frontmatter.date}</div>
               </div>
             </div>
@@ -66,7 +66,7 @@ export default function Home({ data }) {
               </div>
               <Heading color="color1" alignment="left">{node.frontmatter.title}</Heading>
               <div className="autdate">
-                <div className="autor">Autor</div>
+                <div className="autor">Fecha</div>
                 <div className="fecha">{node.frontmatter.date}</div>
               </div>
             </div>
@@ -82,7 +82,7 @@ export default function Home({ data }) {
               </div>
               <Heading color="color1" alignment="left">{node.frontmatter.title}</Heading>
               <div className="autdate">
-                <div className="autor">Autor</div>
+                <div className="autor">Fecha</div>
                 <div className="fecha">{node.frontmatter.date}</div>
               </div>
             </div>
@@ -96,7 +96,7 @@ export default function Home({ data }) {
   <div className="_5050-holder">
     <div className="_5050-div">
       {data.item4.edges.map(({ node }) => (
-    <Link to={node.fields.slug}><PostBlockLarge img={node.frontmatter.featuredimage} title={node.frontmatter.title}description="LOREM IPSUM DESCRIPCION" categoria={node.frontmatter.categoria}/></Link>  
+    <Link to={node.fields.slug}><PostBlockLarge img={node.frontmatter.featuredimage} title={node.frontmatter.title} description={node.frontmatter.short_description} categoria={node.frontmatter.categoria} date={node.frontmatter.date}/></Link>  
     ))}
     </div>
     <div className="_5050-div">
@@ -115,7 +115,7 @@ export const query = graphql`
     edges {
       node {
         frontmatter {
-          date
+          date(formatString: "MM-DD-YYYY")
           title
           featuredimage
           categoria
@@ -130,7 +130,7 @@ export const query = graphql`
     edges {
       node {
         frontmatter {
-          date
+          date(formatString: "MM-DD-YYYY")
           title
           featuredimage
           categoria
@@ -145,7 +145,7 @@ export const query = graphql`
     edges {
       node {
         frontmatter {
-          date
+          date(formatString: "MM-DD-YYYY")
           title
           featuredimage
           categoria
@@ -160,7 +160,7 @@ export const query = graphql`
     edges {
       node {
         frontmatter {
-          date
+          date(formatString: "MM-DD-YYYY")
           title
           featuredimage
           categoria
@@ -175,8 +175,9 @@ export const query = graphql`
     edges {
       node {
         frontmatter {
-          date
+          date(formatString: "MM-DD-YYYY")
           title
+          short_description
           featuredimage
           categoria
         }

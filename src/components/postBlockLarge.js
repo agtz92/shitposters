@@ -17,8 +17,8 @@ export default function PostBlockLarge(props) {
                     <div className="div-block-11">
                         <div className="categblock">
                             <div className="autdate">
-                                <div className="autor">Autor</div>
-                                <div className="fecha">Fecha</div>
+                                <div className="autor">Fecha</div>
+                                <div className="fecha">{props.date}</div>
                             </div>
                             <div className="div-tag">{props.categoria}</div>
                         </div>

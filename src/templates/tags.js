@@ -1,7 +1,8 @@
 import React from "react"
 import PropTypes from "prop-types"
-import Layout from "../layouts/layout"
+import LayoutContainer from "../layouts/layout-container"
 import Heading from "../components/heading"
+import InfoBlock from "../components/infoblock"
 // Components
 import { Link, graphql } from "gatsby"
 
@@ -14,16 +15,21 @@ const Tags = ({ pageContext, data }) => {
 
   return (
 
-    <Layout>
+    <LayoutContainer>
     <div>
       <Heading color="dark">{tagHeader}</Heading>
       <ul>
         {edges.map(({ node }) => {
           const { slug } = node.fields
           const { title } = node.frontmatter
+          const { featuredimage } = node.frontmatter
+          const { short_description } = node.frontmatter
+          const { tag } = pageContext
           return (
             <li key={slug}>
-              <Link to={slug}>{title}</Link>
+              <Link to={slug}>
+                <InfoBlock title={title} img={featuredimage}  description={short_description} tags={tag}/>
+              </Link>
             </li>
           )
         })}
@@ -32,9 +38,9 @@ const Tags = ({ pageContext, data }) => {
               This links to a page that does not yet exist.
               You'll come back to it!
             */}
-      <Link to="/tags">Todos los tags</Link>
+      <Link to="/tags"><Heading color="color1">Todos los tags</Heading></Link>
     </div>
-    </Layout>
+    </LayoutContainer>
     
   )
 }
@@ -77,7 +83,12 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
+            date(formatString: "DD MMMM, YYYY")
+            featuredimage
+            tags
             title
+            categoria
+            short_description
           }
         }
       }

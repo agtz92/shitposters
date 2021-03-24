@@ -1,6 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
-import Layout from "../layouts/layout"
+import LayoutContainer from "../layouts/layout-container"
 import Heading from "../components/heading"
 
 // Utilities
@@ -19,23 +19,23 @@ const TagsPage = ({
   },
 }) => (
 
-    <Layout>
+    <LayoutContainer>
         <div>
             
             <div>
-            <Heading color="dark">Todos los tags</Heading>
+            <Heading color="color1">Todos los tags</Heading>
             <ul>
                 {group.map(tag => (
                 <li key={tag.fieldValue}>
                     <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                    {tag.fieldValue} ({tag.totalCount})
+                    <Heading color="color4">{tag.fieldValue} ({tag.totalCount})</Heading>
                     </Link>
                 </li>
                 ))}
             </ul>
             </div>
         </div>
-    </Layout>
+    </LayoutContainer>
   
 )
 

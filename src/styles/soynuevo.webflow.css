@@ -41,12 +41,24 @@ a:link {
   padding-right: 0px;
 }
 
+.layout-container
+{
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
 .grid-layout
 {
   margin: 10px 10% 10px 10%;
 }
 
 @media screen and (max-width: 767px) {
+.layout-container
+{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
   .grid-layout
 {
   margin: 0px 0 0px 0;
