@@ -41,7 +41,7 @@ export const query = graphql`
         title
         categoria
         featuredimage
-        date
+        date(formatString: "MM-DD-YYYY")
         short_description
         tags
       }
