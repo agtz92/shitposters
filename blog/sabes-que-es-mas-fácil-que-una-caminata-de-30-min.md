@@ -39,9 +39,7 @@ El bagger 288 es el vehículo más pesado en todo el mundo esta gigantesca excav
 
 La ruta de autobús más larga del mundo la cual estuvo en servicio hasta los años 70 recorría el reino unido bélgica alemania austria turquía irán y afganistán en 49 días te imaginas viajar por tanto tiempo
 
-### \
-
-4.
+### 4.
 
 #### Aquí usamos cubetas como banco
 
