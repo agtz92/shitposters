@@ -11,7 +11,7 @@ short-description: Podrías estar en un incendio y otras 9 cosas que no sabias
 ---
 ### 1.
 
-### Ah pero no le pongas una zanahoria en una caja...
+#### Ah pero no le pongas una zanahoria en una caja...
 
 ![Conejo ](/assets/conejo.jpg "Conejo ")
 
@@ -21,7 +21,7 @@ Los conejos tienen prácticamente una visión de 360 grados los únicos lados ha
 
 ### 2.
 
-#### Es la única cosa que puedes hacer bien y por que no lo controlas 
+#### Es la única cosa que puedes hacer bien y por que no lo controlas
 
 ![cerebro ](/assets/cerebro.jpg "cerebro ")
 
@@ -41,7 +41,7 @@ como método de defensa las abejas se unen en el panal para hacer formas y figur
 
 ### 4.
 
-#### Ah, pero un popote como las deja 
+#### Ah, pero un popote como las deja
 
 ![tortuga ](/assets/tortugas.jpg "tortuga ")
 
@@ -70,11 +70,9 @@ Un pueblo decente <br/>
 
 sabías que el primer nombre de la ciudad de los ángeles california fue el pueblo de nuestra señora la reina de los ángeles
 
-
-
 ### 7.
 
-#### La única mujer que si expresa sus sentimientos... 
+#### La única mujer que si expresa sus sentimientos...
 
 ![Monalisa](/assets/monalisa2.jpg "monalisa ")
 
@@ -95,7 +93,7 @@ no lo creas, en el mundo más de un millón de perros son mencionados en los tes
 
 ### 9.
 
-#### Tu creyendo que los bomberos le echa agua a un simple camión 
+#### Tu creyendo que los bomberos le echa agua a un simple camión
 
 ![Propano](/assets/metanol.jpg "propano ")
 
@@ -105,7 +103,7 @@ podrías estar cerca de un incendio y no darte cuenta resulta que un fuego causa
 
 ### 10.
 
-#### Próximamente se van adueñar de ti 
+#### Próximamente se van adueñar de ti
 
 ![color](/assets/go-waay.jpg "color")
 
