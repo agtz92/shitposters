@@ -31,7 +31,7 @@ El bagger 288 es el vehículo más pesado en todo el mundo esta gigantesca excav
 
 ### 3.
 
-#### Una historia que mejor que la de la vuelta al mundo
+#### Una historia mejor que la de la vuelta al mundo
 
 ![autobus ](/assets/autobs.jpg "autobús")
 
@@ -43,7 +43,7 @@ La ruta de autobús más larga del mundo la cual estuvo en servicio hasta los a�
 
 4.
 
-#### Esta mejor la cubeta como banco
+#### Aquí usamos cubetas como banco
 
 ![paradas](/assets/coreadelsur.jpg "paradas")
 
@@ -63,7 +63,7 @@ Una de las plantas favoritas de las abejas son las genciana cerradas
 
 ### 6.
 
-#### Chabelo lo llego a usar
+#### Chabelo lo inventó
 
 ![nobleza](/assets/nobleza.jpg "nobleza")
 
@@ -93,7 +93,7 @@ En promedio se matan 97 pollos cada 0.05 segundos en todo el mundo
 
 ### 9.
 
-#### Ya no salgas a caminar huevon
+#### Y yo que iba a caminar empezando hoy
 
 ![baños ](/assets/baños.jpg "baños")
 
@@ -103,7 +103,7 @@ Sabías que un baño caliente de una hora puede quemar hasta 130 calorías la mi
 
 ### 10.
 
-#### A nadie nunca le puede faltar
+#### Que básicos
 
 ![starucks ](/assets/star.jpg "starbucks")
 

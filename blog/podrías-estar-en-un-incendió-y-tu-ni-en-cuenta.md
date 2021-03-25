@@ -21,13 +21,13 @@ Los conejos tienen prácticamente una visión de 360 grados los únicos lados ha
 
 ### 2.
 
-#### Es la única cosa que puedes hacer bien y por que no lo controlas
+#### Ni eso sé hacer bien
 
 ![cerebro ](/assets/cerebro.jpg "cerebro ")
 
 Por si alguna vez te lo preguntaste <br/>
 
-Mo podemos estornudar mientras estamos dormidos esto es porque al dormir nuestro cerebro apaga ese reflejo
+No podemos estornudar mientras estamos dormidos esto es porque al dormir nuestro cerebro apaga ese reflejo
 
 ### 3.
 
@@ -41,7 +41,7 @@ como método de defensa las abejas se unen en el panal para hacer formas y figur
 
 ### 4.
 
-#### Ah, pero un popote como las deja
+#### Ah, pero qué tal un popote?
 
 ![tortuga ](/assets/tortugas.jpg "tortuga ")
 
@@ -93,7 +93,7 @@ no lo creas, en el mundo más de un millón de perros son mencionados en los tes
 
 ### 9.
 
-#### Tu creyendo que los bomberos le echa agua a un simple camión
+#### Y tu echándole agua al asador para apagarlo
 
 ![Propano](/assets/metanol.jpg "propano ")
 
