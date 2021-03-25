@@ -1,5 +1,5 @@
 ---
-title: sabes que es mas fácil que una caminata de 30 min?
+title: Bajar de peso más rápido?
 date: 2021-03-25T04:41:19.356Z
 featuredimage: /assets/caminata.jpg
 categoria: Random
@@ -7,7 +7,7 @@ tags:
   - "#quemarcalorias"
   - "#facil"
   - "#casa"
-short-description: forma de quemar calorías antes que caminar y 10 cosas mas
+short-description: forma de quemar calorías sin esfuerzo y 10 cosas mas que no sabías
 ---
 ### 1.
 
