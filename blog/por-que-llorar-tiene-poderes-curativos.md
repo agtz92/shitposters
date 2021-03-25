@@ -46,7 +46,7 @@ Sabías que en duolingo  puedes aprender a hablar klingon el idioma del univers
 
 ### 4.
 
-El 2020 será igual al del apocalípsis
+#### El 2020 será igual al del apocalípsis
 
 ![calendar](/assets/jrcserm.jpg "calendar")
 
