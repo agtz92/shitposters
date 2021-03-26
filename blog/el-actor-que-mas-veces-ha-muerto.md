@@ -1,5 +1,5 @@
 ---
-title: "El actor que mas veces a muerto "
+title: "El actor que más veces ha muerto "
 date: 2021-03-26T04:59:53.837Z
 featuredimage: /assets/rodaje.jpg
 categoria: Random
@@ -7,12 +7,12 @@ tags:
   - "#muerte"
   - "#Actuacion"
   - "#veces"
-short-description: Descubre aquí quien es el actor que mas veces a muerto en
+short-description: Descubre aquí quien es el actor que mas veces ha muerto en
   Hollywood y 10 cosas mas
 ---
 ### 1.
 
-#### Pero que comiste ayer?
+#### Pero qué comiste ayer?
 
 ![mente ](/assets/cerebor.jpg "mente ")
 
@@ -24,7 +24,7 @@ Tu cerebro puede almacenar 25 millones de gigabytes de información lo que permi
 
 ### 2.
 
-#### A quien le gusta la miel ?!
+#### A quién le gusta la miel ?!
 
 ![miel ](/assets/mieeel.jpg "miel")
 
@@ -46,7 +46,7 @@ La película 'el rey león' está inspirada en la tragedia de Hamlet una de las 
 
 ### 4.
 
-#### Lo ves, corrió y ya no sabes donde quedo 
+#### Lo ves, corrió y ya no sabes donde quedó 
 
 ![hipopotamo](/assets/hipo.jpg "hipopotamo ")
 
@@ -80,7 +80,7 @@ Los jabalíes adultos y juveniles recogen manzanas arenosas y las llevan a un ar
 
 ### 7.
 
-### Eso esos ojos valen millones 
+#### Eso esos ojos valen millones 
 
 ![albert ](/assets/albert.jpg "albert")
 

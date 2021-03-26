@@ -59,7 +59,7 @@ Esta es la isla de baljencac  que en Croacia es conocida mundialmente como la i
 
 ### 5.
 
-#### Ja! causa impresión un cuadro que la pintura 
+#### Ja! causa más impresión un cuadro que la pintura 
 
 ![cuadro](/assets/monalisa.jpg "cuadro")
 
@@ -103,7 +103,7 @@ sabías que la flama de las velas es hueca entre el frente de la llama y la mech
 
 ### 8.
 
-#### Ese dedo ya no tendrá que ser cocido 
+#### Este dedito no se fué al mercado 
 
 ![sierra](/assets/sierra.jpg "sierra")
 

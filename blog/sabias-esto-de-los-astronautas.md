@@ -1,5 +1,5 @@
 ---
-title: Sabias esto de los astronautas?
+title: Sabías esto de los astronautas?
 date: 2021-03-26T04:32:56.744Z
 featuredimage: /assets/aus.jpg
 categoria: Random
@@ -19,8 +19,7 @@ short-description: A que no sabias lo que hacen los austronautas y 9 datos curio
 
 Seguro ya te habrás dado cuenta de la reciente separación del grupo francés Daft Punk aquí hay una foto de ellos tocando sin sus famosos cascos esta fue tomada en 1993
 
-### \
-2.
+### 2.
 
 #### Yo echándole la culpa a mi mujer 
 
@@ -36,7 +35,7 @@ Un estudio realizado en el 2011 sobre controles remotos perdidos descubrió que 
 
 ### 3.
 
-#### Llorón = Débil
+#### Llorón = Nadie
 
 ![maya](/assets/maya.jpg "maya")
 
@@ -112,7 +111,7 @@ Júnior Fitz Jacket crea esculturas y rostros a partir del cartón de los rollos
 
 ### 9.
 
-#### A que olerán 
+#### A qué olerán 
 
 ![Ropa](/assets/ropa.jpg "Ropa")
 

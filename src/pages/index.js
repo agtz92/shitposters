@@ -127,7 +127,7 @@ export default function Home({ data }) {
             </div>
             <div className="_5050-holder">
               <div className="_5050-div">
-                {data.item4.edges.map(({ node }) => (
+                {data.item5.edges.map(({ node }) => (
               <Link to={node.fields.slug}><PostBlockLarge img={node.frontmatter.featuredimage} title={node.frontmatter.title} description={node.frontmatter.short_description} categoria={node.frontmatter.categoria} date={node.frontmatter.date}/></Link>  
               ))}
               </div>
