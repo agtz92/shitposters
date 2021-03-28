@@ -1,5 +1,5 @@
 ---
-title: Sabias cuanto es que consume cerebro?
+title: Sabías cuánta energía consume tu cerebro?
 date: 2021-03-27T19:59:59.182Z
 featuredimage: /assets/po.jpg
 categoria: Random
@@ -7,7 +7,7 @@ tags:
   - "#consume"
   - "#cerebro"
   - "#salud"
-short-description: Sabias cuanto consume tu cerbero? y 10 cosas
+short-description: Sabias cuanto consume tu cerbero? y 10 cosas más que no sabías
 ---
 ### 1.
 
