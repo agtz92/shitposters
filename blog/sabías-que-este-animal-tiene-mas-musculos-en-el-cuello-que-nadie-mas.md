@@ -1,7 +1,7 @@
 ---
 title: Sabías que este animal tiene mas musculos en el cuello que nadie mas?
 date: 2021-03-30T04:38:40.100Z
-featuredimage: /assets/.jpg
+featuredimage: /assets/c4a5b26d-1f87-4b10-9730-888d1c1f75ee.jpeg
 categoria: Naturaleza
 tags:
   - "#musculos"
