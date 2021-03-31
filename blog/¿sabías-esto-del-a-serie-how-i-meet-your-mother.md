@@ -3,6 +3,10 @@ title: ¿Sabías esto del a serie how i meet your mother?
 date: 2021-03-30T21:00:42.597Z
 featuredimage: /assets/h.png
 categoria: Cine
+tags:
+  - "#serie"
+  - "#himym"
+  - "#Curioso"
 short-description: Sabias esto de la seire de how i meet your mother, 10 datos que no sabias
 ---
 ### 1.
