@@ -11,14 +11,12 @@ short-description: Sabias estos datos curiosos de la NFL? 10 cosas que seguramen
 ---
 ### 1.
 
-#### Intenta pasar de las 10 yardas 
+#### Intenta pasar de las 10 yardas
 
 ![61](/assets/61.jpg "61")
 
 ¿Lo sabías? <br/>
 El regreso más largo de un balón suelto en un SB fue de 49 yardas por Mike Bass de Pieles Rojas en el SB VII.
-
-
 
 ### 2.
 
@@ -26,17 +24,13 @@ El regreso más largo de un balón suelto en un SB fue de 49 yardas por Mike Bas
 
 ![62](/assets/62.jpg "62")
 
-
-
 ¿Tú eres uno de ellos?<br/>
 
 Según datos de Netshoes, quien opera  tiendaNFL.com.mx,  las ciudades dónde se venden más productos de la NFL en México son: DF, Estado de México, Jalisco, Nuevo León y Coahuila.
 
-
-
 ### 3.
 
-#### Diferencia marcada 
+#### Diferencia marcada
 
 ![63](/assets/63.jpeg "63")
 
@@ -45,7 +39,7 @@ La diferencia más grande en puntos en un Super Bowl se dio en el partido entre 
 
 ### 4.
 
-#### Un recuerdo para la vida 
+#### Un recuerdo para la vida
 
 ![64](/assets/64.jpg "64")
 
@@ -61,9 +55,11 @@ El primer coach afroamericano en ganar un Súper Tazón fue Tony Dungy de los Po
 Demasiado frío <br/>
 El Super Bowl número VI es considerado el más frío, se jugó a 3.9 grados Celsius.
 
+Sin embargo, el juego más frío es conocido como el “Ice Bowl” entre Cowboys y Packers. La temperatura era de -25 grados Celsius con sensación térmica de hasta -37 grados en algún punto del juego. Packers gano 21-17
+
 ### 6.
 
-#### El mes que regresa la felicidad 
+#### El mes que regresa la felicidad
 
 ![67](/assets/67.jpg "67")
 
@@ -72,7 +68,7 @@ La mayoría en Enero <br/>
 
 ### 7.
 
-#### En un partido tan importante, se jugó de otra manera 
+#### En un partido tan importante, se jugó de otra manera
 
 ![68](/assets/68.jpg "68")
 
@@ -81,7 +77,7 @@ La menor cantidad de intentos por tierra se dio en el Super Bowl XLV en donde lo
 
 ### 8.
 
-#### Efectividad en un equipo 
+#### Efectividad en un equipo
 
 ![]()
 
@@ -90,7 +86,7 @@ El equipo que tiene el menor porcentaje de pases completos en la historia del Su
 
 ### 9.
 
-#### Vestir de blanco es importante 
+#### Vestir de blanco es importante
 
 ![69](/assets/69.jpg "69")
 
@@ -99,11 +95,9 @@ De buena suerte <br/>
 
 ### 10.
 
-#### Más que diferencia 
+#### Más que diferencia
 
 ![71](/assets/71.jpg "71")
-
-
 
 ¿Tanto?<br/>
 
