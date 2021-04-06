@@ -22,7 +22,7 @@ El nombre real del cantante es Abel Makkonen Tesfaye.
 
 #### Sus orígenes
 
-![173](/assets/173.jpg "173")
+![173](/assets/171.jpg "171")
 
 de dónde viene <br/>
 Aunque el cantante es canadiense, es de origen etíope.
