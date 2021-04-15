@@ -4,7 +4,7 @@ date: 2021-04-14T06:59:01.850Z
 featuredimage: /assets/590.png
 categoria: Cine
 tags:
-  - "#Starwras"
+  - "#starwars"
   - "#peliculas"
   - "#Saga"
 short-description: Estos son datos que no sabias de la saga Star Wars
