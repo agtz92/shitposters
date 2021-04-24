@@ -1,0 +1,30 @@
+backend:
+  name: github
+  repo: agtz92/shitposters
+  branch: main
+
+media_folder: static/assets
+public_folder: /assets
+
+collections:
+  - name: blog
+    label: Blog
+    folder: blog
+    create: true
+    fields:
+      - { name: title, label: Titulo, hint: Título llamativo y corto, required: true}
+      - { name: date, label: Date, widget: datetime }
+      - {label: "Imagen Principal", hint: Usar una imagen en alta resolucion y artistica, name: "featuredimage", widget: image, required: true}
+      - { collection: categoria, valueField: categoria, searchFields: ["categoria"], displayFields: ["categoria"], widget: relation, name: categoria, label: Categoria, required: true, multiple: false, hint: Poner cateogoria a la que pertenece el tema. OBLIGATORIO}
+      - {label: "Tags", name: "tags", widget: "list", hint: Separar con comas cada tag relacionado al post (ej. harrypotter, potterheads) poner al menos 3 tags por post, ideal 5, required: true}
+      - { name: short-description, label: Descripcion Corta, widget: markdown, hint: Descripcion corta de al menos 5 líneas, required: true}
+      - { name: body, label: Post, widget: markdown }
+ 
+  - name: categoria
+    label: Categorias
+    folder: cms/categorias
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {widget: string, name: categoria, label: Categoria, required: true, hint: Categoría general ej. Entretenimiento, Musica, Arte, etc }
+      - {label: "Imagen de la Categoria", name: "categoryimage", widget: image}
