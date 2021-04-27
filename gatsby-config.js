@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Pandas Eating Lots`,
+    title: `10datos.com`,
   },
   /* Your site config here */
   plugins: [
@@ -37,6 +37,7 @@ module.exports = {
         },
       },
     },
+    
     
     {
       resolve: `gatsby-source-filesystem`,
