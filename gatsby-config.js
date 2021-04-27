@@ -11,12 +11,17 @@ module.exports = {
   /* Your site config here */
   plugins: [
     {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `ca-pub-7182528185795867`
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
         trackingIds: [
           "G-YRGDLQ7446", // Google Analytics / GA
-          "ca-pub-7182528185795867", // Google Ads / Adwords / AW
           //"DC-FLOODIGHT_ID", // Marketing Platform advertising products (Display & Video 360, Search Ads 360, and Campaign Manager)
         ],
         // This object gets passed directly to the gtag config command
