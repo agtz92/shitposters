@@ -2,11 +2,11 @@
 title: "Datos Curioso de Final Fantasy "
 date: 2021-05-19T17:44:08.471Z
 featuredimage: /assets/901.jpg
-categoria: Cine
+categoria: Gaming
 tags:
   - "#Videojuego"
   - "#Curiosidades"
-  - "#Final"
+  - "#FinalFantasy"
 short-description: Sabias estos datos de tu juego favorito Final Fantasy?
 ---
 ### 1.
