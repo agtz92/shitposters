@@ -1,8 +1,8 @@
 ---
-title: "Datos Curiosos de GTA V "
+title: "Datos que no sabias de GTA V "
 date: 2021-05-19T18:40:12.974Z
 featuredimage: /assets/920.jpg
-categoria: Television
+categoria: Gaming
 tags:
   - "#GTAV"
   - "#Curiosidades"
