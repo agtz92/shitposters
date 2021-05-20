@@ -1,7 +1,7 @@
 ---
 title: "Datos Curioso de Final Fantasy "
 date: 2021-05-19T17:44:08.471Z
-featuredimage: /assets/901.jpg
+featuredimage: /assets/901.jpeg
 categoria: Gaming
 tags:
   - "#Videojuego"
