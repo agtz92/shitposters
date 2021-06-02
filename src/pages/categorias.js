@@ -18,6 +18,7 @@ import kebabCase from "lodash/kebabCase"
   Naturaleza: require("../images/slider/Naturaleza.jpg"),
   Random: require("../images/slider/Random.jpg"),
   Television: require("../images/slider/Television.jpg"),
+  Gaming: require("../images/slider/Gaming.jpg"),
 }
 
 

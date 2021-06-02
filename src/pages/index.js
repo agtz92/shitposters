@@ -132,10 +132,12 @@ export default function Home({ data }) {
               ))}
               </div>
               <div className="_5050-div">
+                <div></div><div></div><div></div><div></div>
                 <h1>10DATOS.COM</h1>
                 <p>10datos.com es una página de entretenimiento, publicidad y promoción. Si tienes datos curiosos que quieras compartir con nosotros puedes escribirnos en nuestro facebook o instagram. Para promoción, contáctanos y estaremos encantados de trabajar contigo</p>
               </div>
             </div>
+            <div><Link to="/categorias" ><div className="div-tag marginbottom">Ve todas las categorias</div></Link></div>
             </div>
         </Layout>
     </React.Fragment>
