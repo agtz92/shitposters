@@ -70,6 +70,6 @@ En junio de 2018, el piloto de la F1 se casó con la socialité Carola Martínez
 
 ### 10.
 
-![1369](/assets/1369.jpg "1369")
+![1369](/assets/1000000.jpg "1369")
 
-El primer hijo de la pareja, Sergio Pérez Jr., nació el 21 de diciembre de 2017; mientras que su segunda hija, Carlota, nació el 15 de septiembre de 2019.
+El mexicano Sergio Pérez se impuso este domingo en el Gran Premio de Azerbaiyán tras una carrera caótica en el circuito urbano de Bakú, firmando su primera victoria con el equipo Red Bull y la segunda en la Fórmula 1.
