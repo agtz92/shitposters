@@ -1,7 +1,7 @@
 ---
-title: "10 Datos Curiosos que no sabías de la música "
+title: "10 Datos que te harán sorprenderte de la Música "
 date: 2021-06-16T23:42:59.319Z
-featuredimage: /assets/1629.png
+featuredimage: /assets/989898.jpg
 categoria: Musica
 tags:
   - "#Musica"
