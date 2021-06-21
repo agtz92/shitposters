@@ -19,6 +19,7 @@ import kebabCase from "lodash/kebabCase"
   Random: require("../images/slider/Random.jpg"),
   Television: require("../images/slider/Television.jpg"),
   Gaming: require("../images/slider/Gaming.jpg"),
+  Recomendaciones: require("../images/slider/Recomendaciones.jpg"),
 }
 
 
