@@ -1,7 +1,7 @@
 ---
 title: 10 Datos Curiosos que no sabias de Jim Carrey
 date: 2021-06-18T04:48:17.451Z
-featuredimage: /assets/1634.jpeg
+featuredimage: /assets/1630.jpg
 categoria: Celebridades
 tags:
   - "#Actor"
