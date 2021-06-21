@@ -2,7 +2,7 @@
 title: Sabías cómo empezó la carrera de Johnny Deep?
 date: 2021-03-29T05:11:57.266Z
 featuredimage: /assets/johnny.jpg
-categoria: Cine
+categoria: Celebridades
 tags:
   - "#actores"
   - "#johnny"
