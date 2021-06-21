@@ -43,7 +43,7 @@ Además de Greg Focker, Carrey rechazó la oferta para hacer el fantástico pers
 
 ### 5.
 
-![1634](/assets/1634.jpeg "1634")
+![1634](/assets/1634.jpg "1634")
 
 #### Sus Grandes tesoros 
 
