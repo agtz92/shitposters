@@ -2,7 +2,7 @@
 title: Sabias a que se dedicaba Bruce Willis
 date: 2021-03-29T04:09:14.126Z
 featuredimage: /assets/bruce.jpg
-categoria: Cine
+categoria: Celebridades
 tags:
   - "#dedicacio"
   - "#vida"
