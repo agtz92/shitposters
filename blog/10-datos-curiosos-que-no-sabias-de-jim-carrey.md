@@ -11,7 +11,7 @@ short-description: Cuales de estos datos te sabias de Jim Carrey
 ---
 ### 1.
 
-![1630](/assets/1630.jpg "1630")
+![1634](/assets/1634.jpg "1634")
 
 #### El inicio de una leyenda
 
