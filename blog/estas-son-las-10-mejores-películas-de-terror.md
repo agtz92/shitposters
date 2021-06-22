@@ -2,7 +2,7 @@
 title: Estas son las 10 mejores películas de Terror
 date: 2021-06-11T07:18:18.401Z
 featuredimage: /assets/1339.jpg
-categoria: Cine
+categoria: Recomendaciones
 tags:
   - "#Cine"
   - "#Peliculas"
