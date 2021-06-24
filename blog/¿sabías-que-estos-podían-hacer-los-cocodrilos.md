@@ -65,6 +65,6 @@ El cocodrilo no produce su propio calor, por lo que depende de fuentes externas 
 
 ### 10.
 
-![1849](/assets/1849.jpg "1849")
+![1849](/assets/1850.jpg "1849")
 
 Puede impulsarse con su cola y atacar verticalmente.
