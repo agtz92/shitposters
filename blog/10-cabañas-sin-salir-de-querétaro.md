@@ -12,10 +12,6 @@ short-description: "Querétaro es un estado muy rico en paisajes naturales que
   Querétaro y lánzate un fin de semana para salir de la rutina sin exponerte. En
   ningún orden en particular, te presentamos las siguientes cabañas en Querétaro
   :"
-fact13: estos-son-cosas-que-te-perdiste-black-widow
-fact46: estos-son-cosas-que-te-perdiste-black-widow
-fact79: estos-son-cosas-que-te-perdiste-black-widow
-fact10: estos-son-cosas-que-te-perdiste-black-widow
 ---
 ### 10. 
 
