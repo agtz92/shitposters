@@ -13,7 +13,7 @@ short-description: "En este artículo estudiaremos cómo se pueden cultivar
   espacio luminoso que reciba al menos 6 horas de luz solar al día para obtener
   los mejores resultados. Estos son algunos consejos para elegir el tipo de
   hortaliza adecuado para cultivar en interiores:"
-mk1: >-
+mk1: >+
   ### Tomate Cherry
 
 
@@ -37,7 +37,7 @@ mk1: >-
 
   ![le](/assets/lechuga-en-macetero.jpg "le")
 
-
+mk2: >+
   ### Zanahorias
 
 
@@ -48,7 +48,8 @@ mk1: >-
 
 
   ![za](/assets/maceta-zanahorias-6dic14.jpg "za")
-mk2: >-
+
+
   ### Albahaca
 
 
@@ -57,23 +58,57 @@ mk2: >-
 
   ![al](/assets/como-cuidar-la-albahaca.jpg "al")
 
-
+mk3: >-
   ### Menta
 
 
   La menta se puede utilizar como una bonita planta ornamental y tiene un montón de beneficios para la salud: es antibacteriana, antiinflamatoria y puede ayudar a aliviar los síntomas de las náuseas o los mareos matutinos. Una forma muy fácil de plantar menta es utilizando esquejes de otra planta. Sin embargo, también se pueden utilizar semillas de menta a 5cm de profundidad.
 
 
-  ![me](/assets/f4ff8ba92e221b6ad155911ea5619b1a.jpg "me")
+  ![me](blob:http://localhost:8000/1cded5fa-2fa0-44e1-9dba-5bb1d30b90d7 "me")
 
 
   ### Stevia
 
 
-  Las plantas de Stevia necesitan un entorno cálido y húmedo.  Disfrutan del calor del sol y no necesitan mucha agua ni abono. La planta se ha utilizado durante siglos en Sudamérica como edulcorante alternativo sin las calorías y los carbohidratos del azúcar.  Las hojas pueden recogerse y usarse en postres, tés, café y mucho más para añadir un dulzor natural sin todo el azúcar añadido  La stevia también es muy fácil de cultivar.
-
-  Solamente agrega semillas entre 2 y 5 cm de profundidad y podrás tener brotes en unos cuantos días
+  Las plantas de Stevia necesitan un entorno cálido y húmedo. Disfrutan del calor del sol y no necesitan mucha agua ni abono. La planta se ha utilizado durante siglos en Sudamérica como edulcorante alternativo sin las calorías y los carbohidratos del azúcar. Las hojas pueden recogerse y usarse en postres, tés, café y mucho más para añadir un dulzor natural sin todo el azúcar añadido La stevia también es muy fácil de cultivar. Solamente agrega semillas entre 2 y 5 cm de profundidad y podrás tener brotes en unos cuantos días
 
 
-  ![str](/assets/stevia-en-maceta.jpg "syr")
+  ![str](blob:http://localhost:8000/8dbb38b6-6858-43d0-900a-5f61df0f72dc "syr")
+mk4: >-
+  ### Romero
+
+
+  El cultivo del romero es una tarea bastante sencilla y puede realizarse durante todo el año. La planta puede cultivarse en macetas o directamente en el jardín. Siempre que el suelo esté bien drenado y húmedo, obtendrás un montón de hierbas que podrás utilizar para cocinar y hornear
+
+
+  ![romero](/assets/cuidados-planta-romero-vitaliibezverkhii.jpg "romero")
+
+
+  ### Papa
+
+
+  Tendrás que asegurarte de tener una maceta con agujeros de drenaje, tierra limpia, patatas y un buen lugar soleado. Las patatas necesitan al menos 6 horas de sol al día y mucha agua.
+
+  Te recomendamos comprar una maceta con acceso a las raíces de la planta, así podrás cultivar constantemente (cada 5-10 semanas) papas sin perder la planta completa.
+
+
+  ![papa](/assets/100-pounds-of-potatoes.jpg "papa")
+mk5: >-
+  ### Chile Serrano
+
+
+  Los chiles serranos son de crecimiento indeterminado, lo que significa que pueden necesitar algo de poda, ¡pero eso es todo! A los chiles serranos les gusta mucho el sol y el calor, así que asegúrate de que tu maceta esté cerca de una ventana o bajo una lámpara soleada. Esto aplica también si quieres plantar jalapeños
+
+
+  ![jalapeño](/assets/planta-de-jalapenos.jpg "jalapeño")
+
+
+  ### Perejil
+
+
+  Para los impacientes, basta con comprar una planta en cualquier centro de jardinería o supermercado. Si buscas algo más sostenible, intenta hacer tu propia maceta para cultivar la hierba. Por lo demás, utiliza abono orgánico y fertilizante con moderación, ¡demasiado abrumará las raíces del perejil!
+
+
+  ![perejil](/assets/cuidados_del_perejil_guia_sencilla_1946_1_600.jpg "perejil")
 ---
