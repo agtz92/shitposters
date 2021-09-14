@@ -119,6 +119,7 @@ a:link {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  width:100%;
 }
 .blog-post {
   width: 70%;
@@ -173,6 +174,8 @@ ul, li
   font-size: 18px;
   line-height: 30px;
   font-weight: 500;
+  width:100%;
+  overflow: hidden;
 }
 .div-text-post h3
 {
