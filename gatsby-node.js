@@ -82,9 +82,9 @@ exports.createPages = async ({ graphql, actions }) => {
     })
   })
   //Categorias
-  // Extract tag data from query
+  // Extract categoria data from query
   const categories = result.data.categoriesGroup.group
-  // Make tag pages
+  // Make categoria pages
   categories.forEach(categoria => {
     createPage({
       path: `/categorias/${_.kebabCase(categoria.fieldValue)}/`,

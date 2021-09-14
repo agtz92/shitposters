@@ -5,10 +5,20 @@ import logoChico from "../images/logo_small.png"
 import Layout from "../layouts/layout"
 import Heading from "../components/heading"
 import kebabCase from "lodash/kebabCase"
+import PropTypes from 'prop-types'
+import showdown from 'showdown'
 
 export default function BlogPost({ data }) {
+  
   const post = data.markdownRemark
+  //
+
   const perro = "https://www.10datos.com/";
+  const converter = new showdown.Converter()
+
+  const MarkdownContent = ({ content, className }) => (
+    <div className={className} dangerouslySetInnerHTML={{ __html: converter.makeHtml(content) }} />
+  )
   return (
     <React.Fragment>
     <Helmet >
@@ -62,9 +72,12 @@ export default function BlogPost({ data }) {
                 <p className="parpost">{post.frontmatter.short_description}</p>
             </div>
           </div>
-          <div className="div-text-post" dangerouslySetInnerHTML={{ __html: post.html }} />
+          <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk1) }} />
+          <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk2) }} />
+          <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk3) }} />
+          <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk4) }} />
+          <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk5) }} />
         </div>
-        <div className="div-grey-post"></div>
       </div>
       
     </Layout>
@@ -83,6 +96,11 @@ export const query = graphql`
         date(formatString: "MM-DD-YYYY")
         short_description
         tags
+        mk1
+        mk2
+        mk3
+        mk4
+        mk5
       }
       fields{
           slug

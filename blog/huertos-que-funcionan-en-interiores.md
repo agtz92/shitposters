@@ -65,7 +65,7 @@ mk3: >-
   La menta se puede utilizar como una bonita planta ornamental y tiene un montón de beneficios para la salud: es antibacteriana, antiinflamatoria y puede ayudar a aliviar los síntomas de las náuseas o los mareos matutinos. Una forma muy fácil de plantar menta es utilizando esquejes de otra planta. Sin embargo, también se pueden utilizar semillas de menta a 5cm de profundidad.
 
 
-  ![me](blob:http://localhost:8000/1cded5fa-2fa0-44e1-9dba-5bb1d30b90d7 "me")
+  ![menta](/assets/f4ff8ba92e221b6ad155911ea5619b1a.jpg "menta")
 
 
   ### Stevia
@@ -74,7 +74,7 @@ mk3: >-
   Las plantas de Stevia necesitan un entorno cálido y húmedo. Disfrutan del calor del sol y no necesitan mucha agua ni abono. La planta se ha utilizado durante siglos en Sudamérica como edulcorante alternativo sin las calorías y los carbohidratos del azúcar. Las hojas pueden recogerse y usarse en postres, tés, café y mucho más para añadir un dulzor natural sin todo el azúcar añadido La stevia también es muy fácil de cultivar. Solamente agrega semillas entre 2 y 5 cm de profundidad y podrás tener brotes en unos cuantos días
 
 
-  ![str](blob:http://localhost:8000/8dbb38b6-6858-43d0-900a-5f61df0f72dc "syr")
+  ![stevia](/assets/stevia-en-maceta.jpg "stevia")
 mk4: >-
   ### Romero
 

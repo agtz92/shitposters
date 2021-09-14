@@ -9,103 +9,103 @@ tags:
   - "#desarollo"
 short-description: Este animal tiene mas musculos que nadie en el reino animal y
   9 cosas mas que no sabias de los animales
----
-### 1.
+mk1: >+
+  ### 1.
 
-#### Parecido con la realidad es pura coincidencia 
+  #### Parecido con la realidad es pura coincidencia 
 
-![tortuga](/assets/parecido.png "tortuga")
+  ![tortuga](/assets/parecido.png "tortuga")
 
-Ya sabía yo  <br/>
-Siempre puedes distinguir una tortuga macho de una hembra las hembras y sean mientras los machos gruñen suena familiar
-
-
-
-### 2.
-
-#### Perro mion 
-
-![perro](/assets/perromion.jpg "perro")
-
-Te lo habías preguntado <br/>
-Los perros machos levantan su pata para orinar porque quieren apuntar lo más alto posible de esta manera aparecerán grandes e intimidantes algunos perros salvajes africanos sin embargo llevan esto aún más lejos y suben corriendo a los troncos de los árboles o al menos intentan iluminar para mostrar al mundo cuán grandes y aterradores son
+  Ya sabía yo  <br/>
+  Siempre puedes distinguir una tortuga macho de una hembra las hembras y sean mientras los machos gruñen suena familiar
 
 
 
-### 3.
+  ### 2.
 
-#### Me siento observado 
+  #### Perro mion 
 
-![mariposas ](/assets/mariposas.jpg "mariposas ")
+  ![perro](/assets/perromion.jpg "perro")
+
+  Te lo habías preguntado <br/>
+  Los perros machos levantan su pata para orinar porque quieren apuntar lo más alto posible de esta manera aparecerán grandes e intimidantes algunos perros salvajes africanos sin embargo llevan esto aún más lejos y suben corriendo a los troncos de los árboles o al menos intentan iluminar para mostrar al mundo cuán grandes y aterradores son
 
 
+mk2: >+
+  ### 3.
 
-Más ojos que nadie <br/>
-las mariposas monarcas tienen 12 mil ojos además esta criatura con ojos saltones puede poner más de 250 huevos por día
+  #### Me siento observado 
 
-### 4.
-
-#### Una mirada en todos lados 
-
-![estreella](/assets/estrella.jpg "estrella")
-
-¿Lo sabías?<br/>
-Una estrella de mar tiene ocho ojos uno en cada una de sus ocho patas
+  ![mariposas ](/assets/mariposas.jpg "mariposas ")
 
 
 
-### 5.
+  Más ojos que nadie <br/>
+  las mariposas monarcas tienen 12 mil ojos además esta criatura con ojos saltones puede poner más de 250 huevos por día
 
-#### Metanlo a alcatraz 
+  ### 4.
 
-![topo](/assets/topo.jpg "topo")
+  #### Una mirada en todos lados 
 
-Una buen manera de escapar <br/>
-Un topo podría fácilmente escapar de la prisión en solo una noche es capaz de excavar un túnel de 90 metros de largo
+  ![estreella](/assets/estrella.jpg "estrella")
 
-### 6.
-
-#### Por que tenias que ser tan alto 
-
-![jirafa](/assets/12.jpg "jirafa")
+  ¿Lo sabías?<br/>
+  Una estrella de mar tiene ocho ojos uno en cada una de sus ocho patas
 
 
+mk3: >+
+  ### 5.
 
-Para llegar hasta el cerebro <br/>
-El corazón de una jirafa debe ser extremadamente trabajador de hecho bombea dos veces más duro que el de la vaca para llevar sangre al cerebro
+  #### Metanlo a alcatraz 
 
-### 7.
+  ![topo](/assets/topo.jpg "topo")
 
-#### AW no estamos lejos 
+  Una buen manera de escapar <br/>
+  Un topo podría fácilmente escapar de la prisión en solo una noche es capaz de excavar un túnel de 90 metros de largo
 
-![mariposa](/assets/21.jpg "mariposas")
+  ### 6.
 
-Una cosa rara, ¿no?<br/>
-Los exoesqueletos no solo existen en las películas de ciencia ficción hay criaturas a nuestro alrededor que los usan todos los días las mariposas sus esqueletos están en el exterior no dentro de sus cuerpos
+  #### Por que tenias que ser tan alto 
 
-### 8.
+  ![jirafa](/assets/12.jpg "jirafa")
 
-#### Un nombre compartido 
 
-![abeja](/assets/dumbledore.jpg "abeja")
 
-¿Sabías este dato curioso?<br/>
-Tal vez reconozcas a dumbledore como el director de hogwarts pero este también es un término antiguo para un tipo específico de abeja
+  Para llegar hasta el cerebro <br/>
+  El corazón de una jirafa debe ser extremadamente trabajador de hecho bombea dos veces más duro que el de la vaca para llevar sangre al cerebro
+mk4: >+
+  ### 7.
 
-> ### 9.
->
-> #### Mi bebe se tiene que acordar de mi 
->
-> ![perro](/assets/llamada.jpg "perro")
+  #### AW no estamos lejos 
 
-Para que no esten  solos <br/>
-Un estudio encontró que el 33% de los dueños de perros habla por teléfono con sus mascotas o les deja mensajes en el contestador automático cuando tienen que estar lejos de casa eres uno de ellos
+  ![mariposa](/assets/21.jpg "mariposas")
 
-### 10.
+  Una cosa rara, ¿no?<br/>
+  Los exoesqueletos no solo existen en las películas de ciencia ficción hay criaturas a nuestro alrededor que los usan todos los días las mariposas sus esqueletos están en el exterior no dentro de sus cuerpos
 
-#### Una cabeza desarrollada 
+  ### 8.
 
-![](/assets/oruga.jpg)
+  #### Un nombre compartido 
 
-248? que?<br/>
-Crees que tienes muchos músculos en tu cuerpo bueno eso podría ser cierto pero nunca superarás a una oruga común solo en su cabeza tiene 248 músculos
+  ![abeja](/assets/dumbledore.jpg "abeja")
+
+  ¿Sabías este dato curioso?<br/>
+  Tal vez reconozcas a dumbledore como el director de hogwarts pero este también es un término antiguo para un tipo específico de abeja
+mk5: >+
+  ### 9.
+
+  #### Mi bebe se tiene que acordar de mi 
+
+  ![perro](/assets/llamada.jpg "perro")
+
+  Para que no esten  solos <br/>
+  Un estudio encontró que el 33% de los dueños de perros habla por teléfono con sus mascotas o les deja mensajes en el contestador automático cuando tienen que estar lejos de casa eres uno de ellos
+
+  ### 10.
+
+  #### Una cabeza desarrollada 
+
+  ![](/assets/oruga.jpg)
+
+  248? que?<br/>
+  Crees que tienes muchos músculos en tu cuerpo bueno eso podría ser cierto pero nunca superarás a una oruga común solo en su cabeza tiene 248 músculos
