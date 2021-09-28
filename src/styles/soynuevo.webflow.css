@@ -131,14 +131,7 @@ ul, li
 } 
 .tags-div
 {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: left;
-  -webkit-justify-content: left;
-  -ms-flex-pack: left;
-  justify-content: left;
+  display: block;
 }
 .div-grey-post {
   width: 15%;
@@ -314,6 +307,10 @@ ul, li
 }
 @media screen and (max-width: 767px)
 {
+  .tags-div
+  {
+    display: block;
+  }
 .w-icon-nav-menu {
     -webkit-filter: invert(100%);
     filter: invert(100%);
@@ -1573,6 +1570,7 @@ ul, li
 .div-tag {
     background-color:#3a3a3a;
     color:#fff;
+    margin-bottom: 5px;
 }
 .parpost.light {
   color: #797979;

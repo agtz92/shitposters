@@ -57,7 +57,7 @@ export default function BlogPost({ data }) {
     </Helmet>
     <Layout>
       <div className="blog-post-container">
-        <div className="div-grey-post"></div>
+        <div className="div-grey-post"/>
         <div className="blog-post">
           <div className="top-post">
             <div className="featuredimage" ><img src={ post.frontmatter.featuredimage} loading="lazy" width="500" alt="" className="img-large-post"/></div>
@@ -78,6 +78,7 @@ export default function BlogPost({ data }) {
           <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk4) }} />
           <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk5) }} />
         </div>
+        <div className="div-grey-post"/>
       </div>
       
     </Layout>
