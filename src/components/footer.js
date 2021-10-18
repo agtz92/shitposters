@@ -41,7 +41,8 @@ export default function Footer() {
                     <div>
                     <h2 className="footer-heading">Partners</h2>
                     <ul  className="list-footer w-list-unstyled">
-                        <li><a className="footer-link" href="https://www.antesdelexamen.com"  rel="noopener noreferrer">Bancos de preguntas UNAM</a></li>
+                        <li><a className="footer-link" href="https://www.antesdelexamen.com"  rel="noopener">Bancos de preguntas UNAM</a></li>
+                        <li><a className="footer-link" href="https://www.3minread.com"  rel="noopener">Latest trends and news under 3 min!</a></li>
                     </ul>
                     </div>
                 </div>
