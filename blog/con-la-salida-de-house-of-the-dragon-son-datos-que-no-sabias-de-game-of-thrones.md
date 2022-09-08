@@ -85,9 +85,10 @@ mk5: >-
 
 
   ![2](/assets/theons8e1.webp "2")
+
+  ## 1. Sabias que?
+
+  A principios de la década de 2000, Lena Headey y Jerome Flynn tuvieron un romance. Pero las cosas no funcionaron y la actriz se casó con Peter Loughran en 2007. Headey y Flynn compartieron reparto en Juego de Tronos. Sin embargo, en 2014 se reveló una cláusula que solicitaron a la producción para prohibir que ambos actores estuvieran en el mismo set de rodaje. La cláusula fue añadida tras finalizar el rodaje de la primera temporada, y en ella se estipulaba que los actores no podían estar a menos de tres metros el uno del otro mientras estuvieran en el set. Al parecer, la cláusula provocó tensiones en el plató, ya que los actores tenían que rodar por separado y sus escenas se editaban a menudo juntas en la posproducción. Sin embargo, Headey y Flynn han afirmado que no tienen malos sentimientos el uno hacia el otro y que son capaces de trabajar juntos profesionalmente.
+
+  ![1](/assets/cersei_jerome.jpg_231334169.webp "1")
 ---
-## 1. Sabias que?
-
-A principios de la década de 2000, Lena Headey y Jerome Flynn tuvieron un romance. Pero las cosas no funcionaron y la actriz se casó con Peter Loughran en 2007. Headey y Flynn compartieron reparto en Juego de Tronos. Sin embargo, en 2014 se reveló una cláusula que solicitaron a la producción para prohibir que ambos actores estuvieran en el mismo set de rodaje. La cláusula fue añadida tras finalizar el rodaje de la primera temporada, y en ella se estipulaba que los actores no podían estar a menos de tres metros el uno del otro mientras estuvieran en el set. Al parecer, la cláusula provocó tensiones en el plató, ya que los actores tenían que rodar por separado y sus escenas se editaban a menudo juntas en la posproducción. Sin embargo, Headey y Flynn han afirmado que no tienen malos sentimientos el uno hacia el otro y que son capaces de trabajar juntos profesionalmente.
-
-![1](/assets/cersei_jerome.jpg_231334169.webp "1")

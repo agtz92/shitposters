@@ -84,9 +84,10 @@ mk5: >-
 
 
   ![9](/assets/1623373909_400176_1623374084_noticia_normal_recorte1.jpg "9")
+
+  ## 1. Sabias que?
+
+  El tráfico en Ciudad de México es una pesadilla. La buena noticia es que, gracias a este nuevo y eficiente sistema de transporte, 187 mil personas han dejado de utilizar el coche. La mala noticia es que en esta hermosa ciudad hay más de 20 millones de personas (en la Zona Metropolitana del Valle de México). La velocidad media en horas punta es de 7 km/h, lo que significa que se tarda casi una hora y media en recorrer los 14 km de un lado a otro de la ciudad. Pero el verdadero problema no es el tiempo que se tarda en llegar del punto A al punto B, sino la contaminación. México D.F. es una de las ciudades más contaminadas del mundo, y las emisiones de los coches contribuyen en gran medida a la contaminación del aire. Los atascos no sólo causan frustración y pérdida de tiempo, sino que también contribuyen a la mala calidad del aire. Afortunadamente, este nuevo sistema de transporte ofrece una forma más limpia y eficiente de moverse por la ciudad.
+
+  ![10](/assets/maxresdefault-2.jpg "101")
 ---
-## 1. Sabias que?
-
-El tráfico en Ciudad de México es una pesadilla. La buena noticia es que, gracias a este nuevo y eficiente sistema de transporte, 187 mil personas han dejado de utilizar el coche. La mala noticia es que en esta hermosa ciudad hay más de 20 millones de personas (en la Zona Metropolitana del Valle de México). La velocidad media en horas punta es de 7 km/h, lo que significa que se tarda casi una hora y media en recorrer los 14 km de un lado a otro de la ciudad. Pero el verdadero problema no es el tiempo que se tarda en llegar del punto A al punto B, sino la contaminación. México D.F. es una de las ciudades más contaminadas del mundo, y las emisiones de los coches contribuyen en gran medida a la contaminación del aire. Los atascos no sólo causan frustración y pérdida de tiempo, sino que también contribuyen a la mala calidad del aire. Afortunadamente, este nuevo sistema de transporte ofrece una forma más limpia y eficiente de moverse por la ciudad.
-
-![10](/assets/maxresdefault-2.jpg "101")

@@ -84,9 +84,10 @@ mk5: >-
 
 
   ![9](/assets/foto-1-31.jpg "9")
+
+  ## 1. Sabias que?
+
+  En Breaking Bad, se introduce el elemento samario como un isótopo que se utiliza para tratar el cáncer de pulmón. Sin embargo, este elemento es más de lo que parece. En la tabla periódica, el samario es el 62º elemento. Resulta que éste es el número de capítulos de Breaking Bad. Puede parecer una coincidencia, pero en el mundo de Breaking Bad no hay coincidencias. Cada detalle de la serie ha sido cuidadosamente planeado por los creadores. Por ello, es probable que la inclusión del samario no haya sido una elección al azar, sino un guiño deliberado a la importancia del elemento en la tabla periódica. Sea o no el significado deseado, está claro que el samario juega un papel importante en Breaking Bad y sirve como recordatorio de que incluso los detalles más pequeños pueden tener un gran impacto.
+
+  ![1](/assets/evnxrblxyaakmxt.jpg "110")
 ---
-## 1. Sabias que?
-
-En Breaking Bad, se introduce el elemento samario como un isótopo que se utiliza para tratar el cáncer de pulmón. Sin embargo, este elemento es más de lo que parece. En la tabla periódica, el samario es el 62º elemento. Resulta que éste es el número de capítulos de Breaking Bad. Puede parecer una coincidencia, pero en el mundo de Breaking Bad no hay coincidencias. Cada detalle de la serie ha sido cuidadosamente planeado por los creadores. Por ello, es probable que la inclusión del samario no haya sido una elección al azar, sino un guiño deliberado a la importancia del elemento en la tabla periódica. Sea o no el significado deseado, está claro que el samario juega un papel importante en Breaking Bad y sirve como recordatorio de que incluso los detalles más pequeños pueden tener un gran impacto.
-
-![1](/assets/evnxrblxyaakmxt.jpg "110")

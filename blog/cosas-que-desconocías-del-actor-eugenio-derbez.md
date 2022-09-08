@@ -87,9 +87,10 @@ mk5: >-
 
 
   ![2](/assets/eugenio-derbez-1-a.jpg "2")
+
+  ## 1. Sabias que?
+
+  Esta semana, el actor y comediante mexicano Eugenio Derbez estrenó su nueva película "¿Y cómo es él?" en el lujoso barrio de Polanco de Ciudad de México. Derbez no es ajeno a la zona, ya que también fue el lugar donde se estrenó en 2007 "Fuera del cielo", película que protagonizó con su entonces pareja Alessandra Rosaldo. La pareja asistió junta al estreno, y cuando los periodistas le preguntaron cuánto tiempo llevaban juntos, Derbez bromeó: "¿cuándo estarán listos los niños?" En la actualidad, la pareja tiene una hija y siguen siendo buenos amigos. "¿Y cómo es él?" es una comedia desenfadada sobre un grupo de amigos que intentan emparejar a su amigo soltero con la mujer perfecta. Aunque Derbez es quizás más conocido por su trabajo en televisión, ha demostrado ser un talento versátil con una serie de películas de éxito en su haber. Con "¿Y cómo es él?", Derbez vuelve a demostrar sus dotes para la comedia y demuestra que es una fuerza a tener en cuenta en Hollywood.
+
+  ![1](/assets/ycomoesel_omar-900x506.jpg "1")
 ---
-## 1. Sabias que?
-
-Esta semana, el actor y comediante mexicano Eugenio Derbez estrenó su nueva película "¿Y cómo es él?" en el lujoso barrio de Polanco de Ciudad de México. Derbez no es ajeno a la zona, ya que también fue el lugar donde se estrenó en 2007 "Fuera del cielo", película que protagonizó con su entonces pareja Alessandra Rosaldo. La pareja asistió junta al estreno, y cuando los periodistas le preguntaron cuánto tiempo llevaban juntos, Derbez bromeó: "¿cuándo estarán listos los niños?" En la actualidad, la pareja tiene una hija y siguen siendo buenos amigos. "¿Y cómo es él?" es una comedia desenfadada sobre un grupo de amigos que intentan emparejar a su amigo soltero con la mujer perfecta. Aunque Derbez es quizás más conocido por su trabajo en televisión, ha demostrado ser un talento versátil con una serie de películas de éxito en su haber. Con "¿Y cómo es él?", Derbez vuelve a demostrar sus dotes para la comedia y demuestra que es una fuerza a tener en cuenta en Hollywood.
-
-![1](/assets/ycomoesel_omar-900x506.jpg "1")

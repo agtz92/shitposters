@@ -84,9 +84,10 @@ mk5: >-
 
 
   ![9](/assets/legends-profile_sir-bobby-charlton1523461176559.jpg "9")
+
+  ## 1. Sabias Que?
+
+  El estadio Old Trafford del Manchester United es el tercero más grande del Reino Unido, por detrás del estadio de Wembley y del de Twickenham. Con una capacidad de 76.000 espectadores, puede albergar más aficionados que cualquier otro estadio del país. El tamaño del estadio permite al Manchester United generar grandes cantidades de ingresos procedentes de la venta de entradas para los partidos y de la venta de productos. Además, la gran capacidad del estadio también lo convierte en uno de los lugares más populares para conciertos y otros eventos. Old Trafford es la sede del Manchester United desde 1910 y ha albergado algunos de los mayores acontecimientos deportivos del mundo, como la final de la Liga de Campeones de la UEFA y la final de la Copa Mundial de la FIFA. El estadio es realmente un lugar deportivo colosal y es un símbolo icónico de la marca global del Manchester United.
+
+  ![23](/assets/old_trafford_inside_1.jpg "23")
 ---
-## 1. Sabias Que?
-
-El estadio Old Trafford del Manchester United es el tercero más grande del Reino Unido, por detrás del estadio de Wembley y del de Twickenham. Con una capacidad de 76.000 espectadores, puede albergar más aficionados que cualquier otro estadio del país. El tamaño del estadio permite al Manchester United generar grandes cantidades de ingresos procedentes de la venta de entradas para los partidos y de la venta de productos. Además, la gran capacidad del estadio también lo convierte en uno de los lugares más populares para conciertos y otros eventos. Old Trafford es la sede del Manchester United desde 1910 y ha albergado algunos de los mayores acontecimientos deportivos del mundo, como la final de la Liga de Campeones de la UEFA y la final de la Copa Mundial de la FIFA. El estadio es realmente un lugar deportivo colosal y es un símbolo icónico de la marca global del Manchester United.
-
-![23](/assets/old_trafford_inside_1.jpg "23")

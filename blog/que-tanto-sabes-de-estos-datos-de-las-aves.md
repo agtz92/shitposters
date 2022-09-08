@@ -97,9 +97,10 @@ mk5: >-
 
 
   ![2](/assets/2018101011171418354.jpg "2")
+
+  ## 1. Sabias que?
+
+  Pollitos con dientes es un término utilizado para describir a las crías de pollo o pato que tienen una protuberancia parecida a un diente en la punta del pico. Esta adaptación natural ayuda a las crías a atravesar la cáscara de los huevos y salir del cascarón. La estructura en forma de diente está formada por una queratina resistente y se desprende una vez que el polluelo ha salido del cascarón y ha empezado a desarrollar su pico normal. Aunque pueda parecer un fenómeno extraño, los polluelos con dientes son en realidad bastante comunes, y desempeñan un papel importante en el desarrollo del animal.
+
+  ![1](/assets/main-qimg-d65c152110a5b12f121ebeaed675be45-c.jpg "1")
 ---
-## 1. Sabias que?
-
-Pollitos con dientes es un término utilizado para describir a las crías de pollo o pato que tienen una protuberancia parecida a un diente en la punta del pico. Esta adaptación natural ayuda a las crías a atravesar la cáscara de los huevos y salir del cascarón. La estructura en forma de diente está formada por una queratina resistente y se desprende una vez que el polluelo ha salido del cascarón y ha empezado a desarrollar su pico normal. Aunque pueda parecer un fenómeno extraño, los polluelos con dientes son en realidad bastante comunes, y desempeñan un papel importante en el desarrollo del animal.
-
-![1](/assets/main-qimg-d65c152110a5b12f121ebeaed675be45-c.jpg "1")

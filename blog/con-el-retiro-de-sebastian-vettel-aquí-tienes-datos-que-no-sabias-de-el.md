@@ -87,11 +87,12 @@ mk5: >-
 
 
   ![232](/assets/sebastian-vettel-2704395.webp "23")
+
+  ## 1. Sabias Que?
+
+  Además de su éxito en la pista, Vettel también es conocido por sus opiniones francas en las redes sociales. Ha criticado repetidamente Facebook y Twitter, calificándolos de "pérdida de tiempo" y "distracción". En una entrevista con The Guardian, dijo que "la gente está tan preocupada por lo que los demás piensan de ellos. Es como volver al colegio y enseñar tus zapatos nuevos o algo así. ¿A quién le importa?" Los comentarios de Vettel han generado un gran debate, con algunas personas que están de acuerdo con su crítica a las redes sociales y otras que argumentan que pueden ser una herramienta útil si se utilizan correctamente. 
+
+  Hasta ahora ya que las ultimas semanas se creo su perfil y en este mismo anuncio su retiro, lamentablemente nos quedamos sin el 4 veces campeón, claramente lo vamos a extrañar 
+
+  ![vettel](/assets/descarga-1-.jfif "vettel")
 ---
-## 1. Sabias Que?
-
-Además de su éxito en la pista, Vettel también es conocido por sus opiniones francas en las redes sociales. Ha criticado repetidamente Facebook y Twitter, calificándolos de "pérdida de tiempo" y "distracción". En una entrevista con The Guardian, dijo que "la gente está tan preocupada por lo que los demás piensan de ellos. Es como volver al colegio y enseñar tus zapatos nuevos o algo así. ¿A quién le importa?" Los comentarios de Vettel han generado un gran debate, con algunas personas que están de acuerdo con su crítica a las redes sociales y otras que argumentan que pueden ser una herramienta útil si se utilizan correctamente. 
-
-Hasta ahora ya que las ultimas semanas se creo su perfil y en este mismo anuncio su retiro, lamentablemente nos quedamos sin el 4 veces campeón, claramente lo vamos a extrañar 
-
-![vettel](/assets/descarga-1-.jfif "vettel")

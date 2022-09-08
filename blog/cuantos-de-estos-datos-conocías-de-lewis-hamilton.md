@@ -86,9 +86,10 @@ mk5: >-
 
 
   ![piano](/assets/lewis_hamilton_001.jpg "piano")
+
+  ## 1. Sabias Que?
+
+  La colección de coches deportivos del británico es legendaria. Su Shelby GT500 de 1967 es un muscle car clásico que seguro que hace girar las cabezas, mientras que su Ferrari 599 SA Aperta es una obra de arte que seguro que impresiona incluso al coleccionista más exigente. Su Mercedes-AMG Project One es un hipercoche que seguro que acelera el pulso, mientras que su McLaren P1 es una auténtica obra maestra de la ingeniería. Por último, su Pagani Zonda 760 es una auténtica obra de arte que te dejará sin aliento. Cada uno de estos coches es un absoluto placer de conducir y sería la envidia de cualquier amante de los coches. ¡Gracias por considerar mi colección!
+
+  ![coches ](/assets/lewis-hamilton-shelby-cobra.jpg "ciches")
 ---
-## 1. Sabias Que?
-
-La colección de coches deportivos del británico es legendaria. Su Shelby GT500 de 1967 es un muscle car clásico que seguro que hace girar las cabezas, mientras que su Ferrari 599 SA Aperta es una obra de arte que seguro que impresiona incluso al coleccionista más exigente. Su Mercedes-AMG Project One es un hipercoche que seguro que acelera el pulso, mientras que su McLaren P1 es una auténtica obra maestra de la ingeniería. Por último, su Pagani Zonda 760 es una auténtica obra de arte que te dejará sin aliento. Cada uno de estos coches es un absoluto placer de conducir y sería la envidia de cualquier amante de los coches. ¡Gracias por considerar mi colección!
-
-![coches ](/assets/lewis-hamilton-shelby-cobra.jpg "ciches")

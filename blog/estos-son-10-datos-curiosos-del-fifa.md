@@ -70,9 +70,10 @@ mk5: >-
 
 
   ![2](/assets/copa_mundial_fifa.webp "2")
+
+  ## 3. Sabias que?
+
+  A lo largo de los años, FIFA se ha convertido en una de las franquicias de videojuegos más populares del mundo. Desde su creación en 1993, la franquicia ha lanzado 39 versiones diferentes del juego, y la de EA Sports FC será la última. El lanzamiento de FIFA 23 está previsto para finales de este año. La franquicia ha sido increíblemente popular a lo largo de los años, y cada nueva versión ha vendido millones de copias en todo el mundo. El éxito de la franquicia puede atribuirse a una serie de factores, como su enfoque en el realismo, su amplio acuerdo de licencia con las principales ligas y clubes de fútbol, y sus innovadoras características de juego. Con cada nueva entrega, FIFA ha conseguido mantener a los jugadores enganchados al juego, y está claro que esto continuará con EA Sports FC.
+
+  ![1](/assets/lgeree5z5zfzbjaqomdflptvce.jpg "1")
 ---
-## 3. Sabias que?
-
-A lo largo de los años, FIFA se ha convertido en una de las franquicias de videojuegos más populares del mundo. Desde su creación en 1993, la franquicia ha lanzado 39 versiones diferentes del juego, y la de EA Sports FC será la última. El lanzamiento de FIFA 23 está previsto para finales de este año. La franquicia ha sido increíblemente popular a lo largo de los años, y cada nueva versión ha vendido millones de copias en todo el mundo. El éxito de la franquicia puede atribuirse a una serie de factores, como su enfoque en el realismo, su amplio acuerdo de licencia con las principales ligas y clubes de fútbol, y sus innovadoras características de juego. Con cada nueva entrega, FIFA ha conseguido mantener a los jugadores enganchados al juego, y está claro que esto continuará con EA Sports FC.
-
-![1](/assets/lgeree5z5zfzbjaqomdflptvce.jpg "1")

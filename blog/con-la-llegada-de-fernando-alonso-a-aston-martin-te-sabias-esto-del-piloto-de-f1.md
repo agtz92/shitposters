@@ -91,9 +91,10 @@ mk5: >-
 
 
   ![as](/assets/enfoques_355726714_107101746_1706x960.jpg "as")
+
+  ## 1. Sabias Que?
+
+  Poca gente conoce su colección de coches en miniatura que guarda desde su infancia. Alonso empezó a coleccionar miniaturas cuando era sólo un niño, y su colección incluye ahora cientos de coches de todo el mundo. Aunque la mayoría de la gente sólo ve a Alonso como un feroz competidor en la pista de carreras, su colección es un testimonio de su pasión por los coches y su atención al detalle. Desde raros Ferraris a clásicos Porsches, la colección de Alonso es realmente un espectáculo para la vista.
+
+  ![qw](/assets/fernando-alonso-quinto-recado-fia-202288164-1656870407_1.jpg "qw")
 ---
-## 1. Sabias Que?
-
-Poca gente conoce su colección de coches en miniatura que guarda desde su infancia. Alonso empezó a coleccionar miniaturas cuando era sólo un niño, y su colección incluye ahora cientos de coches de todo el mundo. Aunque la mayoría de la gente sólo ve a Alonso como un feroz competidor en la pista de carreras, su colección es un testimonio de su pasión por los coches y su atención al detalle. Desde raros Ferraris a clásicos Porsches, la colección de Alonso es realmente un espectáculo para la vista.
-
-![qw](/assets/fernando-alonso-quinto-recado-fia-202288164-1656870407_1.jpg "qw")
