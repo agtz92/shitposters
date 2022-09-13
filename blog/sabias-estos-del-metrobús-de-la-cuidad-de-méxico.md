@@ -2,7 +2,7 @@
 title: Sabias estos del Metrobús de la Cuidad de México?
 date: 2022-08-19T20:42:48.941Z
 featuredimage: /assets/1628201652_157628_1628202646_noticia_normal.jpg
-categoria: Deportes
+categoria: Historia
 tags:
   - "#MBDCDMX"
   - "#Estaciones"
