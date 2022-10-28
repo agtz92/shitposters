@@ -1,5 +1,5 @@
 ---
-title: "Datos Curioso del Gran Premio "
+title: "Datos Curioso del Gran Premio de Bahrein "
 date: 2022-10-06T00:23:24.526Z
 featuredimage: /assets/19349_motorlat-f1-gp-de-bahrein-2021-horarios-donde-y-como-ver-el-bahreingp-en-vivo-distribucion-de-la-programacion-por-espn-y-star-channel-v59.jpg
 categoria: Deportes
