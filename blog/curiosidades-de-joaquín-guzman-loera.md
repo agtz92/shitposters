@@ -1,7 +1,7 @@
 ---
-title: Curiosidades de Joaquín Guzman Loera
+title: "Curiosidades de la pelicula del Hobbit "
 date: 2023-01-06T05:18:26.741Z
-featuredimage: /assets/a35u5a3osuq347jgairus5qmry.jpg
+featuredimage: /assets/el_hobbit_un_viaje_inesperado-553043083-large.jpg
 categoria: Random
 tags:
   - "#Narcotraficantes"
@@ -11,61 +11,61 @@ mk1: >-
   ## 1﻿. Sabias que?
 
 
-  El Chapo Guzmán, uno de los capos de la droga más famosos de la historia, tiene un origen familiar tan humilde como cualquiera, que comienza con su nacimiento el 4 de abril de 1957 en La Tuna. Un pequeño pueblo mexicano situado en el municipio de Badiraguato, fue la educación que recibiría de su familia lo que le puso en el camino hacia la infamia. El trato cruel de su padre y su desprecio por el bienestar del joven Joaquín le llevaron a huir de casa a una edad temprana, una situación que hizo que vivir con su severo abuelo fuera una opción mucho más atractiva que si hubiera permanecido bajo el techo de su padre. ¿Quién sabe dónde estaría hoy el Chapo si no hubiera experimentado tales dificultades durante este periodo?
+  A pesar de la impecable interpretación de Martin Freeman como Bilbo Bolsón en la trilogía de El Hobbit, es interesante imaginar cómo habría sido la película si cualquiera de estos otros actores se hubiera encargado del papel. Cada uno poseía puntos fuertes muy diferentes, desde la capacidad de Daniel Radcliffe para representar la inocencia y la experiencia juveniles, hasta la habilidad de Shia La Boeuf para las escenas intensas. James McAvoy, sin duda, habría aportado una presencia contenida pero digna, mientras que Tobie Maguire podría resaltar muy bien la naturaleza astuta de Bilbo. Sin embargo, ninguna de estas interpretaciones estaba a la altura de la de Martin Freeman, por lo que finalmente fue elegido para interpretar a Bilbo en El Hobbit.
 
 
   ## 2﻿. Sabias que?
 
 
-  El famoso capo de la droga Chapo Guzmán, que obtuvo reconocimiento mundial por sus astutas tácticas comerciales y sus audaces fugas de prisión, nació el 4 de abril de 1957 en La Tuna, México, en el seno de una familia de campesinos pobres. Al parecer, su padre le buscaba con regularidad y, cuando el Chapo llegó a la adolescencia, incluso le echó de casa. Sin hogar y a la deriva, Guzmán encontró consuelo y refugio en casa de su abuelo, donde estableció unas raíces de estabilidad familiar que resultaron inestimables a lo largo de todas las tribulaciones a las que se enfrentaría más tarde.
+  Es difícil imaginar a otro que no sea Martin Freeman como Bilbo Bolsón, el personaje titular de El Hobbit. Sin embargo, cuando se presentó por primera vez el concepto del casting, se barajaron múltiples actores para el papel. Se rumoreó que Daniel Radcliffe, Shia La Boeuf, James Mcavoy y Tobie Maguire estaban interesados en interpretar el papel de Bilbo. ¿Quién sabe lo que podría haber sido si uno de estos conocidos actores hubiera aceptado el papel? En última instancia, sin embargo, es seguro decir que Martin Freeman ha conseguido captar perfectamente el carácter y el encanto de Bilbo.
 mk2: >-
   ## 3﻿. Sabias que?
 
 
-  Cuando se trata de fugarse de la cárcel, nadie puede batir el récord del infame narcotraficante mexicano Joaquín Archivaldo Guzmán Loera, más conocido como "Chapo". Capturado por primera vez el 22 de noviembre de 1993 en Guatemala, el Chapo acabó ingresando en la prisión de máxima seguridad de Puente Grande, en Jalisco. Poco sabía nadie que pronto se escabulliría de esta prisión mediante una fuga ingeniosamente planeada y desaparecería en un agujero negro. Las extraordinarias capacidades de rata del Chapo le hicieron tan famoso que Puente Grande pasó a conocerse localmente como "Puerta Grande" a partir de entonces. A pesar de todos los esfuerzos de los escuadrones especiales de búsqueda para recapturarlo, el Chapo los eludió durante años.
+  Hace unos años, el querido autor Guillermo del Toro fue contratado para dirigir las películas de El Hobbit, dejando a los fans salivando ante lo que sería de la querida historia de J. R. R Tolkien. Si hubiera dirigido las películas, sin duda habría sido algo digno de contemplar, con su característico estilo oscuro y fantástico. Por desgracia, problemas contractuales y de derechos provocaron retrasos en la producción que obligaron a Del Toro a retirarse; resulta desalentador pensar en lo que podría haber sido si hubiera seguido a bordo. Sin embargo, a pesar de la decepción, no se puede negar que la trilogía sigue siendo un testimonio fantástico del poder de los libros de Tolkiens, ¡y esperemos que Del Toro vuelva pronto a dirigir historias de la Tierra Media!
 
 
   ## 4﻿. Sabias que?
 
 
-  A pesar de llevar a cabo un reinado de terror de tres décadas como uno de los capos de la droga más famosos del mundo, el Chapo Guzmán también consiguió encontrar tiempo para su familia, casándose tres veces y engendrando nueve hijos. Su primera esposa, Alejandrina María Salazar Hernández, le dio tres hijos, el mayor de los cuales es César, de 43 años. Su segunda esposa dio a luz a cuatro más, entre ellos Joaquín Guzman, que nació en 1989 a los 22 años. La última esposa del Chapo Guzmán, Emma Coronel, actuó como su confidente durante su dramático tercer juicio y dio a luz a las gemelas María Joaquina y Emali Guadalupe en 2011, mientras huía de la justicia estadounidense en California. A pesar de su violencia y actividad delictiva, está claro que el Chapo Guzmán albergaba mil amores tanto superficiales como profundos dentro de su extensa familia.
+  La interpretación de Orlando Bloom como Legolas en El Señor de los Anillos y El Hobbit fue uno de los momentos más decisivos de su carrera. Su compromiso con las escenas y acrobacias más intensas durante ambas series de películas es ampliamente conocido. De hecho, para su papel en El Hobbit, Bloom decidió no utilizar un doble para ninguna de las extenuantes escenas de acción en las que participó, lo que demuestra su dedicación al oficio. Su preparación y talento culminaron en personajes icónicos y queridos a lo largo de las dos películas, convirtiéndole en un miembro esencial de la experiencia cinematográfica.
 
 
-  ![chapo](/assets/46284006_303.jpg "chapo")
+  ![hobbit](/assets/59c092a9093c2.jpeg "hobbit")
 mk3: >-
   ## 5﻿. Sabias que?
 
 
-  Joaquín "El Chapo" Guzmán tuvo unos comienzos humildes, iniciando su carrera delictiva como ladrón de coches antes de mejorar gradualmente su estatus hasta convertirse en lugarteniente de un cártel de la droga. Sin embargo, sólo tras la audaz huida de Guzmán y su éxito en el control del cártel, se vio impulsado a la fama y al poder. Con despiadados y estratégicos movimientos, El Chapo pronto se convirtió en uno de los hombres más poderosos de la Tierra y también, según la revista Forbes, en uno de los multimillonarios más ricos del mundo, ocupando el 10º lugar dentro de México. Esto demuestra hasta dónde puede llevarte la ambición, incluso en la práctica ilegal.
+  La interpretación de Orlando Bloom como Legolas en El Señor de los Anillos y El Hobbit fue uno de los momentos más decisivos de su carrera. Su compromiso con las escenas y acrobacias más intensas durante ambas series de películas es ampliamente conocido. De hecho, para su papel en El Hobbit, Bloom decidió no utilizar un doble para ninguna de las extenuantes escenas de acción en las que participó, lo que demuestra su dedicación al oficio. Su preparación y talento culminaron en personajes icónicos y queridos a lo largo de las dos películas, convirtiéndole en un miembro esencial de la experiencia cinematográfica.
 
 
   ## 6﻿. Sabias que?
 
 
-  El nuevo aspecto de Joaquín "El Chapo" Guzmán desde 2007 lo ha diferenciado drásticamente de su yo original. Tras gastar millones de dólares en cirugías estéticas, Guzmán se ha convertido en un hombre poco expresivo con su rostro más afilado y su pelo rojo más oscuro. Su conocido pelo negro y su cara redonda han desaparecido, sólo para dejar espacio a su estilo más sutil. La discreción es clave para El Chapo, como demostraron algunos avistamientos recientes en Durango, donde vestía bermudas y una camiseta deportiva mientras conducía un quad por el centro de la ciudad. Sea cual sea tu opinión sobre El Chapo, una cosa es cierta: su nuevo aspecto sin duda atraerá la atención de muchas personas dispuestas a saber más sobre él.
+  El Hobbit fue una de las películas más esperadas de su época y, para evitar la piratería, la versión digital pesaba la increíble cantidad de 700 GB, ¡muchos datos! Tuvo que imprimirse externamente en discos duros para su estreno en los cines, por lo que si alguien hubiera querido piratearla, habría necesitado bastante más que un portátil u ordenador normal. Afortunadamente para los ejecutivos de los estudios, parece probable que este gigantesco tamaño de archivo fuera suficiente elemento disuasorio, y lo único que podemos esperar es que la pasión, la habilidad y el arte invertidos en la película se vieran recompensados en taquilla.
 mk4: >-
   ## 7﻿. Sabias que?
 
 
-  Conocido como El Chapo, Joaquín Guzmán es uno de los capos de la droga más notorios de los últimos tiempos. Su notoriedad y sus supuestos años en el poder se han inmortalizado en la música duraña a través de canciones compuestas en su honor. Las canciones detallan aspectos de su vida, como alianzas, personalidad y pactos realizados a lo largo de su carrera. Las odas populares incluyen "El Señor de la Montaña" de Los Canelos de Durango, "El regreso del Chapo" de Los Tucanes de Tijuana, "La cuna del Chapo" de Las Fieraz, y "Chapón, cuerno y cachucha" de Los Buknas de Culiacán. La música evoca la grandeza del hombre que está detrás de todo: ¡el mismísimo El Chapo!
+  Adam Brown fue valiente por hacer esa escena en concreto. Aunque pueda tener miedo a los peces, estar cubierto de peces de verdad para representar una escena de El Hobbit de Peter Jackson requirió una inmensa dosis de valor y dedicación. En la escena de la Ciudad del Lago, los enanos se esconden en barriles mientras se les cubre de pescado como disfraz. Esto hizo que algunos actores, como Adam Brown, que interpreta a Ori, tuvieran que sumergirse totalmente en peces de verdad contra su voluntad. A pesar de la desalentadora tarea, Brown fue capaz de canalizar su coraje interior y superar esta escena incómoda pero crucial y darle vida.
 
 
   ## 8﻿. Sabias que?
 
 
-  En un reinado de seis años de tráfico de drogas por toda América, el Chapo Guzmán eludió continuamente a la policía. Evitó ser capturado cerca de Nuevo León y en La Tuna, Sinaloa, e incluso logró escabullirse de Durango en 2007. En 2012, las autoridades temieron que se hubiera establecido en Punta Ballena, Baja California Sur. Esto provocó una gran respuesta; la Procuraduría General de la República ofreció una recompensa de 30 millones de pesos y la DEA prometió otros 5 millones de dólares por su captura. A pesar de sus esfuerzos, Guzmán sigue sin ser capturado, pero parece que cada vez están más cerca de ponerlo entre rejas.
+  Belladonna Took es un personaje fundamental para que el público comprenda y aprecie el heroísmo de Bilbo Bolsón. Durante la búsqueda para devolver el tesoro de Erebor, el valor y la fuerza de Bilbo resultan aún más sorprendentes si se tiene en cuenta su diminuta estatura entre sus sudorosos y fornidos compañeros enanos. Sin embargo, el comportamiento de Bilbo es una extensión de la influencia de Belladona como figura materna y como mujer en el universo de El Hobbit. Fue independiente y lo bastante valiente como para casarse fuera de sus normas sociales, encarnando el resultado histórico de tomar una decisión audaz. Cuando más tarde su hijo se sienta solo en la roca de Thorin Oakenshield observando la belleza del paisaje circundante, evoca escenas de su madre, que encontraba una alegría increíble en la naturaleza y en los tesoros sencillos de la vida. Aunque a lo largo de El Hobbit se establecen comparaciones entre el hombre y la mujer, no cabe duda de que Belladona Tuk sienta las bases de la valentía y el heroísmo de su hijo.
 
 
-  ![chapo](/assets/el-chapo-guzman-01.jpg "chapo")
+  ![hobbit](/assets/presentacion-cintas-trilogia-hobbit_1649245343_150649304_1200x675.png "hobbit")
 mk5: >-
   ## 9﻿. Sabias que?
 
 
-  Joaquín "El Chapo" Guzmán, el miembro de mayor rango del Cártel de Sinaloa, ha visto cómo se deshacían sus alianzas después de que muchos de sus compañeros narcotraficantes hayan sido asesinados o puestos entre rejas. Entre los perdidos por la muerte o la justicia se encuentran Ignacio "Nacho" Coronel y Arturo Beltrán Leyva "El Barbas", mientras que Alfredo Beltrán Leyva "El Mochomo" y Juan Diego Espinoza Ramírez "El Tigre" se encuentran en prisión. Sobreviven a la embestida Ismael "El Mayo" Zambada y Juan José Esparragoza "El Azul", que han logrado eludir a las autoridades hasta ahora. El futuro de las alianzas de El Chapo sigue siendo incierto a medida que más líderes de cárteles se enfrentan a la justicia por sus acciones.
+  Aunque la mayoría de los personajes de las películas recientes han sido creaciones generadas por ordenador, pocos pueden rivalizar con Azog, el rey de los orcos de El Hobbit. En un principio, iba a ser interpretado por una persona muy maquillada y con una armadura para ocultar su verdadera forma. Sin embargo, debido a problemas de producción, surgieron dudas sobre el realismo del personaje, lo que dio lugar a la innovadora solución de crearlo digitalmente. Tras un diseño y una planificación minuciosos, Azog es ahora una de las creaciones digitales más destacadas del cine moderno, que transmite con precisión la amenaza al tiempo que parece extrañamente atractivo en algunos momentos. Incluso desde un punto de vista puramente estético, se podría argumentar que este problema creativo acabó resultando beneficioso.
 
 
   ## 1﻿0. Sabias que?
 
 
-  Parece que la notoria figura de Joaquín "El Chapo" Guzmán ha encontrado consuelo en la religión al declararse devoto y creyente tanto de la Virgen de Guadalupe como de Jesús Malverde. En un esfuerzo por agradecer a estas figuras divinas, El Chapo erigió una capilla en Culiacán, México, además de colocar una pequeña nota pidiendo por la seguridad de Juárez y Tijuanan. Estas muestras religiosas demuestran que, aunque El Chapo fue conocido durante toda su vida como una persona asociada al crimen, su fe siguió siendo una piedra angular en su vida.
+  La Tierra Media tal y como la conocemos no existiría sin el talento de J.R.R. Tolkien para la invención: no sólo del propio mundo, sino también de sus numerosas lenguas habladas. Antes de empezar a escribir El Hobbit, Tolkien ya había pasado años creando el élfico y la intrincada mitología de la Tierra Media; éste era uno de sus pasatiempos favoritos y, en última instancia, se convirtió en parte integrante de los cimientos de la historia. Como ávido amante de las lenguas, Tolkien no se limitó sólo al élfico: a su término llegaron el quenya, el sindarin, el enano y el habla negra, creados de tal modo que eran capaces de encarnar a la perfección la cultura de cada lengua dentro de sus palabras y sintaxis. Todos estos dialectos elaborados ayudan a dar vida a la historia, permitiendo a los lectores de todas partes sumergirse por completo en las angustias y aventuras de los personajes de la Tierra Media.
 ---
