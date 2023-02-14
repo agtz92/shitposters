@@ -5,12 +5,13 @@ import logoChico from "../images/logo_small.png"
 import Layout from "../layouts/layout"
 import Heading from "../components/heading"
 import kebabCase from "lodash/kebabCase"
+import InfoBlock from "../components/infoblock"
 import PropTypes from 'prop-types'
 import showdown from 'showdown'
 
 export default function BlogPost({ data }) {
-  
-  const post = data.markdownRemark
+
+  const post = data.item1
   //
 
   const perro = "https://www.10datos.com/";
@@ -21,12 +22,12 @@ export default function BlogPost({ data }) {
   )
   return (
     <React.Fragment>
-    <Helmet >
-                <meta charSet="utf-8" />
-                <title>"{data.markdownRemark.frontmatter.title} | 10datos"</title>
-                <meta name="description" content={data.markdownRemark.frontmatter.short_description} />
-                <script type="application/ld+json">
-                  {`
+      <Helmet >
+        <meta charSet="utf-8" />
+        <title>"{data.item1.frontmatter.title} | 10datos"</title>
+        <meta name="description" content={data.item1.frontmatter.short_description} />
+        <script type="application/ld+json">
+          {`
                 {
                   "@context": "https://schema.org",
                   "@type": "BlogPosting",
@@ -34,9 +35,9 @@ export default function BlogPost({ data }) {
                     "@type": "WebPage",
                     "@id":\"${perro}\"
                   },
-                  "headline": \"${data.markdownRemark.frontmatter.title}\",
-                  "description": \"${data.markdownRemark.frontmatter.short_description}\",
-                  "image": "https://www.10datos.com/assets/${data.markdownRemark.frontmatter.featuredimage}",  
+                  "headline": \"${data.item1.frontmatter.title}\",
+                  "description": \"${data.item1.frontmatter.short_description}\",
+                  "image": "https://www.10datos.com/assets/${data.item1.frontmatter.featuredimage}",  
                   "author": {
                     "@type": "Organization",
                     "name": "10datos.com"
@@ -49,46 +50,63 @@ export default function BlogPost({ data }) {
                       "url": \"https://www.10datos.com/${logoChico}\"
                     }
                   },
-                  "datePublished": \"${data.markdownRemark.frontmatter.date}\",
-                  "dateModified": \"${data.markdownRemark.frontmatter.date}\"
+                  "datePublished": \"${data.item1.frontmatter.date}\",
+                  "dateModified": \"${data.item1.frontmatter.date}\"
                 }
                 `}
-                </script>
-    </Helmet>
-    <Layout>
-      <div className="blog-post-container">
-        <div className="div-grey-post"/>
-        <div className="blog-post">
-          <div className="top-post">
-            <div className="featuredimage" ><img src={ post.frontmatter.featuredimage} loading="lazy" width="500" alt="" className="img-large-post"/></div>
-            <div className="short-description">
-                            
+        </script>
+      </Helmet>
+      <Layout>
+        <div className="blog-post-container">
+          <div className="div-grey-post" />
+          <div className="blog-post">
+            <div className="top-post">
+              <div className="featuredimage" ><img src={post.frontmatter.featuredimage} loading="lazy" width="500" alt="" className="img-large-post" /></div>
+              <div className="short-description">
+
                 <Heading color="dark">{post.frontmatter.title}</Heading>
                 <div className="parpost light">{post.frontmatter.date}</div>
                 <div className="tags-div">
-                    {post.frontmatter.tags.map((tag) => (
-                    <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`}><div className="div-tag">{tag}</div></Link> 
-                    ))}</div>
+                  {post.frontmatter.tags.map((tag) => (
+                    <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`}><div className="div-tag">{tag}</div></Link>
+                  ))}</div>
                 <p className="parpost">{post.frontmatter.short_description}</p>
+              </div>
             </div>
+            <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk1) }} />
+            <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk2) }} />
+            <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk3) }} />
+            <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk4) }} />
+            <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk5) }} />
+            {post.relatedPosts && <div className='related-posts'>
+              <Heading color="dark">Más artículos relacionados</Heading>
+              {post.relatedPosts?.map(({ frontmatter, fields }) => {
+                const { slug } = fields
+                const { title } = frontmatter
+                const { short_description } = frontmatter
+                const { featuredimage } = frontmatter
+                return (
+                  <li key={title}>
+                    <Link to={slug}>
+                      <InfoBlock title={title} img={featuredimage} description={short_description} />
+                    </Link>
+                  </li>
+                )
+              })}
+            </div>}
           </div>
-          <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk1) }} />
-          <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk2) }} />
-          <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk3) }} />
-          <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk4) }} />
-          <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk5) }} />
+
+          <div className="div-grey-post" />
         </div>
-        <div className="div-grey-post"/>
-      </div>
-      
-    </Layout>
+
+      </Layout>
     </React.Fragment>
   )
 }
 
 export const query = graphql`
   query($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+    item1: markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {
         title
@@ -106,6 +124,23 @@ export const query = graphql`
       fields{
           slug
       }
+      relatedPosts {
+        frontmatter {
+          title
+          tags
+          featuredimage
+          date(formatString: "MM-DD-YYYY")
+          short_description
+        }
+        fields {
+          slug
+        }
+      }
     }
+    
+    
+
+
+
   }
 `
