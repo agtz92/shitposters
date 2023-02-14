@@ -147,7 +147,7 @@ export default function Home({ data }) {
 }
 export const query = graphql`
   query{
-  item1: allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, limit: 1, skip: 0) {
+  item1: allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, limit: 1, skip: 0) { 
     edges {
       node {
         frontmatter {
