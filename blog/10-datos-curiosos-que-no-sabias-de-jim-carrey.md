@@ -8,87 +8,90 @@ tags:
   - "#Celebridades"
   - "#Debut"
 short-description: Cuales de estos datos te sabias de Jim Carrey
-mk1: >+
-  ### 1.
+mk1: >-
+  #### 1.El inicio de una leyenda
+
 
   ![1634](/assets/1634.jpg "1634")
 
-  #### El inicio de una leyenda
 
   Nació el 17 de enero de 1962 en Newmarket, Canadá.
 
-  ### 2.
+
+  #### 2.Desde pequeño
+
 
   ![1631](/assets/1631.jpg "1631")
 
-  #### Desde pequeño
 
   Debutó a los 14 frente al público. El resultado no fue muy bueno: el comediante salió del escenario entre abucheos.
-mk2: >+
-  ### 3.
+mk2: >-
+  #### 3.Una empiezo duro
+
 
   ![1632](/assets/1632.jpg "1632")
 
-  #### Una empiezo duro 
 
   Hubo una etapa en sus inicios como actor donde no podía pagar un lugar donde vivir. Carrey durmió en una van con un calentador por algún tiempo hasta que las cosas empezaron a dar resultado.
 
-  ### 4.
+
+  #### 4.Mala elección
+
 
   ![1633](/assets/1633.jpg "1633")
 
-  #### Mala elección 
 
   Además de Greg Focker, Carrey rechazó la oferta para hacer el fantástico personaje de Jack Sparrow en Pirates of the Caribbean para rodar Bruce Almighty.
-mk3: >+
-  ### 5.
+mk3: >-
+  #### 5.Sus Grandes tesoros
+
+
+
 
   ![1634](/assets/1634.jpg "1634")
 
-  #### Sus Grandes tesoros 
 
   Uno de sus tesoros más valiosos es una nota de Steven Spielberg en la que lo felicita por una de sus actuaciones.
 
-  ### 6.
+
+  #### 6.Una escena peligrosa
+
 
   ![1635](/assets/1635.jpg "1635")
 
-  #### Una escena peligrosa 
 
   Durante el rodaje de El Grinch estuvo a punto de morir por una avalancha de nieve artificial.
-mk4: >+
-  ### 7.
+mk4: >-
+  #### 7.Artista precoz
+
 
   ![1636](/assets/1636.jpg "1636")
-
-  #### Artista precoz
 
 
   Cuando tenía 10 años le mandó el currículum a la actriz Carol Burnett por si colaba
 
-  ### 8.
+
+  #### 8.Infancia dura
+
 
   ![1637](/assets/1637.jpg "1637")
 
-  #### Infancia dura
-
 
   Jim Carrey creció en una familia humilde de Ontario, Canadá. A los 15 años tuvo que abandonar los estudios para ayudar a su familia económicamente.
-mk5: >+
-  ### 9.
+mk5: >-
+  #### 9.Amistades famosas
+
 
   ![1638](/assets/1638.jpg "1638")
-
-  #### Amistades famosas
 
 
   Tupac y Jim Carrey eran muy buenos amigos
 
-  ### 10.
+
+  #### 10.Baila claque
+
 
   ![1639](/assets/1639.jpg "1639")
-
-  #### Baila claqué
 
 
   Jim Carrey ha dado siempre espectáculo. Cuando era pequeño se acostaba con sus zapatos de claqué por si, a mitad de la noche. tenía que animar a sus padres.
