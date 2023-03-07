@@ -77,7 +77,7 @@ mk5: >-
   Cranston es un gifter creativo. Una vez escribió un guión para el regalo de cumpleaños de su esposa Robin..
 
 
-  #### 10. Pero recordarlo 
+  #### 10. Para recordarlo 
 
 
   ![1079](/assets/1079.jpg "1079")
