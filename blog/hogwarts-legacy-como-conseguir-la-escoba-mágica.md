@@ -6,7 +6,7 @@ categoria: Gaming
 tags:
   - "#HarryPotter"
   - "#Gaming"
-  - "#Hogwartlegacy"
+  - "#HogwartsLegacy"
 short-description: "El extenso mundo abierto de Hogwarts Legacy da a los
   jugadores la sensación de que forman parte del universo mágico, con horas de
   exploración y descubrimiento por delante. Pero para algunos, tomarse el tiempo
