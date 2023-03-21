@@ -6,7 +6,7 @@ categoria: Gaming
 tags:
   - "#HarryPotter"
   - "#Gaming"
-  - "#Hogwartlegacy"
+  - "#HogwartsLegacy"
 short-description: Adéntrate en el encantador y misterioso mundo del Legado de
   Hogwarts y prepárate para descubrir los secretos que te aguardan. Aunque esta
   aventura mágica no tiene fin, descubrir salas ocultas en el majestuoso
