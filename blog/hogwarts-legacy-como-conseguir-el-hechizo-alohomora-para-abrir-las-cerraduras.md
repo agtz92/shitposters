@@ -1,56 +1,86 @@
 ---
-title: "Hogwarts Legacy: Como conseguir el hechizo Alohomora para abrir las
-  cerraduras"
-date: 2023-03-22T03:53:42.685Z
-featuredimage: /assets/alohomora.jpeg
+title: "Hogwarts Legacy: como conseguir el Avada Kedavra"
+date: 2023-03-22T03:57:52.035Z
+featuredimage: /assets/avada.jpeg
 categoria: Gaming
 tags:
   - "#HarryPotter"
   - "#Gaming"
   - "#Hogwartlegacy"
-short-description: Adéntrete en el encantador y misterioso mundo del Legado de
-  Hogwarts y prepárate para descubrir los secretos que te aguardan. Aunque esta
-  aventura mágica no tiene fin, descubrir salas ocultas en el majestuoso
-  castillo de Hogwarts puede resultar una distracción interesante. Una sala en
-  particular, llamada la Sala del Menester, es importante, ya que encierra
-  muchos secretos entre sus paredes. Para acceder a ella, sigue esta guía que
-  explica cómo desbloquearla y explorar su contenido. Comienza tu viaje hoy
-  mismo, pues ¡quién sabe qué misterios aguardan a los valientes que se
-  aventuren a ir más allá!
-mk1: Adéntrete en el encantador y misterioso mundo del Legado de Hogwarts y
-  prepárate para descubrir los secretos que te aguardan. Aunque esta aventura
-  mágica no tiene fin, descubrir salas ocultas en el majestuoso castillo de
-  Hogwarts puede resultar una distracción interesante. Una sala en particular,
-  llamada la Sala del Menester, es importante, ya que encierra muchos secretos
-  entre sus paredes. Para acceder a ella, sigue esta guía que explica cómo
-  desbloquearla y explorar su contenido. Comienza tu viaje hoy mismo, pues
-  ¡quién sabe qué misterios aguardan a los valientes que se aventuren a ir más
-  allá!
+short-description: Los fans de Harry Potter están de enhorabuena con el
+  lanzamiento de Hogwarts Legacy. Los jugadores tienen la oportunidad de
+  explorar un mundo mágico lleno de bestias fantásticas y secretos ancestrales.
+  Algo que este juego tiene en común con las películas y novelas de Harry Potter
+  es la inclusión de tres maldiciones imperdonables. Las maldiciones Cruciatus,
+  Imperius y Avada Kedavra siguen siendo tan poderosas como siempre, pero
+  afortunadamente no tendrán consecuencias en esta versión virtual de la vida de
+  los magos. Los jugadores pueden disfrutar experimentando con estos hechizos
+  para acabar incluso con los enemigos más amenazadores y reforzar a sus propios
+  personajes durante las tensas batallas. Dominando estos 3 poderosos artefactos
+  arcanos, los jugadores del Legado de Hogwarts podrán salir triunfantes sin
+  tener que enfrentarse a la ley.
+mk1: Los fans de Harry Potter están de enhorabuena con el lanzamiento de
+  Hogwarts Legacy. Los jugadores tienen la oportunidad de explorar un mundo
+  mágico lleno de bestias fantásticas y secretos ancestrales. Algo que este
+  juego tiene en común con las películas y novelas de Harry Potter es la
+  inclusión de tres maldiciones imperdonables. Las maldiciones Cruciatus,
+  Imperius y Avada Kedavra siguen siendo tan poderosas como siempre, pero
+  afortunadamente no tendrán consecuencias en esta versión virtual de la vida de
+  los magos. Los jugadores pueden disfrutar experimentando con estos hechizos
+  para acabar incluso con los enemigos más amenazadores y reforzar a sus propios
+  personajes durante las tensas batallas. Dominando estos 3 poderosos artefactos
+  arcanos, los jugadores del Legado de Hogwarts podrán salir triunfantes sin
+  tener que enfrentarse a la ley.
 mk2: >-
-  ## Cómo conseguir el hechizo Alohomora para abrir las cerraduras
+  ## ¿Cuáles son Las Maldiciones Imperdonables?
 
 
 
-  Cuando Hayan progresado bastante en la historia principal les acabarán entregando en algún momento la misión "El lamento lunar del celador" que los llevará a reuniros con Gladwin Moon, el celador de Hogwarts. Este os contará que se ha encontrado con una serie de estatuas extrañas que tan solo aparecen por la noche y a las que llama Luna de Demiguise.
+  Las Maldiciones imperdonables son las siguientes:
+
+
+
+
+  **Avada Kedabra:** la maldición asesina
+
+
+
+  **Crucio**: la maldición de tortura
+
+
+
+  **Imperio**: la maldición para controlar la voluntad de otros
+
+
+
+
+  Cada una de las maldiciones se pueden desbloquear si completas las misiones secundarias de Sebastian Swallow un estudiante desesperado por poder ayudar a su hermana.
 mk3: >-
+  ## ¿Cómo Desbloquear Las Maldiciones Imperdonables?
+
+
+  **Crucio**:
+
+
+  Crucio es la primera Maldición que podrás desbloquear. Para poder entrar a la misión, debemos de llegar al nivel 16 y con esto se desbloqueará la misión secundaria “A la sombra del estudio”. Una vez que completes la misión y aceptes aprenderlo, podrás usar Crucio. Este hechizo pondrá una maldición dentro de los enemigos.
+mk4: >-
   
 
-  Para localizarlas necesitaréis abrir cerraduras, siendo ese momento cuando el Sr. Moon les enseñará a utilizar Alohomora siempre que quieran. No obstante, no bastará con utilizar la magia sin más, porque el juego los invitará a resolver un puzle en forma de minijuego.
-mk4: >-
-  Para localizarlas necesitaréis abrir cerraduras, siendo ese momento cuando el
-  Sr. Moon les enseñará a utilizar Alohomora siempre que quieran. No obstante,
-  no bastará con utilizar la magia sin más, porque el juego los invitará a
-  resolver un puzle en forma de minijuego.
+  **Imperio**:
 
 
-  Al interactuar con la cerradura se mostrará en pantalla una serie de tuercas que giran si se mueven los sticks del mando de control. El objetivo es el de darles vueltas hasta que el mando vibre y al mismo tiempo se iluminen las tuercas de sus respectivos colores: el verde en la que está más fuera y rojo en la que está situada más dentro. Así pues, tendran que desplazar ambas al mismo tiempo hasta que lo logren que se iluminen para que toda la maquinaria comience a girar hasta que se abra la cerradura.
+  Continúa con las misiones de Sebastian Swallow y principales hasta desbloquear la misión “A la sombra del tiempo”. Esta misión incluye a otro personaje de Slytherin conocido como Ominis Gaunt y él será el encargado de enseñarnos la maldición. Imperio es bastante útil en batallas grandes ya que puedes usar enemigos fuertes como Trolls para eliminar al resto de los enemigos. Por otra parte, puedes matar enemigos de manera más fácil ya que ellos no te atacarán mientras estén bajo el efecto del hechizo. Esta ultima parte, te permite lidiar con Trolls sin recibir daño fácilmente.
 mk5: >-
-  El puzle será exactamente el mismo para todas y cada una de las cerraduras que
-  irán apareciendo por todas partes de la aventura. Sin embargo, algunas
-  requerirán que subáis el nivel de Alohomora, lo que implica que necesitaréis
-  encontrar más estatuas de Demiguise y dárselas a Gladwin Moon para que os
-  permita usar los niveles más avanzados de esta magia tan útil.
+  **Avada Kedavra:**
 
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/W0N9VXVPpUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  Por último está la peor de las maldiciones. Para poder desbloquear la misión secundaría “A la sombra de la reliquia” , deberás de haber llegado al nivel 27. Para evitar Spoilers, sin importar lo que pase pide que te enseñen la Maldición Asesina. Avada Kedavra es un hechizo demasiado poderoso ya que mata a los enemigos de un sólo golpe (Esto incluye a personajes como (Theophilus Harlow y Victor Rookwood).
+
+
+  Por otra parte, si combinas la versión mejorada de Expelliarmus que maldice a los enemigos cuando lo usas contra ellos con la versión mejorada de Avada Kedavra que mata a todos los enemigos maldecidos, tendrás en tus manos un combo bastante roto.
+
+
+
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GLxNT3yJC-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
