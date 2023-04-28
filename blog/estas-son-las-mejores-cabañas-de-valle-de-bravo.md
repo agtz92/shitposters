@@ -51,8 +51,15 @@ mk4: >-
 
   ![cabañas ](https://media-cdn.tripadvisor.com/media/photo-s/0e/bf/4c/2f/las-luciernagas.jpg "cabañas ")
 mk5: >-
-  #### El Santuario Resort & Spa: 
+  #### El Santuario Resort & Spa:
 
 
   Esta es una opción de lujo que ofrece cabañas elegantes y modernas con vistas impresionantes del lago y la montaña. Las cabañas cuentan con cocina equipada, sala de estar con chimenea y baño de lujo con bañera de hidromasaje. Además, el complejo cuenta con spa, restaurante y piscina al aire libre.
+
+
+
+
+
+
+  Es importante mencionar que esta información puede cambiar con el tiempo y que siempre es recomendable revisar las opiniones más recientes antes de reservar una cabaña en Valle de Bravo o cualquier otro lugar.
 ---
