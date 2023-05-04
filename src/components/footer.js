@@ -43,7 +43,7 @@ export default function Footer() {
                     <ul  className="list-footer w-list-unstyled">
                         <li><a className="footer-link" href="https://www.antesdelexamen.com"  rel="noopener">Bancos de preguntas UNAM</a></li>
                         <li><a className="footer-link" href="https://www.3minread.com"  rel="noopener">Latest trends and news under 3 min!</a></li>
-                        <li>Ofertas en productos para bebés en  <a  href="https://www.soy-nuevo.com" target="_blank" rel="noopener">PVC Transparente</a>nuestro sitio Cazador de Ofertas para Productos de Bebés como Safety 1st, Doona, Uppababy y más!</li>
+                        <li>Ofertas en productos para bebés en  <a  href="https://www.soy-nuevo.com" target="_blank" rel="noopener">nuestro sitio Cazador de Ofertas para Productos de Bebés como Safety 1st, Doona, Uppababy y más!</a></li>
                     </ul>
                     </div>
                 </div>
