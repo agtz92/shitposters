@@ -1,6 +1,6 @@
 ---
-title: "La caza de recompensas de Star Wars Jedi: Survivor es necesaria para los
-  fans de una sola postura de combate."
+title: "Star Wars Jedi: Survivor's Bounty Hunting es un juego imprescindible
+  para los aficionados al combate."
 date: 2023-05-04T05:37:48.756Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/star-wars-jedi-survivor-bounty-hunter.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
