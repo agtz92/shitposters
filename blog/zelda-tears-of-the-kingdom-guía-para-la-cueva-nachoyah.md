@@ -21,7 +21,7 @@ mk1: >-
   intentan resolver sus muchos puzzles y obtener otra Luz de Bendición.
 
 
-  ![](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/legend-of-zelda-tears-of-the-kingdom-nachoya-shrine-guide-location.jpg?q=50&fit=crop&w=1500&dpr=1.5)
+  ![zelda](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/legend-of-zelda-tears-of-the-kingdom-nachoya-shrine-guide-location.jpg?q=50&fit=crop&w=1500&dpr=1.5 "zleda")
 mk2: >-
   Para completar Nachoyah Shrine, los jugadores de The Legend of Zelda: Tears of
   the Kingdom necesitarán hacer uso de la habilidad de rebobinar, que les fue
@@ -30,12 +30,13 @@ mk2: >-
   el último santuario que los jugadores visitan en la Gran Isla del Cielo.
 
 
-  ![](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/legend-of-zelda-tears-of-the-kingdom-nachoya-shrine-guide-rafts.jpg?q=50&fit=crop&w=1500&dpr=1.5)
+  ![zelda](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/legend-of-zelda-tears-of-the-kingdom-nachoya-shrine-guide-rafts.jpg?q=50&fit=crop&w=1500&dpr=1.5 "zelda")
 
 
-  ![](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/legend-of-zelda-tears-of-the-kingdom-nachoya-shrine-guide-chest.jpg?q=50&fit=crop&w=1500&dpr=1.5)
+  ![zelda](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/legend-of-zelda-tears-of-the-kingdom-nachoya-shrine-guide-chest.jpg?q=50&fit=crop&w=1500&dpr=1.5 "zelda")
 mk3: >-
-  ![](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/legend-of-zelda-tears-of-the-kingdom-nachoya-shrine-guide-clock-hands-puzzle.jpg?q=50&fit=crop&w=1500&dpr=1.5)
+  ![zelda](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/legend-of-zelda-tears-of-the-kingdom-nachoya-shrine-guide-clock-hands-puzzle.jpg?q=50&fit=crop&w=1500&dpr=1.5
+  "zelda")
 
 
   Ubicación de Nachoyah Shrine
@@ -45,7 +46,6 @@ mk4: >-
   Guía de Nachoyah Shrine
 
   Una vez dentro de Nachoyah Shrine, los jugadores deben usar Rebobinar en la balsa flotante frente a ellos y montarla a través del primer cuerpo de agua. Luego querrán usar Rebobinar en la siguiente balsa que ven, lo que hará que vuelva a subir por la cascada cercana por donde acaba de bajar. Es posible usar la misma balsa para ambos tramos del viaje, pero como el tiempo para hacerlo es increíblemente ajustado, es mejor dividir el viaje en dos. En la cima de la cascada, los jugadores verán un gran engranaje giratorio a su derecha. Al usar Rebobinar en este, pueden acceder a una plataforma elevada, en la que encontrarán un cofre. Al igual que el cofre en el Santuario de In-isa, este contiene flechas, aunque esta vez los jugadores recibirán diez en lugar de solo cinco. Después de abrir el cofre, los jugadores pueden bajar y continuar siguiendo el camino frente a ellos. La siguiente área contiene una puerta cerrada con dos manos giratorias. Es un poco como un reloj, solo que ambas manos giran en direcciones opuestas. A pesar de parecer complicado, resolver el rompecabezas de las manos del reloj de Nachoyah Shrine es realmente muy sencillo. Las barras que bloquean la puerta se bajan siempre que las dos manos están en la misma posición, así que todo lo que los jugadores necesitan hacer es usar Rebobinar en una de las manos en el momento exacto en que las dos manos se cruzan. No importa cuál elijan.
-mk5: "![](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/\
-  05/legend-of-zelda-tears-of-the-kingdom-nachoya-shrine-guide-light-of-blessin\
-  g.jpg?q=50&fit=crop&w=1500&dpr=1.5)"
+mk5: '![zelda](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/legend-of-zelda-tears-of-the-kingdom-nachoya-shrine-guide-light-of-blessing.jpg?q=50&fit=crop&w=1500&dpr=1.5
+  "zelda")'
 ---
