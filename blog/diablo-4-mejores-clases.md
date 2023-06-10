@@ -3,6 +3,10 @@ title: "Diablo 4: Mejores Clases"
 date: 2023-06-07T05:59:43.137Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-classes-best-11-1.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
+tags:
+  - "#Gaming"
+  - "#Diablo"
+  - "#Diablo4"
 short-description: Diablo 4 se basa en una rica historia que sigue definiendo el
   género de los juegos de rol de acción. La franquicia ha tenido altibajos, pero
   Diablo 4 ha sido bien recibido hasta ahora. Muchos lo consideran un punto
