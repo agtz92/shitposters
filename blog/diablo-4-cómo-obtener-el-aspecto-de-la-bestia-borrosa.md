@@ -5,8 +5,8 @@ featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2
 categoria: Gaming
 tags:
   - "#Gaming"
-  - "#FinalFantasy"
-  - "#FinalFantasy16"
+  - "#Diablo"
+  - "#Diablo4"
 short-description: Los druidas en Diablo 4 tienen varios conjuntos sólidos para
   jugar en todas las etapas del juego, incluyendo uno que se centra en la forma
   de hombre lobo y sus numerosos ataques basados en velocidad, golpes críticos y
