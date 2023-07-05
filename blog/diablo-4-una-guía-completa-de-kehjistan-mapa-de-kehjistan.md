@@ -5,8 +5,8 @@ featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2
 categoria: Gaming
 tags:
   - "#Gaming"
-  - "#FinalFantasy16"
-  - "#FinalFantasy"
+  - "#Diablo"
+  - "#Diablo4"
 short-description: Las dos áreas finales de Diablo 4 son Kehjistan y Hawezar,
   que comprenden gran parte de los tres últimos actos del juego y no se adaptan
   a los niveles de los jugadores hasta alrededor de los niveles 30 y 40
