@@ -5,8 +5,8 @@ featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2
 categoria: Gaming
 tags:
   - "#Gaming"
-  - "#FinalFantasy16"
-  - "#FinalFantasy"
+  - "#Diablo"
+  - "#Diablo4"
 short-description: >-
   Las Estepas Secas son el escenario del Acto 3 de Diablo 4, aunque se convierte
   en una zona de mundo abierto a escala de nivel una vez que los jugadores
