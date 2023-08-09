@@ -135,7 +135,6 @@ mk5: >-
   ![Próximas películas de DC](https://cdn.mos.cms.futurecdn.net/o3tox7VBSLdKTYAZDCo9Wn-970-80.jpg.webp "Próximas películas de DC")
 
 
-
   Fecha de estreno: 3 de octubre de 2025
 
 
@@ -149,7 +148,6 @@ mk5: >-
 
 
   ![Próximas películas de DC](https://cdn.mos.cms.futurecdn.net/tEWLHjApA9XoyuTSRaJpfe-970-80.jpg.webp "Próximas películas de DC")
-
 
 
   Parece que Gal Gadot regresará en Wonder Woman 3 como parte del nuevo DCU después de todo.
@@ -167,7 +165,6 @@ mk5: >-
   ![Próximas películas de DC](https://cdn.mos.cms.futurecdn.net/weUaC4hTbFeERPf9MhqCcS-970-80.jpg.webp "Próximas películas de DC")
 
 
-
   Fecha de estreno: por anunciar
 
 
@@ -181,7 +178,6 @@ mk5: >-
 
 
   ![Próximas películas de DC](https://cdn.mos.cms.futurecdn.net/unCkfxLxaFd4n6b3x3QcWh-970-80.jpg.webp "Próximas películas de DC")
-
 
 
   Fecha de estreno: por anunciar
@@ -202,7 +198,6 @@ mk5: >-
   ![Próximas películas de DC](https://cdn.mos.cms.futurecdn.net/p6S2YYLmxJiiX7e7VCmrmW-970-80.jpg.webp "Próximas películas de DC")
 
 
-
   Fecha de estreno: por anunciar
 
 
@@ -215,7 +210,6 @@ mk5: >-
   ![Próximas películas de DC](https://cdn.mos.cms.futurecdn.net/2vaeAcwrNoNdceXk5kFLxN-970-80.jpg.webp "Próximas películas de DC")
 
 
-
   Fecha de estreno: por anunciar
 
 
@@ -226,7 +220,6 @@ mk5: >-
 
 
   ![Próximas películas de DC](https://cdn.mos.cms.futurecdn.net/2TAmnQByPy2JTVyFKzX4DW-970-80.jpg.webp "Próximas películas de DC")
-
 
 
   Fecha de estreno: por anunciar
@@ -251,4 +244,21 @@ mk5: >-
 
 
   También hemos visto que Dwayne Johnson reveló que Black Adam 2 no sucederá en el corto plazo. El actor emitió una declaración diciendo que se reunió con Gunn y Safran y se le informó que Black Adam no formaba parte de sus planes de DC, pero quizás podría volver en el futuro en el multiverso. La jerarquía de poder en el universo de DC ha cambiado, pero no a favor de Johnson.
+
+
+
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [medical printers for sale](https://www.medglobalgroup.com/products/equipment/printers)
+
+  [medical freezers for sale](https://www.medglobalgroup.com/products/equipment/refrigerators-and-freezers)
+
+  [medical scales for sale](https://www.medglobalgroup.com/products/equipment/scales)
+
+  [medical screen for sale](https://www.medglobalgroup.com/products/equipment/screens)
 ---
