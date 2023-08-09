@@ -99,6 +99,9 @@ mk5: >-
   Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
 
 
+  [biomedical test equipment for sale](https://www.medglobalgroup.com/products/equipment/biomedical)
+
+
   [centrifugues for sale](https://www.medglobalgroup.com/products/equipment/centrifuges)
 
 
