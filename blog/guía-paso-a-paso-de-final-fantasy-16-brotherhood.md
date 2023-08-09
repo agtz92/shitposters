@@ -63,9 +63,27 @@ mk4: >-
 
 
   Alternativamente, los jugadores pueden regresar a otras áreas primero y completar algunas misiones secundarias si lo desean. Blackthorne puede fabricar Everdark, que es una espada decente si los jugadores aún no tienen Ragnarok o Gotterdammerung. Charon ofrece un nuevo consumible llamado Last Elixir. Este poderoso consumible puede costar 20.000 Gil, pero restaura automáticamente a los jugadores a salud completa si caen en batalla. No solo eso, sino que también proporciona un impulso al poder de ataque y defensa durante un minuto.
-mk5: También hay varios Nombres Notorios nuevos en Ash que los jugadores pueden
+mk5: >-
+  También hay varios Nombres Notorios nuevos en Ash que los jugadores pueden
   cazar ahora que Barnabas está muerto. A medida que Final Fantasy 16 se acerca
   lentamente a su conclusión, los jugadores querrán empezar a pensar en qué
   quieren terminar antes de continuar con la historia. Al viajar a Drake's
   Spine, comenzará la siguiente misión principal de la historia.
+
+
+
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [sphygmomanometer price](https://www.medglobalgroup.com/products/equipment/sphygmomanometer)
+
+  [stainless steel medical equipment for sale](https://www.medglobalgroup.com/products/equipment/stainless-steel)
+
+  [sterilizer for sale](https://www.medglobalgroup.com/products/equipment/sterilizers)
+
+  [stethoscopes sale](https://www.medglobalgroup.com/products/equipment/stethoscopes)
 ---
