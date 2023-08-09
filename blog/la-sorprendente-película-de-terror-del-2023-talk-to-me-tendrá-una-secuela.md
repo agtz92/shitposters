@@ -1,8 +1,7 @@
 ---
-title: '"El Exorcista sigue siendo la película más aterradora de todos los
-  tiempos, gracias a William Friedkin."'
+title: La sorprendente película de terror del 2023, "Talk to Me", tendrá una secuela.
 date: 2023-08-09T06:43:02.490Z
-featuredimage: https://cdn.mos.cms.futurecdn.net/NaYMvMGZmSmDudmJ6vtUQV-970-80.jpg.webp
+featuredimage: https://cdn.mos.cms.futurecdn.net/PXdRUdpX6hJ47MrnxjnoFa-970-80.jpg.webp
 categoria: Cine
 tags:
   - "#Cine"
@@ -41,7 +40,7 @@ mk3: >-
 
 
   "Cuando escribimos la primera película, no pudimos evitar escribir escenas para una secuela también", dijo Danny anteriormente a GamesRadar+. "Nuestra biblia de la película es muy extensa. Tenemos esta gran biblia de mitología donde desglosamos cada espíritu con el que los niños se conectaron, cada regla, cada parte de la mano y la historia detrás de ella. Así que creo que hay mucho por explorar.
-mk4: '![exorcismo](https://cdn.mos.cms.futurecdn.net/NaYMvMGZmSmDudmJ6vtUQV-970-80.jpg.webp
+mk4: '![exorcismo](https://cdn.mos.cms.futurecdn.net/PXdRUdpX6hJ47MrnxjnoFa-970-80.jpg.webp
   "exorcismo")'
 mk5: >-
   Estaría muy emocionado con la idea de hacer una secuela, y hay cien
