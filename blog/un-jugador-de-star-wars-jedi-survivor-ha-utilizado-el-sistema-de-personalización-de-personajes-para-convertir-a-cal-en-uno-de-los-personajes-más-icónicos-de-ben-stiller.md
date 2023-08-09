@@ -58,10 +58,28 @@ mk4: "al tiene un peinado similar con una cinta en la cabeza, un bigote estilo
   esquivando disparos de blaster o sables. Una persona incluso mencionó en broma
   que les iba a decir a sus nietos que esta era una foto de un joven Willie
   Nelson."
-mk5: Esta versión de White Goodman de Cal se une a una lista creciente de
+mk5: >-
+  Esta versión de White Goodman de Cal se une a una lista creciente de
   personajes personalizados que la comunidad ya ha compartido. Mientras que
   algunos jugadores de Jedi Survivor ofrecen su versión de personajes de Star
   Wars existentes, algunos se han aventurado fuera de la caja, incluyendo a Cal
   convertido en Walter White de Breaking Bad o en un individuo con amor por
   Estados Unidos y un gran mullet.
+
+
+
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [neurological equipment for sale](https://www.medglobalgroup.com/products/equipment/neurology)
+
+  [optical equipment for sale](https://www.medglobalgroup.com/products/equipment/ophttalmology)
+
+  [orthopedics medical supplies for sale](https://www.medglobalgroup.com/products/equipment/orthopedics)
+
+  [oxygen generators for sale](https://www.medglobalgroup.com/products/equipment/oximeters)
 ---
