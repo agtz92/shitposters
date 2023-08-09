@@ -67,7 +67,7 @@ mk4: >-
 
   De acuerdo con una entrevista que dio a Red Bull, comenzó a jugar golf a los 17 años, cuando se mudó a Inglaterra. Actualmente juega con un hándicap de 18.
 mk5: >-
-  #### 9. Esto decepciona a muchas fanáticas 
+  #### 9. Esto decepciona a muchas fanáticas
 
 
   ![1368](/assets/1368.jpg "1368")
@@ -75,10 +75,30 @@ mk5: >-
   Está casado y es papá de dos hijos En junio de 2018, el piloto de la F1 se casó con la socialité Carola Martínez, quien también es originaria de Guadalajara, Jalisco.
 
 
-  #### 10. De los mejores días en su carrea 
+  #### 10. De los mejores días en su carrea
 
 
   ![1369](/assets/1000000.jpg "1369")
 
   El mexicano Sergio Pérez se impuso este domingo en el Gran Premio de Azerbaiyán tras una carrera caótica en el circuito urbano de Bakú, firmando su primera victoria con el equipo Red Bull y la segunda en la Fórmula 1.
+
+
+
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [cosmetic medical equipment for sale](https://www.medglobalgroup.com/products/equipment/cosmetic)
+
+
+  [Defibrillator for sale](https://www.medglobalgroup.com/products/equipment/defibrillators)
+
+
+  [densitometer for sale](https://www.medglobalgroup.com/products/equipment/densitometers)
+
+
+  [dental equipment for sale](https://www.medglobalgroup.com/products/equipment/dental)
 ---
