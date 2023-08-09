@@ -56,15 +56,31 @@ mk4: >-
 
 
   Durante su lucha contra Odin, Clive no puede invocar a Ifrit y, en cambio, debe enfrentar al Eikon como humano, lo contrario de su lucha contra Bahamut. La pelea es una batalla brutal a muerte, en la que Torgal debe salvar a Clive varias veces. Clive solo puede confiar en sus propios poderes como persona y en su compañero de toda la vida. Torgal es, en muchos sentidos, lo que ha conectado a Clive con su humanidad, por lo que su presencia aquí es conmovedora. La eventual derrota de Odin es agridulce, sin embargo, ya que tras su victoria, Clive absorbe los poderes Eikónicos de Odin, renunciando a otra parte de su humanidad.
-mk5: Estas dos luchas, aunque diametralmente opuestas, informan el
-  enfrentamiento final de Clive contra Ultima. Clive debe aprender a encontrar
-  poder en Ifrit, en sus amigos y en sí mismo, y estas peleas representan cómo
-  lo hace paso a paso. El último calabozo de Final Fantasy 16 se desarrolla con
-  Clive tomando las formas tanto de sí mismo como de Ifrit, utilizando lo que
-  aprendió en cada uno de estos conflictos. Las batallas contra Bahamut y Odin
-  son un emparejamiento complementario, que encarna la lucha interna que
-  atraviesa Clive, y que le enseña lo que necesita saber para derrotar a Ultima
-  y salvar a Valisthea. La naturaleza complementaria de estas batallas de jefes
-  contribuye a que el acto final de la historia de Clive en Final Fantasy 16 sea
-  una despedida temáticamente coherente para el personaje.
+mk5: >-
+  Estas dos luchas, aunque diametralmente opuestas, informan el enfrentamiento
+  final de Clive contra Ultima. Clive debe aprender a encontrar poder en Ifrit,
+  en sus amigos y en sí mismo, y estas peleas representan cómo lo hace paso a
+  paso. El último calabozo de Final Fantasy 16 se desarrolla con Clive tomando
+  las formas tanto de sí mismo como de Ifrit, utilizando lo que aprendió en cada
+  uno de estos conflictos. Las batallas contra Bahamut y Odin son un
+  emparejamiento complementario, que encarna la lucha interna que atraviesa
+  Clive, y que le enseña lo que necesita saber para derrotar a Ultima y salvar a
+  Valisthea. La naturaleza complementaria de estas batallas de jefes contribuye
+  a que el acto final de la historia de Clive en Final Fantasy 16 sea una
+  despedida temáticamente coherente para el personaje.
+
+
+
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [medical ventilator for sale](https://www.medglobalgroup.com/products/equipment/ventilators)
+
+  [vet equipment for sale](https://www.medglobalgroup.com/products/equipment/vet)
+
+  [x ray equipment sales](https://www.medglobalgroup.com/products/equipment/x-ray)
 ---
