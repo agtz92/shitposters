@@ -39,7 +39,7 @@ mk1: >+
 
   <br>Con temática de mina y estilo japonés de construcción, este campamento en Pinal de Amoles es una experiencia única para la familia y no te arrepentirás de visitarlos. Tiene excelentes calificaciones en facebook y puedes contactarlos directamente desde [aquí](https://www.facebook.com/Campamento-Minero-El-vergel-104638911305728/?ref=page_internal)
 
-mk2: >+
+mk2: >
   ### 8.
 
   #### Rancho Calixto
@@ -83,7 +83,7 @@ mk2: >+
   <br>-Billar
 
   <br>Puedes contactarlos directamente en su facebook desde [aquí.](https://www.facebook.com/Caba%C3%B1as-Campo-Alegre-308825523108729) <br>
-mk3: >+
+mk3: >
   ### 6.
 
   #### Cabañas Bernal
@@ -113,7 +113,7 @@ mk3: >+
   <br>Ubicado en las cercanías del cañón del río Extoraz, El Jabalí cuenta con seis cabaña de lujo tipo safari. Lo más destacado de este campamento es la llegada
 
   <br>Puedes contactarlos en su página de facebook [aquí](https://www.facebook.com/ElJabaliCamp)
-mk4: >+
+mk4: >
   ### 4.
 
   #### Isla Tzibanza
@@ -141,14 +141,18 @@ mk4: >+
   <br>Esta joya arquitectónica se encuentra en el municipio de Pinal de Amoles justo en la Sierra Gorda Queretana. Si deseas hacer una reservación, deberás hacer con meses de anticipación, ya que está ocupada casi todo el tiempo debido a la gran arquitectura y vista que tiene.
 
   <br>Puedes contactarlos directamente por facebook [aquí.](https://www.facebook.com/casadeloscuatrovientos/)
-mk5: >+
+mk5: >-
   ### 2.
+
 
   #### El Bosque de las Hojas
 
+
   ![El bosque de las hojas](/assets/cq8.jpg "El bosque de las hojas")
 
+
   ##### Ubicación
+
 
   <div style="width: 100%"><iframe width="50%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=50%25&amp;height=300&amp;hl=en&amp;q=20.88845980816482,%20-99.59043853574025+(Bosque%20de%20las%20hojas)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>
 
@@ -156,13 +160,13 @@ mk5: >+
 
   <br>Este lugar ofrece además de hospedarse en cabaña, platillos como , trucha ,cecina , hamburguesas , vino tinto y espumoso
 
-  <br>Puedes contactarlos en su facebook [aquí](https://www.facebook.com/bosquedelashojas/)
+  <br>Puedes contactarlos en su facebook \[aquí](https://www.facebook.com/bosquedelashojas/)
 
   ### 1.
 
   #### Cabañas Terrazul
 
-  ![Cabañas Terrazul](/assets/cq9.jpg "Cabañas Terrazul")
+  !\[Cabañas Terrazul](/assets/cq9.jpg "Cabañas Terrazul")
 
   ##### Ubicación
 
@@ -170,9 +174,17 @@ mk5: >+
 
   <br>Estas hermosas cabañas se encuentran en el municipio de Pinal de Amoles. Cabañas Terrazul se ubica en un desarrollo turístico de Puerto del Rodezno en el Municipio de Pinal de Amoles, región serrana del Estado de Querétaro
 
-  <br>Puedes contactarlos directamente en facebook [aquí.](https://www.facebook.com/cabanasterrazul)
+  <br>Puedes contactarlos directamente en facebook \[aquí.](https://www.facebook.com/cabanasterrazul)
 
   <br><br><br>
 
-  10 datos es una página de entretenimiento y recomendaciones. Si quieres anunciarte con nosotros, escríbenos en facebook [aquí ](https://www.facebook.com/10datos/)y nos pondremos en contacto contigo lo antes posible.
+  10 datos es una página de entretenimiento y recomendaciones. Si quieres anunciarte con nosotros, escríbenos en facebook \[aquí ](https://www.facebook.com/10datos/)y nos pondremos en contacto contigo lo antes posible.
+
+
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs. [Anesthesia Machine for sale , ](https://www.medglobalgroup.com/products/equipment/anesthesia-machines)[audiometer for sale](https://www.medglobalgroup.com/products/equipment/audiometers)
+
+
+  [hospital beds and equipment for sale](https://www.medglobalgroup.com/products/equipment/beds)
 ---
