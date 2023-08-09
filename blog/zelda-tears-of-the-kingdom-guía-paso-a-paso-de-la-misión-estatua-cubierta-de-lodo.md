@@ -64,10 +64,28 @@ mk4: >-
 
 
   Después de ocuparte del lodo, regresa con la Zora verde llamada Yona para completar la misión. Ella revela que ella y el Príncipe Sidon se van a casar y le dice a Link que la encuentre en la enfermería. Los jugadores no reciben una recompensa monetaria o de objetos por completar la misión de la Estatua Cubierta de Lodo, pero desencadena una serie de eventos que culminan en el reencuentro de Link con el Príncipe Sidon en la cima de una cascada cercana y la obtención de la Armadura Zora.
-mk5: Inmediatamente después de completar esta misión, dirígete a la enfermería,
+mk5: >-
+  Inmediatamente después de completar esta misión, dirígete a la enfermería,
   debajo de la sala del trono en el Dominio Zora, y habla de nuevo con Yona.
   Ella ha estado trabajando en la Armadura Zora que permitía a los jugadores
   ascender cascadas en Breath of the Wild. Sirve para el mismo propósito en
   Tears of the Kingdom, pero para completarla, Yona solicita un pez Arowana
   Antiguo.
+
+
+
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [home medical equipment for sale](https://www.medglobalgroup.com/products/equipment/patients-and-home)
+
+  [physiotherapy rehab equipment for sale](https://www.medglobalgroup.com/products/equipment/physiotherapy)
+
+  [medical pump for sale](https://www.medglobalgroup.com/products/equipment/pumps)
+
+  [radiology equipment for sale](https://www.medglobalgroup.com/products/equipment/radiology)
 ---
