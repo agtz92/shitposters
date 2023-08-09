@@ -89,4 +89,24 @@ mk5: >-
   ¿Tanto?<br/>
 
   La mayor diferencia de puntos entre dos equipos al medio tiempo se dio en el Super Bowl XXII, de Washington sobre Denver. con 42 -10
+
+
+
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [CR digitalizer for sale](https://www.medglobalgroup.com/products/equipment/digitalizers)
+
+
+  [electrocardiogram for sale](https://www.medglobalgroup.com/products/equipment/ekgs)
+
+
+  [electrosurgical instruments for sale](https://www.medglobalgroup.com/products/equipment/electrosurgery)
+
+
+  [endoscopy equipment for sale](https://www.medglobalgroup.com/products/equipment/endoscopy)
 ---
