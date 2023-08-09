@@ -66,10 +66,31 @@ mk4: >-
 
 
   Hace tiempo que se critica que Hogwarts Legacy no incluyera un sistema de moralidad, y es cierto que tener uno habría hecho que la elección de lanzar la Maldición Asesina, la Maldición Cruciatus o la Maldición Imperius fuera mucho más perjudicial. Es posible que Avalanche haya decidido simplemente no castigar a los fans por querer jugar libremente, aunque un sistema de moralidad habría sido una excelente manera de hacer que esas elecciones tuvieran un impacto más significativo.
-mk5: Dado que lanzar estas maldiciones sería una elección consciente, una
-  secuela podría hacer que ese camino más oscuro fuera mucho más horrible y
-  condenatorio para el jugador y los personajes con los que interactúa. Además,
-  sería genial ver que la narrativa fuera más espeluznante o inquietante como
-  una forma de distinguirse aún más del tipo de contenido de Harry Potter que
-  seguramente vendrá.
+mk5: >-
+  Dado que lanzar estas maldiciones sería una elección consciente, una secuela
+  podría hacer que ese camino más oscuro fuera mucho más horrible y condenatorio
+  para el jugador y los personajes con los que interactúa. Además, sería genial
+  ver que la narrativa fuera más espeluznante o inquietante como una forma de
+  distinguirse aún más del tipo de contenido de Harry Potter que seguramente
+  vendrá.
+
+
+
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [medical lab testing equipment for sale](https://www.medglobalgroup.com/products/equipment/laboratory)
+
+
+  [mammography ultrasound for sale](https://www.medglobalgroup.com/products/equipment/mammography)
+
+
+  [medical furniture for sale](https://www.medglobalgroup.com/products/equipment/furniture)
+
+
+  [medical examination lamps for sale](https://www.medglobalgroup.com/products/equipment/lamps)
 ---
