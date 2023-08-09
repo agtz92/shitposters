@@ -1,5 +1,6 @@
 ---
-title: La sorprendente película de terror del 2023, "Talk to Me", tendrá una secuela.
+title: '"El Exorcista sigue siendo la película más aterradora de todos los
+  tiempos, gracias a William Friedkin."'
 date: 2023-08-09T06:43:02.490Z
 featuredimage: https://cdn.mos.cms.futurecdn.net/NaYMvMGZmSmDudmJ6vtUQV-970-80.jpg.webp
 categoria: Cine
