@@ -59,4 +59,24 @@ mk5: >-
 
 
   La pistola de Cal es solo otra de las cosas que los jugadores pueden personalizar a su gusto en Star Wars Jedi: Survivor, lo que les permite poner su propio toque en el uso ya poco ortodoxo de un arma de fuego por parte del fugitivo Jedi. Si bien un arma NERF real no haría mucho contra las fuerzas del Imperio, el esquema de colores brillantes de Rewskie12 es una divertida referencia a los muchos blásteres de juguete de Star Wars que existen y un brillante ejemplo de cómo Jedi: Survivor permite a los jugadores trazar su propio camino.
+
+
+
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [Examination Table For Sale](https://www.medglobalgroup.com/products/equipment/exam-table-chair)
+
+
+  [glucometer for sale](https://www.medglobalgroup.com/products/equipment/glucometers)
+
+
+  [medical implants for sale](https://www.medglobalgroup.com/products/equipment/implants)
+
+
+  [laryngoscopy instruments for sale](https://www.medglobalgroup.com/products/equipment/instruments)
 ---
