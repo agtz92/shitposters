@@ -48,11 +48,29 @@ mk4: "La única excepción a esa tendencia es la sima cerca de Lookout Landing, 
   de tutorial. Esto significa que Nintendo probablemente no quiso arriesgarse a
   que los jugadores se lo perdieran, incorporándola así a la misión principal
   del juego"
-mk5: Independientemente de lo que le haya sucedido a los santuarios de Breath of
+mk5: >-
+  Independientemente de lo que le haya sucedido a los santuarios de Breath of
   the Wild, es probable que sus contrapartes en la secuela mantengan a los
   jugadores ocupados durante aún más tiempo. Esto se debe en gran parte a la
   adición de la región de las Islas Celestiales, que contiene docenas de estas
   mazmorras en miniatura por descubrir, mientras que la versión de Tears of the
   Kingdom del mapa de la superficie de Hyrule ofrece la misma cantidad de
   santuarios que Breath of the Wild.
+
+
+
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [medical monitor for sale](https://www.medglobalgroup.com/products/equipment/monitors)
+
+  [mri for sale](https://www.medglobalgroup.com/products/equipment/mri)
+
+  [neonatal equipment for sale](https://www.medglobalgroup.com/products/equipment/neonatal)
+
+  [nerve stimulator device for sale](https://www.medglobalgroup.com/products/equipment/nerve-stimulator)
 ---
