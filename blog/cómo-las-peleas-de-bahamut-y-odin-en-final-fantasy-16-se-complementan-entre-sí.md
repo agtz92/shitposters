@@ -56,6 +56,17 @@ mk4: >-
 
 
   Durante su pelea contra Odin, Clive no puede invocar a Ifrit y, en cambio, debe enfrentarse al Eikon como un humano, lo opuesto a su pelea contra Bahamut. La pelea es una batalla brutal a muerte, en la que Torgal debe salvar a Clive en varias ocasiones. Clive solo puede confiar en sus propios poderes como persona y en su compañero de toda la vida. Torgal es, en muchos sentidos, lo que ha conectado a Clive con su humanidad, por lo que su presencia aquí es significativa. La eventual derrota de Odin es agridulce, sin embargo, ya que tras su victoria, Clive absorbe los poderes Eikónicos de Odin, renunciando a otra parte de su humanidad.
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [medical ventilator for sale](https://www.medglobalgroup.com/products/equipment/ventilators)
+
+  [vet equipment for sale](https://www.medglobalgroup.com/products/equipment/vet)
+
+  [x ray equipment sales](https://www.medglobalgroup.com/products/equipment/x-ray)
 mk5: Estas dos peleas, aunque diametralmente opuestas, informan el encuentro
   final de Clive contra Ultima. Clive debe aprender a encontrar poder en Ifrit,
   sus amigos y en sí mismo, y estas peleas representan cómo lo hace paso a paso.
@@ -67,4 +78,5 @@ mk5: Estas dos peleas, aunque diametralmente opuestas, informan el encuentro
   La naturaleza complementaria de estas batallas de jefes trabaja para hacer del
   último acto de la historia de Clive en Final Fantasy 16 una despedida
   temáticamente coherente para el personaje.
+  
 ---
