@@ -2,12 +2,13 @@
 title: "Después de 16 meses y 3 continentes, este fanático de Animal Crossing:
   New Horizons finalmente ha visto todas sus obras de arte en la vida real."
 date: 2023-08-18T02:06:37.257Z
-featuredimage: https://cdn.mos.cms.futurecdn.net/njwjD4DDeBuUzkPczAJZeN-970-80.jpg.webp
+featuredimage: https://cdn.mos.cms.futurecdn.net/AD3quH3QA435SxiGf2yt3N-970-80.jpeg.webp
 categoria: Cine
 tags:
-  - "#Cine"
-  - "#Thebatman"
-  - "#DC"
+  - ""
+  - "#Gaming"
+  - "#AnimalCrossing"
+  - "#Videojuegos"
 short-description: "Un fan de Animal Crossing: New Horizons finalmente ha
   llegado al final de su viaje, después de desafiarse a sí mismo a ver cada
   pieza de arte del juego en la vida real."
