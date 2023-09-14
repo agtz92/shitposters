@@ -74,9 +74,6 @@ const Categorias = ({ pageContext, data }) => {
                       title={title}
                       img={featuredimage}
                       description={short_description}
-                      tag1={tags[0]}
-                      tag2={tags[1]}
-                      tag3={tags[2]}
                     />
                   </Link>
                 </li>
