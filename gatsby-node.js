@@ -103,10 +103,20 @@ exports.createResolvers = ({ createResolvers }) => {
       relatedPosts: {
         type: ["MarkdownRemark"],
         resolve: (source, args, context, info) => {
-          // Convert comma-separated tags string to an array
-          const tagsArray = source.frontmatter.tags
-            .split(",")
-            .map(tag => tag.trim())
+          let tagsArray = []
+
+          if (Array.isArray(source.frontmatter.tags)) {
+            // If it's already an array, use it as is
+            tagsArray = source.frontmatter.tags
+          } else if (typeof source.frontmatter.tags === "string") {
+            // If it's a string, split it into an array (you can adjust the delimiter)
+            tagsArray = source.frontmatter.tags
+              .split(",")
+              .map(tag => tag.trim())
+          } else if (source.frontmatter.tags) {
+            // Handle other data types or single tag case
+            tagsArray = [source.frontmatter.tags]
+          }
 
           return context.nodeModel.runQuery({
             query: {
