@@ -79,7 +79,7 @@ export default function BlogPost({ data }) {
                 <Heading color="#edf2f4">{post.frontmatter.title}</Heading>
                 <div className="parpost light">{post.frontmatter.date}</div>
                 <div className="tags-div">
-                  {post.frontmatter.tags.map(tag => (
+                  {post.frontmatter.tags?.map(tag => (
                     <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`}>
                       <div className="div-tag">{tag}</div>
                     </Link>

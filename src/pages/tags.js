@@ -25,7 +25,7 @@ const TagsPage = ({
             <div>
             <Heading color="color1">Todos los tags</Heading>
             <ul>
-                {group.map(tag => (
+                {group?.map(tag => (
                 <li key={tag.fieldValue}>
                     <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
                     <Heading color="color4">{tag.fieldValue} ({tag.totalCount})</Heading>

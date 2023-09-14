@@ -53,7 +53,7 @@ export default function Home({ data }) {
             <div className="grid-layout">
               <div className="gridsection">
                 
-                {data.item1.edges.map(({ node }) => (
+                {data.item1.edges?.map(({ node }) => (
                     
                     <Link id="w-node-_530590b4-77ef-e9bc-deb9-6f651d7f57c9-c67b1059" to={node.fields.slug} className="divgrid w-inline-block">
                       <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
@@ -71,7 +71,7 @@ export default function Home({ data }) {
                     
                 ))}
 
-                {data.item2.edges.map(({ node }) => (
+                {data.item2.edges?.map(({ node }) => (
                     
                     <Link id="w-node-_33bb8955-93ca-ed05-9390-0e5382ecacb1-c67b1059" to={node.fields.slug} class="divgrid w-inline-block">
                       <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
@@ -89,7 +89,7 @@ export default function Home({ data }) {
                     
                 ))}
 
-                {data.item3.edges.map(({ node }) => (
+                {data.item3.edges?.map(({ node }) => (
                     <Link id="w-node-ac80eb26-6fab-fea2-291b-b206073a141c-c67b1059" to={node.fields.slug} class="divgrid w-inline-block">
                       <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
                       <div className="gridcontent">
@@ -105,7 +105,7 @@ export default function Home({ data }) {
                     </Link>
                 ))}
 
-                {data.item4.edges.map(({ node }) => (
+                {data.item4.edges?.map(({ node }) => (
                     <Link id="w-node-_4a979408-d186-ce14-87f8-436f8c51704c-c67b1059" to={node.fields.slug} class="divgrid w-inline-block">
                       <img srcSet={node.frontmatter.featuredimage} loading="lazy" alt="" className="imagegrid"/>
                       <div className="gridcontent">
@@ -127,7 +127,7 @@ export default function Home({ data }) {
             </div>
             <div className="_5050-holder">
               <div className="_5050-div">
-                {data.item5.edges.map(({ node }) => (
+                {data.item5.edges?.map(({ node }) => (
               <Link to={node.fields.slug}><PostBlockLarge img={node.frontmatter.featuredimage} title={node.frontmatter.title} description={node.frontmatter.short_description} categoria={node.frontmatter.categoria} date={node.frontmatter.date}/></Link>  
               ))}
               </div>

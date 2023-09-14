@@ -39,7 +39,7 @@ const CategoriasPage = ({
             <div>
                 <Heading color="#edf2f4" alignment="center">Categorías</Heading>
                 <div className="divpadding">
-                    {group.map(categoria => (
+                    {group?.map(categoria => (
                         <ul key={categoria.fieldValue}>
                             <Link to={`/categorias/${kebabCase(categoria.fieldValue)}/`}>
                                 <InfoBlock title={categoria.fieldValue} img={imageMapper[(categoria.fieldValue).split(' ').join('')]}  description={`Ve todos nuestros datos curiosos sobre ${categoria.fieldValue}`}/>
