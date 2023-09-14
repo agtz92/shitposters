@@ -20,7 +20,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 //create Pages
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
- const result = await graphql(`
+  const result = await graphql(`
     {
       postsRemark: allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] }
@@ -49,7 +49,7 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     }
   `)
- // handle errors
+  // handle errors
   if (result.errors) {
     reporter.panicOnBuild(`Error while running GraphQL query.`)
     return
@@ -96,13 +96,18 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 }
 
-//Resolver for related posts
+// Resolver for related posts
 exports.createResolvers = ({ createResolvers }) => {
   const resolvers = {
     MarkdownRemark: {
       relatedPosts: {
-        type: ['MarkdownRemark'],
+        type: ["MarkdownRemark"],
         resolve: (source, args, context, info) => {
+          // Convert comma-separated tags string to an array
+          const tagsArray = source.frontmatter.tags
+            .split(",")
+            .map(tag => tag.trim())
+
           return context.nodeModel.runQuery({
             query: {
               filter: {
@@ -111,17 +116,17 @@ exports.createResolvers = ({ createResolvers }) => {
                 },
                 frontmatter: {
                   tags: {
-                    in: source.frontmatter.tags,
+                    in: tagsArray, // Use the tags array
                   },
                 },
               },
             },
-            type: 'MarkdownRemark',
+            type: "MarkdownRemark",
           })
         },
       },
     },
   }
-  
+
   createResolvers(resolvers)
 }
