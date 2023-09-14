@@ -81,7 +81,7 @@ mk4: >-
 
   Si por alguna razón los jugadores pierden el Ventilador Zonai cercano, pueden conseguir uno propio a través de una cápsula de Ventilador Zonai de un Dispensador Zonai. Hay uno en el Pueblo Kakariko, en el Sitio de Construcción de Hudson* y en el Puente Digdogg. También hay muchos Dispensadores en las Islas del Cielo.
 mk5: >-
-  \*El del Sitio de Construcción de Hudson contiene un Ventilador Zonai.
+  *El del Sitio de Construcción de Hudson contiene un Ventilador Zonai.
 
 
   Desafortunadamente, Link no podrá ver Gorondia, pero Dugby le dará una Carga Zonai como agradecimiento por su ayuda. Es una recompensa bastante modesta, pero las Cargas Zonai tienen sus usos. Se pueden usar para cargar la Batería Zonai de Link cuando está usando Dispositivos Zonai. También se pueden usar en los Dispensadores Zonai para generar cápsulas de Dispositivos Zonai.

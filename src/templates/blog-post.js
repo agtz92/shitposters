@@ -6,26 +6,31 @@ import Layout from "../layouts/layout"
 import Heading from "../components/heading"
 import kebabCase from "lodash/kebabCase"
 import InfoBlock from "../components/infoblock"
-import PropTypes from 'prop-types'
-import showdown from 'showdown'
+import PropTypes from "prop-types"
+import showdown from "showdown"
 
 export default function BlogPost({ data }) {
-
   const post = data.item1
   //
 
-  const perro = "https://www.10datos.com/";
+  const perro = "https://www.10datos.com/"
   const converter = new showdown.Converter()
 
   const MarkdownContent = ({ content, className }) => (
-    <div className={className} dangerouslySetInnerHTML={{ __html: converter.makeHtml(content) }} />
+    <div
+      className={className}
+      dangerouslySetInnerHTML={{ __html: converter.makeHtml(content) }}
+    />
   )
   return (
-    <React.Fragment>
-      <Helmet >
+    <>
+      <Helmet>
         <meta charSet="utf-8" />
         <title>"{data.item1.frontmatter.title} | 10datos"</title>
-        <meta name="description" content={data.item1.frontmatter.short_description} />
+        <meta
+          name="description"
+          content={data.item1.frontmatter.short_description}
+        />
         <script type="application/ld+json">
           {`
                 {
@@ -61,46 +66,86 @@ export default function BlogPost({ data }) {
           <div className="div-grey-post" />
           <div className="blog-post">
             <div className="top-post">
-              <div className="featuredimage" ><img src={post.frontmatter.featuredimage} loading="lazy" width="500" alt="" className="img-large-post" /></div>
+              <div className="featuredimage">
+                <img
+                  src={post.frontmatter.featuredimage}
+                  loading="lazy"
+                  width="500"
+                  alt=""
+                  className="img-large-post"
+                />
+              </div>
               <div className="short-description">
-
-                <Heading color="dark">{post.frontmatter.title}</Heading>
+                <Heading color="#edf2f4">{post.frontmatter.title}</Heading>
                 <div className="parpost light">{post.frontmatter.date}</div>
                 <div className="tags-div">
-                  {post.frontmatter.tags.map((tag) => (
-                    <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`}><div className="div-tag">{tag}</div></Link>
-                  ))}</div>
+                  {post.frontmatter.tags.map(tag => (
+                    <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`}>
+                      <div className="div-tag">{tag}</div>
+                    </Link>
+                  ))}
+                </div>
                 <p className="parpost">{post.frontmatter.short_description}</p>
               </div>
             </div>
-            <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk1) }} />
-            <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk2) }} />
-            <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk3) }} />
-            <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk4) }} />
-            <div className="div-text-post" dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.frontmatter.mk5) }} />
-            {post.relatedPosts && <div className='related-posts'>
-              <Heading color="dark">Más artículos relacionados</Heading>
-              {post.relatedPosts?.map(({ frontmatter, fields }) => {
-                const { slug } = fields
-                const { title } = frontmatter
-                const { short_description } = frontmatter
-                const { featuredimage } = frontmatter
-                return (
-                  <li key={title}>
-                    <Link to={slug}>
-                      <InfoBlock title={title} img={featuredimage} description={short_description} />
-                    </Link>
-                  </li>
-                )
-              })}
-            </div>}
+            <div
+              className="div-text-post"
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(post.frontmatter.mk1),
+              }}
+            />
+            <div
+              className="div-text-post"
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(post.frontmatter.mk2),
+              }}
+            />
+            <div
+              className="div-text-post"
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(post.frontmatter.mk3),
+              }}
+            />
+            <div
+              className="div-text-post"
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(post.frontmatter.mk4),
+              }}
+            />
+            <div
+              className="div-text-post"
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(post.frontmatter.mk5),
+              }}
+            />
+            {post.relatedPosts && (
+              <div className="related-posts">
+                <Heading color="color2">Más artículos relacionados</Heading>
+                {post.relatedPosts?.map(({ frontmatter, fields }) => {
+                  const { slug } = fields
+                  const { title } = frontmatter
+                  const { short_description } = frontmatter
+                  const { featuredimage } = frontmatter
+                  return (
+                    <li key={title}>
+                      <Link to={slug}>
+                        <InfoBlock
+                          title={title}
+                          img={featuredimage}
+                          description={short_description}
+                        />
+                      </Link>
+                    </li>
+                  )
+                })}
+              </div>
+            )}
           </div>
 
           <div className="div-grey-post" />
         </div>
-
       </Layout>
-    </React.Fragment>
+    </>
   )
 }
 
@@ -121,8 +166,8 @@ export const query = graphql`
         mk4
         mk5
       }
-      fields{
-          slug
+      fields {
+        slug
       }
       relatedPosts {
         frontmatter {
@@ -137,10 +182,5 @@ export const query = graphql`
         }
       }
     }
-    
-    
-
-
-
   }
 `

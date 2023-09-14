@@ -37,7 +37,7 @@ const CategoriasPage = ({
             
         <div>
             <div>
-                <Heading color="dark" alignment="center">Categorías</Heading>
+                <Heading color="#edf2f4" alignment="center">Categorías</Heading>
                 <div className="divpadding">
                     {group.map(categoria => (
                         <ul key={categoria.fieldValue}>

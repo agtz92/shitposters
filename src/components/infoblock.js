@@ -14,8 +14,8 @@ export default function InfoBlock(props) {
                 <img src={props.img} loading="lazy" width="250" alt="" className="img-large-post" />
             </div>
             <div className="div-large-post-content">
-                <Heading color="dark">{props.title}</Heading>
-                <div>{props.description}</div>
+                <Heading color="color2">{props.title}</Heading>
+                <div className="color2">{props.description}</div>
                 {props.tag1 && <div className="tags-div">
                     <div className="div-tag">{props.tag1}</div>
                     <div className="div-tag">{props.tag2}</div>

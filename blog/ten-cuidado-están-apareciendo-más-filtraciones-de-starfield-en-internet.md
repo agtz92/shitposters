@@ -1,5 +1,5 @@
 ---
-title: "Ten cuidado: están apareciendo más filtraciones de Starfield en Internet."
+title: "Ten cuidado están apareciendo más filtraciones de Starfield en Internet."
 date: 2023-08-24T07:24:17.867Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/starfield-2.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming

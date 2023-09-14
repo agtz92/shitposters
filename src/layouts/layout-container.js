@@ -5,7 +5,7 @@ import Footer from "../components/footer";
 
 export default function LayoutContainer({ children }) {
   return (
-      <React.Fragment>
+      <>
           <div className="layout-holder">
             <NavBar/>
                 <div className="layout-container">
@@ -13,7 +13,7 @@ export default function LayoutContainer({ children }) {
                 </div>
             <Footer/>
         </div>
-      </React.Fragment>
+      </>
     
   )
 }

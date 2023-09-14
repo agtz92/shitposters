@@ -17,13 +17,16 @@ const Tags = ({ pageContext, data }) => {
   } en "${tag}"`
 
   return (
-    <React.Fragment>
-          <Helmet >
-                <meta charSet="utf-8" />
-                <title>"{tag} | 10datos"</title>
-                <meta name="description" content="10datos.com tags promoción, entretenimiento y propagación de información de último minuto" />
-                <script type="application/ld+json">
-                  {`
+    <>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>"{tag} | 10datos"</title>
+        <meta
+          name="description"
+          content="10datos.com tags promoción, entretenimiento y propagación de información de último minuto"
+        />
+        <script type="application/ld+json">
+          {`
                 {
                   "@context": "https://schema.org",
                   "@type": "BlogPosting",
@@ -50,36 +53,42 @@ const Tags = ({ pageContext, data }) => {
                   "dateModified": "Apr 2021"
                 }
                 `}
-                </script>
-        </Helmet>
-          <LayoutContainer>
-          <div>
-            <Heading color="dark">{tagHeader}</Heading>
-            <ul>
-              {edges.map(({ node }) => {
-                const { slug } = node.fields
-                const { title } = node.frontmatter
-                const { featuredimage } = node.frontmatter
-                const { short_description } = node.frontmatter
-                const { tag } = pageContext
-                return (
-                  <li key={slug}>
-                    <Link to={slug}>
-                      <InfoBlock title={title} img={featuredimage}  description={short_description} tags={tag}/>
-                    </Link>
-                  </li>
-                )
-              })}
-            </ul>
-            {/*
+        </script>
+      </Helmet>
+      <LayoutContainer>
+        <div>
+          <Heading color="dark">{tagHeader}</Heading>
+          <ul>
+            {edges.map(({ node }) => {
+              const { slug } = node.fields
+              const { title } = node.frontmatter
+              const { featuredimage } = node.frontmatter
+              const { short_description } = node.frontmatter
+              const { tag } = pageContext
+              return (
+                <li key={slug}>
+                  <Link to={slug}>
+                    <InfoBlock
+                      title={title}
+                      img={featuredimage}
+                      description={short_description}
+                      tags={tag}
+                    />
+                  </Link>
+                </li>
+              )
+            })}
+          </ul>
+          {/*
                     This links to a page that does not yet exist.
                     You'll come back to it!
                   */}
-            <Link to="/tags"><Heading color="color1">Todos los tags</Heading></Link>
-          </div>
-          </LayoutContainer>
-    </React.Fragment>
-    
+          <Link to="/tags">
+            <Heading color="color1">Todos los tags</Heading>
+          </Link>
+        </div>
+      </LayoutContainer>
+    </>
   )
 }
 

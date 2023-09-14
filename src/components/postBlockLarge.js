@@ -13,7 +13,7 @@ export default function PostBlockLarge(props) {
             <img src={props.img} loading="lazy" width="250" alt="" className="img-large-post"/>
             </div>
                 <div className="div-large-post-content">
-                <Heading color="dark">{props.title}</Heading> 
+                <Heading color="color2">{props.title}</Heading> 
                     <div className="div-block-11">
                         <div className="categblock">
                             <div className="autdate">
@@ -24,7 +24,7 @@ export default function PostBlockLarge(props) {
                         </div>
                         <div>{props.nivel}</div>
                     </div>
-                <div>{props.description}</div>
+                <div className="color2">{props.description}</div>
                 </div>
             </div>
         

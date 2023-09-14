@@ -12,7 +12,7 @@ import logo from "../images/logo_small.png"
 
 export default function Home({ data }) {
   return (
-    <React.Fragment>
+    <>
       <Helmet >
                 <meta charSet="utf-8" />
                 <title>"10datos que no sabías | Promociónate con nosotros!"</title>
@@ -140,7 +140,7 @@ export default function Home({ data }) {
             <div><Link to="/categorias" ><div className="div-tag marginbottom">Ve todas las categorias</div></Link></div>
             </div>
         </Layout>
-    </React.Fragment>
+    </>
   
     
   ) 
