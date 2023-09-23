@@ -29,24 +29,19 @@ mk2: >-
   #### 10 Polis
 
 
-  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-polis-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\"")
-
+  ![ Naves ](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-polis-ship.jpg " Naves")
 
 
   Nave Starfield Polis
 
 
-
   6 miembros de la tripulación
-
 
 
   Astillero Deimos
 
 
-
   Precio: 263.000
-
 
 
   Aquellos que se toman en serio sus naves probablemente visitarán el Astillero Deimos y encontrarán allí las naves Polis y Polis II. Afortunadamente, Deimos no solo atiende a las facciones militares, sino que los civiles también pueden hacer compras allí. En cuanto al espacio para la tripulación, esta es una de las mejores opciones.
@@ -58,24 +53,19 @@ mk2: >-
   #### 9 Murasame
 
 
-  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-murasame-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\"")
-
+  ![ Naves que llevan la mayor tripulació](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-murasame-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación")
 
 
   Nave Starfield Murasame
 
 
-
   6 miembros de la tripulación
-
 
 
   Técnico de naves Gagarin
 
 
-
   Precio: 225.000
-
 
 
   Gagarin no es precisamente un lugar que muchos visitarán orgánicamente, pero aquellos que planeen completar la misión personal de Barrett probablemente terminarán encontrando su camino aquí eventualmente. El técnico local de naves tiene la posibilidad de vender la Murasame, que no solo tiene un gran aspecto, sino también buenas estadísticas.
@@ -87,24 +77,19 @@ mk2: >-
   #### 8 Voyager
 
 
-  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/class-c-voyager-ship-in-starfield.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\"")
-
+  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/class-c-voyager-ship-in-starfield.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\\"")
 
 
   Nave clase C Voyager en Starfield
 
 
-
   6 miembros de la tripulación
-
 
 
   Técnico de naves Cydonia
 
 
-
   Precio: 319.000
-
 
 
   La nave Voyager es la que más probablemente aparezca en el inventario del técnico de naves ubicado fuera de Cydonia en Marte. Antes de entrar en la colonia minera en su interior, giren a la izquierda hacia el pequeño edificio para encontrar al vendedor local.
@@ -116,24 +101,19 @@ mk2: >-
   #### 7 Abyss Trekker
 
 
-  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-abyss-trekker-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\"")
-
+  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-abyss-trekker-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\\"")
 
 
   Nave Starfield Abyss Trekker
 
 
-
   6 miembros de la tripulación
-
 
 
   Técnico de naves Paradiso
 
 
-
   Precio: 345.000
-
 
 
   Antes de llegar a las playas de Paradiso, los jugadores deben pasar por el técnico de naves local para conseguir la Abyss Trekker. Donde carece de espacio de carga con solo 340 unidades disponibles, muestra mucho potencial con su inmensa distancia de salto de 30 años luz y espacio para 6 miembros de la tripulación.
