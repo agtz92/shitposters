@@ -29,7 +29,7 @@ mk2: >-
   #### 10 Polis
 
 
-  ![ Naves ](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-polis-ship.jpg " Naves")
+  ![Naves](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-polis-ship.jpg "Naves")
 
 
   Nave Starfield Polis
@@ -53,7 +53,7 @@ mk2: >-
   #### 9 Murasame
 
 
-  ![ Naves que llevan la mayor tripulació](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-murasame-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación")
+  ![Naves](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-murasame-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Naves")
 
 
   Nave Starfield Murasame
@@ -77,7 +77,7 @@ mk2: >-
   #### 8 Voyager
 
 
-  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/class-c-voyager-ship-in-starfield.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\\"")
+  ![Naves](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/class-c-voyager-ship-in-starfield.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Naves")
 
 
   Nave clase C Voyager en Starfield
@@ -101,7 +101,7 @@ mk2: >-
   #### 7 Abyss Trekker
 
 
-  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-abyss-trekker-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\\"")
+  ![Naves](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-abyss-trekker-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Naves")
 
 
   Nave Starfield Abyss Trekker
@@ -124,24 +124,19 @@ mk3: >-
   #### 6 Vanquisher II
 
 
-  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-vanquisher-ii.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\"")
-
+  ![Naves](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-vanquisher-ii.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Naves")
 
 
   Nave Starfield Vanquisher II
 
 
-
   6 miembros de la tripulación
-
 
 
   Astillero Stroud-Eklund
 
 
-
   Precio: 414.000
-
 
 
   Para obtener esta nave, los jugadores deberán visitar otro astillero de una corporación. Esta vez es el de Stroud-Eklund, que la mayoría descubrirá de todos modos durante la misión secundaria Overdesigned. El vendedor local está vendiendo algunas naves sólidas aquí, incluyendo la Vanquisher II.
@@ -153,24 +148,19 @@ mk3: >-
   #### 5 Kepler R
 
 
-  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield-kepler-r-ship-1.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\"")
-
+  ![Naves](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield-kepler-r-ship-1.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Naves")
 
 
   Nave Starfield Kepler R
 
 
-
   6 miembros de la tripulación
-
 
 
   Recompensa de la misión secundaria Overdesigned
 
 
-
   Precio: Gratis
-
 
 
   Completar la misión secundaria Overdesigned en Starfield podría dar como resultado esta nave única y muy útil Kepler R. Con 6 espacios para miembros de la tripulación, esta nave es potencialmente lo que el equipo de Stroud-Eklund creará siguiendo los comentarios del jugador durante la misión.
@@ -181,24 +171,19 @@ mk4: >-
   #### 4 Stronghold
 
 
-  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-stronghold-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\"")
-
+  ![Naves](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-stronghold-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Naves")
 
 
   Nave Starfield Stronghold
 
 
-
   6 miembros de la tripulación
-
 
 
   Técnico de naves de la ciudad de Akila
 
 
-
   Precio: 400.000
-
 
 
   El nombre de Stronghold revela exactamente lo que hace mejor: ser defensiva. Un casco fantástico, emparejado con escudos fantásticos y toneladas de distancia de salto gravitacional. Es el sueño hecho realidad de un explorador de la Constelación, lo que la convierte en la nave perfecta de 6 tripulantes para los jugadores que quieran llevar a tantos amigos como sea posible.
@@ -210,24 +195,19 @@ mk4: >-
   #### 3 Dullahan II
 
 
-  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-dullahan-ii-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\"")
-
+  ![Naves](https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/09/starfield-dullahan-ii-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Naves")
 
 
   Nave Starfield Dullahan II
 
 
-
   6 miembros de la tripulación
-
 
 
   Vendedor de naves de Hopetown
 
 
-
   Precio: 257.000
-
 
 
   Algunos pueden haber pasado por alto al vendedor de naves en Hopetown, lo cual es una lástima, ya que el Dullahan II es una nave fantástica para los capitanes ansiosos de surcar las estrellas en una nave de 6 tripulantes. Un reactor de clase C significa que hay mucha potencia para distribuir, aunque la mayoría irá a los motores, los escudos y el sistema de impulsión gravitatoria.
@@ -238,24 +218,19 @@ mk5: >-
   #### 2 Crimson Fleet Wight II
 
 
-  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/class-c-crimson-fleet-wight-ship-in-starfield.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\"")
-
+  ![Naves](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/class-c-crimson-fleet-wight-ship-in-starfield.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Naves")
 
 
   Nave clase C Crimson Fleet Wight en Starfield
 
 
-
   7 miembros de la tripulación
-
 
 
   Vendedor de naves The Key
 
 
-
   Precio: 339.000
-
 
 
   Si 6 miembros de la tripulación simplemente no son suficientes, entonces no busquen más allá de este exclusivo y único Crimson Fleet Wight II (en la imagen se muestra el Wight regular, pero busquen la versión mejorada que aumenta el espacio de la tripulación a 7). Esta nave de estilo pirata altamente exclusiva se pone a disposición de los jugadores si comienzan la misión SysDef y Crimson Fleet, y se puede comprar en The Key, el escondite de la Crimson Fleet.
@@ -267,26 +242,19 @@ mk5: >-
   #### 1 Dragonfire II
 
 
-  ![ Naves que llevan la mayor tripulación"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield-dragonfire-ii-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Naves que llevan la mayor tripulación\"")
-
-
-
+  ![Naves](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield-dragonfire-ii-ship.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Naves")
 
 
   Nave Starfield Dragonfire II
 
 
-
   7 miembros de la tripulación
-
 
 
   Técnico de naves Eleos Retreat
 
 
-
   Precio: 324.000
-
 
 
   Una opción mucho más accesible (pero quizás menos única que el Wight II) es la nave Dragonfire II que se puede comprar en Eleos Retreat. La oficina del técnico de naves está en un edificio a la derecha cuando se enfrenta al centro de retiro, donde es probable que los jugadores terminen después de escuchar al azar sobre el retiro de un guardia de la ciudad.
