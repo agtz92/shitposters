@@ -29,12 +29,7 @@ mk1: >-
   #### ¿Deben los jugadores matar o perdonar a Tomisar?
 
 
-  ![Lealtades divididas)?"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield-tomisar-quest-guide.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Lealtades divididas)?\"")
-
-
-  #### 
-
-
+  ![Lealtades divididas](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield-tomisar-quest-guide.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Lealtades divididas")
 
 
   Dado que el resultado no afecta la historia, los jugadores tienen la libertad de matar o perdonar a Tomisar. Cada elección conlleva tanto consecuencias positivas como negativas. Asesinar a Tomisar proporcionará alivio a la necesidad de venganza de Andreja, mientras que salvarlo mantiene la esperanza de Andreja de volver a conectarse con la Casa Va'ruun.
@@ -42,16 +37,13 @@ mk2: >-
   #### Todas las consecuencias en la misión 'Lealtades divididas'
 
 
-  ![Lealtades divididas)?"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/should-players-kill-tomisar-starfield-1.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Lealtades divididas)?\"")
-
-
+  ![Lealtades divididas](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/should-players-kill-tomisar-starfield-1.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Lealtades divididas")
 
 
   En el enfrentamiento con Tomisar, los jugadores tienen tres opciones: alentar a Andreja a matarlo, matarlo en su nombre o persuadir a Andreja para que no mate a Tomisar. Las dos primeras opciones harán que Andreja pierda su conexión con su Casa, mientras que la tercera opción la dejará preocupada por el futuro.
 
 
   #### Andreja mata a Tomisar
-
 
 
   Al seleccionar la opción de diálogo "Dales a tus amigos la venganza que merecen", los jugadores pueden alentar a Andreja a asesinar a Tomisar, buscando venganza por la sangre de sus amigos. Aunque esta elección no afecta la relación de los jugadores con Andreja, ella albergará preocupaciones de que la Gran Serpiente nunca la perdonará por esta acción.
@@ -68,13 +60,10 @@ mk4: >-
 
   La tercera opción de diálogo, "Lo haré yo, para que tú no tengas que hacerlo", brinda a los jugadores la oportunidad de asesinar a Tomisar en lugar de Andreja. Aunque este camino puede parecer que preserva su conexión con la Casa Va'ruun, en realidad, Andreja seguirá perdiendo su afiliación con ellos.
 mk5: >-
-  
-
   #### Qué sucede después de enfrentarse a Tomisar
 
 
-  ![Lealtades divididas)?"](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield-andreja-tomisar-decision-consequences.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Lealtades divididas)?\"")
-
+  ![Lealtades divididas](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield-andreja-tomisar-decision-consequences.jpg?q=50&fit=crop&w=1500&dpr=1.5 "Lealtades divididas")
 
 
   imagen que muestra lo que sucede después de matar o salvar a Tomisar en Starfield.
