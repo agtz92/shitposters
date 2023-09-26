@@ -16,7 +16,7 @@ mk1: >-
   #### Cómo iniciar la misión de los cortes de energía
 
 
-  ![](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield-brownout-joyce-1.jpg?q=50&fit=crop&w=1500&dpr=1.5)
+  ![sf](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield-brownout-joyce-1.jpg?q=50&fit=crop&w=1500&dpr=1.5 "sf")
 mk2: Cuando los jugadores ingresen a New Homestead, verán una serie de escaleras
   directamente frente a ellos y algunos módulos hidropónicos a la derecha. Entre
   la entrada y los módulos hidropónicos hay un ascensor, y a diferencia de los
