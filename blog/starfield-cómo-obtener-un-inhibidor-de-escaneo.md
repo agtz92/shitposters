@@ -24,7 +24,7 @@ mk2: >-
   #### Cómo obtener un Inhibidor de Escaneo en Starfield
 
 
-  ![inhibidor de escaneo](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/06/starfield-ship-space-flight-combat.jpg?q=50&fit=crop&w=1500&dpr=1.5 "inhibidor de escaneo")
+  ![esceso](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/06/starfield-ship-space-flight-combat.jpg?q=50&fit=crop&w=1500&dpr=1.5 "esceso")
 
 
   Para obtener el Inhibidor de Escaneo en Starfield, los jugadores deben seguir estos simples pasos:
@@ -44,8 +44,6 @@ mk2: >-
 
   Elige entre las tres opciones de Inhibidor de Escaneo disponibles.
 
-
-  #### 
 
   Tipos de Inhibidores de Escaneo en Starfield
 mk3: >-
@@ -71,7 +69,7 @@ mk4: >-
   #### ¿Por qué obtener un Inhibidor de Escaneo en Starfield?
 
 
-  ![inhibidor de escaneo](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield_ship_spaceflight-1.jpg?q=50&fit=crop&w=1500&dpr=1.5 "inhibidor de escaneo")
+  ![esceso](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield_ship_spaceflight-1.jpg?q=50&fit=crop&w=1500&dpr=1.5 "esceso")
 mk5: >-
   Después de obtener un Inhibidor de Escaneo en Starfield, los jugadores pueden
   pasar por controles de seguridad sin activar alarmas. Las posibilidades de
