@@ -33,16 +33,16 @@ mk2: >-
   planetas y surcando el cosmos.
 
 
-  ![e naves gigantes."](https://preview.redd.it/ive-become-obsessed-with-building-large-ships-so-big-that-v0-4fo1pljxx6pb1.png?width=1080&crop=smart&auto=webp&s=67d14e17ba0d376c0d43511ae7575428ce3e6361 "e naves gigantes.\"")
+  ![naves](https://preview.redd.it/ive-become-obsessed-with-building-large-ships-so-big-that-v0-4fo1pljxx6pb1.png?width=1080&crop=smart&auto=webp&s=67d14e17ba0d376c0d43511ae7575428ce3e6361 "naves")
 
 
-  ![e naves gigantes."](https://preview.redd.it/ive-become-obsessed-with-building-large-ships-so-big-that-v0-x05opljxx6pb1.jpg?width=1080&crop=smart&auto=webp&s=e582b3fe07c5ae1111a8c43c40f6439900b0eeda "e naves gigantes.\"")
+  ![naves](https://preview.redd.it/ive-become-obsessed-with-building-large-ships-so-big-that-v0-x05opljxx6pb1.jpg?width=1080&crop=smart&auto=webp&s=e582b3fe07c5ae1111a8c43c40f6439900b0eeda "naves")
 
 
-  ![e naves gigantes."](https://preview.redd.it/ive-become-obsessed-with-building-large-ships-so-big-that-v0-unewnnjxx6pb1.jpg?width=1080&crop=smart&auto=webp&s=f26a37892d8506487e11c6474bec18ee3b610ec6 "e naves gigantes.\"")
+  ![naves](https://preview.redd.it/ive-become-obsessed-with-building-large-ships-so-big-that-v0-unewnnjxx6pb1.jpg?width=1080&crop=smart&auto=webp&s=f26a37892d8506487e11c6474bec18ee3b610ec6 "naves")
 
 
-  ![e naves gigantes."](https://preview.redd.it/ive-become-obsessed-with-building-large-ships-so-big-that-v0-thuneq50y6pb1.jpg?width=1080&crop=smart&auto=webp&s=25a636c3113faeb63ee854a0e190a9f568f280b3 "e naves gigantes.\"")
+  ![naves](https://preview.redd.it/ive-become-obsessed-with-building-large-ships-so-big-that-v0-thuneq50y6pb1.jpg?width=1080&crop=smart&auto=webp&s=25a636c3113faeb63ee854a0e190a9f568f280b3 "naves")
 mk3: El jugador confiesa estar "obsesionado con construir naves grandes", y el
   gran nivel de detalle en sus creaciones es evidente. Pero, lo que es más
   importante, el esfuerzo y el tiempo necesarios para diseñar y construir tales
