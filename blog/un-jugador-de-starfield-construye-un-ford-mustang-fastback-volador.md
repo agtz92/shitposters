@@ -41,21 +41,19 @@ mk3: >-
   deportivo.
 
 
+  ![Starfield](https://preview.redd.it/the-pony-wanted-a-classic-fastback-vibe-v0-pr56tckzwnpb1.jpg?width=1080&crop=smart&auto=webp&s=96660301500471cb4cb7abbd17dc21888eca15db "Starfield")
 
 
-  ![Starfield construye un Ford Mustan](https://preview.redd.it/the-pony-wanted-a-classic-fastback-vibe-v0-pr56tckzwnpb1.jpg?width=1080&crop=smart&auto=webp&s=96660301500471cb4cb7abbd17dc21888eca15db "Starfield construye un Ford Mustan")
+  ![Starfield](https://preview.redd.it/the-pony-wanted-a-classic-fastback-vibe-v0-1e2xkckzwnpb1.jpg?width=1080&crop=smart&auto=webp&s=f245dc19d5b280f353d3c9b4d405930a8d0f91e1 "Starfield")
 
 
-  ![Starfield construye un Ford Mustan](https://preview.redd.it/the-pony-wanted-a-classic-fastback-vibe-v0-1e2xkckzwnpb1.jpg?width=1080&crop=smart&auto=webp&s=f245dc19d5b280f353d3c9b4d405930a8d0f91e1 "Starfield construye un Ford Mustan")
+  ![Starfield](https://preview.redd.it/the-pony-wanted-a-classic-fastback-vibe-v0-9shmwckzwnpb1.jpg?width=1080&crop=smart&auto=webp&s=ef590d0b25541c4d5bf9f0a3e0f4425084afeced "Starfield")
 
 
-  ![Starfield construye un Ford Mustan](https://preview.redd.it/the-pony-wanted-a-classic-fastback-vibe-v0-9shmwckzwnpb1.jpg?width=1080&crop=smart&auto=webp&s=ef590d0b25541c4d5bf9f0a3e0f4425084afeced "Starfield construye un Ford Mustan")
+  ![Starfield](https://preview.redd.it/the-pony-wanted-a-classic-fastback-vibe-v0-y4p5kdkzwnpb1.jpg?width=1080&crop=smart&auto=webp&s=e751a4a97d950cdebc4a160bbf6bcddd40fe94d0 "Starfield")
 
 
-  ![Starfield construye un Ford Mustan](https://preview.redd.it/the-pony-wanted-a-classic-fastback-vibe-v0-y4p5kdkzwnpb1.jpg?width=1080&crop=smart&auto=webp&s=e751a4a97d950cdebc4a160bbf6bcddd40fe94d0 "Starfield construye un Ford Mustan")
-
-
-  ![Starfield construye un Ford Mustan](https://preview.redd.it/the-pony-wanted-a-classic-fastback-vibe-v0-iv92iekzwnpb1.jpg?width=1080&crop=smart&auto=webp&s=d7bf2c392ed38e6e7a9e9c7bfc8190ea1285c371 "Starfield construye un Ford Mustan")
+  ![Starfield](https://preview.redd.it/the-pony-wanted-a-classic-fastback-vibe-v0-iv92iekzwnpb1.jpg?width=1080&crop=smart&auto=webp&s=d7bf2c392ed38e6e7a9e9c7bfc8190ea1285c371 "Starfield")
 mk4: Si bien el creador de este Ford Mustang Fastback volador no compartió una
   lista específica de piezas junto con su nave, el hecho de que la nave tenga
   solo tres pisos y mida aproximadamente cuatro hábitats grandes sugiere que no
