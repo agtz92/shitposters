@@ -35,8 +35,7 @@ mk2: >-
   #### Explicación de la versión de Switch de Mortal Kombat 1
 
 
-  ![ Mortal Kombat 1 para Switch](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/mortal-kombat-1-switch-version-graphics.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Mortal Kombat 1 para Switch")
-
+  ![MK1](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/mortal-kombat-1-switch-version-graphics.jpg?q=50&fit=crop&w=1500&dpr=1.5 "MK1")
 
 
   El primer y más obvio problema con MK1 en la Switch es su calidad gráfica. En PS5 y Xbox Series X/S, MK1 es uno de los juegos visualmente más cautivadores de los últimos años. Los entornos son vibrantes, las animaciones faciales son realistas y en general el juego luce pulido. Lo contrario ocurre en la Switch, ya que los gráficos de MK1 en la consola se encuentran en un estado francamente inaceptable. Los modelos de personajes lucen deplorables, con cada rostro pareciendo suave y similar a una muñeca, y cualquier matiz en la animación facial está completamente ausente.
@@ -53,8 +52,7 @@ mk4: >-
   #### Cómo afecta la versión de Switch de MK1 a su reputación
 
 
-  ![ Mortal Kombat 1 para Switch](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/mortal-kombat-1-key-art.jpg?q=50&fit=crop&w=1500&dpr=1.5 " Mortal Kombat 1 para Switch")
-
+  ![MK1](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/mortal-kombat-1-key-art.jpg?q=50&fit=crop&w=1500&dpr=1.5 "MK1")
 
 
   Mortal Kombat 1 se vende por $70 en la mayoría de los mercados, lo que se ha convertido en el nuevo estándar junto con la generación actual de consolas PlayStation y Xbox. Dado este precio más alto, los fanáticos deberían poder esperar un producto de alta calidad sin importar qué versión de MK1 compren, pero claramente no es el caso aquí. Para muchos jugadores, esta podría ser la única versión de MK1 que puedan jugar, lo que manchará su percepción del juego mientras que otros podrán disfrutar de una versión mucho más pulida. Si otro juego de Mortal Kombat llega alguna vez a la Switch, es posible que los fanáticos sean más propensos a omitir esa entrega para ahorrarse el dolor de otro desorden lleno de errores y con mala calidad visual.
