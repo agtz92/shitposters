@@ -28,19 +28,19 @@ mk2: >-
   probablemente debido a su predominante color rojo.
 
 
-  ![ Fórmula 1 en el juego](https://preview.redd.it/my-f1-ship-and-some-photos-v0-pni2kchiimpb1.jpg?width=1080&crop=smart&auto=webp&s=a968e90cea99516c495f8f027b3c80e8818dc28f " Fórmula 1 en el juego")
+  ![Formula1](https://preview.redd.it/my-f1-ship-and-some-photos-v0-pni2kchiimpb1.jpg?width=1080&crop=smart&auto=webp&s=a968e90cea99516c495f8f027b3c80e8818dc28f "Formula1")
 
 
-  ![ Fórmula 1 en el juego](https://preview.redd.it/my-f1-ship-and-some-photos-v0-at5lthhiimpb1.jpg?width=1080&crop=smart&auto=webp&s=91fe4edf61ebd4620c5313a21b6e2e2c63b19dfd " Fórmula 1 en el juego")
+  ![Formula1](https://preview.redd.it/my-f1-ship-and-some-photos-v0-at5lthhiimpb1.jpg?width=1080&crop=smart&auto=webp&s=91fe4edf61ebd4620c5313a21b6e2e2c63b19dfd "Formula1")
 
 
-  ![ Fórmula 1 en el juego](https://preview.redd.it/my-f1-ship-and-some-photos-v0-pvtphhgiimpb1.png?width=1080&crop=smart&auto=webp&s=1aad9c3f9e2e2f23b600b93303974393bff45f48 " Fórmula 1 en el juego.")
+  ![Formula1](https://preview.redd.it/my-f1-ship-and-some-photos-v0-pvtphhgiimpb1.png?width=1080&crop=smart&auto=webp&s=1aad9c3f9e2e2f23b600b93303974393bff45f48 "Formula1")
 
 
-  ![ Fórmula 1 en el juego](https://preview.redd.it/my-f1-ship-and-some-photos-v0-zz31iigiimpb1.png?width=1080&crop=smart&auto=webp&s=4916eff05f0b3551108356b5086a60fef5acc69a " Fórmula 1 en el juego")
+  ![Formula1](https://preview.redd.it/my-f1-ship-and-some-photos-v0-zz31iigiimpb1.png?width=1080&crop=smart&auto=webp&s=4916eff05f0b3551108356b5086a60fef5acc69a "Formula1")
 
 
-  ![ Fórmula 1 en el juego](https://preview.redd.it/my-f1-ship-and-some-photos-v0-czjw6egiimpb1.png?width=1080&crop=smart&auto=webp&s=ff901f07d79ee39ef733078f76d2fe2d76427fec " Fórmula 1 en el juego")
+  ![Formula1](https://preview.redd.it/my-f1-ship-and-some-photos-v0-czjw6egiimpb1.png?width=1080&crop=smart&auto=webp&s=ff901f07d79ee39ef733078f76d2fe2d76427fec "Formula1")
 mk3: Junto al post se incluyó una serie de imágenes que ofrecían un vistazo más
   cercano a esta nave inspirada en la Fórmula 1 en acción. Estas imágenes
   mostraban la nave navegando por la inmensidad del espacio y también la
