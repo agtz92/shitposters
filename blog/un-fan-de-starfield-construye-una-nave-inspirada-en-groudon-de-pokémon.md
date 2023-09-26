@@ -40,16 +40,16 @@ mk3: >-
   a la forma más aerodinámica de Kyogre.
 
 
-  ![ Groudon de Pokémon"](https://preview.redd.it/last-week-i-shared-my-kyogre-ship-in-starfield-heres-my-v0-bkyq0vdo5apb1.jpg?width=1080&crop=smart&auto=webp&s=77db7cc54c4ab710d2084ce3b49dc2f4e300d896 " Groudon de Pokémon\"")
+  ![pokemon](https://preview.redd.it/last-week-i-shared-my-kyogre-ship-in-starfield-heres-my-v0-bkyq0vdo5apb1.jpg?width=1080&crop=smart&auto=webp&s=77db7cc54c4ab710d2084ce3b49dc2f4e300d896 "pokemon")
 
 
-  ![ Groudon de Pokémon"](https://preview.redd.it/last-week-i-shared-my-kyogre-ship-in-starfield-heres-my-v0-iwhe11go5apb1.jpg?width=1080&crop=smart&auto=webp&s=a2ec3684d595b1cfb061735afb6c8adbf824ac78 " Groudon de Pokémon\"")
+  ![pokemon](https://preview.redd.it/last-week-i-shared-my-kyogre-ship-in-starfield-heres-my-v0-iwhe11go5apb1.jpg?width=1080&crop=smart&auto=webp&s=a2ec3684d595b1cfb061735afb6c8adbf824ac78 "pokemon")
 
 
-  ![ Groudon de Pokémon"](https://preview.redd.it/last-week-i-shared-my-kyogre-ship-in-starfield-heres-my-v0-hawu6mio5apb1.png?width=1080&crop=smart&auto=webp&s=708b4a9984029d707089515f664f15a15e91900a " Groudon de Pokémon\"")
+  ![pokemon](https://preview.redd.it/last-week-i-shared-my-kyogre-ship-in-starfield-heres-my-v0-hawu6mio5apb1.png?width=1080&crop=smart&auto=webp&s=708b4a9984029d707089515f664f15a15e91900a "pokemon")
 
 
-  ![ Groudon de Pokémon"](https://preview.redd.it/last-week-i-shared-my-kyogre-ship-in-starfield-heres-my-v0-4pd6auqo5apb1.png?width=1080&crop=smart&auto=webp&s=6d557b14806bf3e8e5901156486ab8ccd4191f0e " Groudon de Pokémon\"")
+  ![pokemon](https://preview.redd.it/last-week-i-shared-my-kyogre-ship-in-starfield-heres-my-v0-4pd6auqo5apb1.png?width=1080&crop=smart&auto=webp&s=6d557b14806bf3e8e5901156486ab8ccd4191f0e "pokemon")
 mk4: Con tanto Groudon como Kyogre teniendo sus propios diseños de naves en
   Starfield, los fans le han preguntado al creador si planea completar el Trío
   de las Máquinas. Considerando la historia detrás de Rayquaza, Kyogre y
